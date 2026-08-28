@@ -1,0 +1,33 @@
+---
+title: "Career Readiness Project"
+subtitle: "Due: TBD · 25% of course grade"
+---
+
+<!-- TODO: write this assignment. Replace every TBD below and add the Canvas
+     assignment link once the course shell exists. -->
+
+## Purpose
+
+TBD.
+
+This project supports the course learning outcome that students *be aware of what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels*.
+
+## What to Submit
+
+- TBD.
+- The file must be submitted as a PDF.
+- Upload the PDF directly to this Canvas assignment by the deadline.
+
+## Expectations
+
+TBD.
+
+## Helpful Resources
+
+- [Georgia Tech Career Center](https://career.gatech.edu/)
+- [Résumé vs. Academic CV](../supplemental/resume-cv.qmd)
+
+## Submission Checklist
+
+- I have reviewed the document for clarity, formatting, spelling, and grammar.
+- I have submitted my work as a PDF.

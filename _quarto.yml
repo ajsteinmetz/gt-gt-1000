@@ -1,0 +1,42 @@
+project:
+  type: website
+
+website:
+  title: "GT 1000"
+  site-url: https://ajsteinmetz.github.io/gt-gt-1000/
+  repo-url: https://github.com/ajsteinmetz/gt-gt-1000
+  navbar:
+    background: "#003057"
+    foreground: "#EAAA00"
+    pinned: true
+    search: true
+    left:
+      - text: "Course Files"
+        menu:
+          - course-files/syllabus.qmd
+      - text: "Assignments"
+        menu:
+          - assignments/team-project.qmd
+          - assignments/academic-planning.qmd
+          - assignments/career-readiness.qmd
+      - text: "Supplemental"
+        menu:
+          - supplemental/resume-cv.qmd
+          - supplemental/technical-writing.qmd
+          - supplemental/peer-feedback.qmd
+      - text: "Lectures"
+        href: lectures/index.qmd
+
+format:
+  html:
+    theme: default
+    css: gatech-theme.css
+    number-sections: true
+    html-math-method: mathml
+    toc: false
+    embed-resources: false
+
+bibliography: references.bib
+
+execute:
+  freeze: auto

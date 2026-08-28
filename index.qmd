@@ -1,0 +1,130 @@
+---
+title: "Welcome Page"
+subtitle: "GT 1000: First-Year Seminar, Physics"
+---
+
+**Fall 2026 | Section D03 | CRN #94631 | 1 credit hour**
+
+**Fridays, 12:30–1:20 PM • Swann 325 • Weekly in-person attendance required**
+
+## Welcome
+
+Welcome to **GT 1000: First-Year Seminar, Physics**. This course is designed to help you make a successful transition to college by becoming better acquainted with the academic and social environments here at Georgia Tech.
+
+Through the semester you will build strategies that promote academic, social, and professional success, learn how to navigate the resources available to you at Tech, and explore what it means to be a physicist at the undergraduate, graduate, and career levels. This is a highly interactive course that requires active student participation and working collaboratively in small groups.
+
+::: {.callout-note}
+Review the full syllabus on Canvas as this home page is a truncated version (with the exception of the Course Schedule, which will remain updated here if anything changes during the semester).
+
+<!-- TODO: Canvas course ID — link this to the Canvas syllabus page once the course shell exists. -->
+:::
+
+## Course Description
+
+This seminar course is designed to help you make a successful transition to college by becoming better acquainted with the academic and social environments here at Georgia Tech. Through the course, you will acquire strategies that promote academic, social, and professional success. This is a highly interactive course that requires active student participation and working collaboratively in small groups.
+
+There are no prerequisites. This section is intended for first-year students in Physics, Astrophysics, and Applied Physics.
+
+### Learning Outcomes
+
+- Develop self-awareness and self-knowledge, particularly as it relates to academic interests and professional goals.
+- Describe your path to graduation and identify opportunities for academic and professional enrichment with the assistance of a faculty member or advisor.
+- Demonstrate the ability to lead and productively participate in collaborative projects.
+- Be aware of what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels.
+
+## Instructor Information
+
+| | |
+|---|---|
+| **Instructor** | Andrew J. Steinmetz |
+| **Email** | [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) |
+| **Office** | Howey W204 |
+| **Office Hours** | [By appointment](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
+
+## Course Schedule
+
+<!-- TODO: replace the placeholder rows below with the finalized Fall 2026 weekly schedule. -->
+
+The course meets every Friday of the semester except holidays. The schedule below may be adjusted as needed throughout the semester.
+
+| Date | Tentative Topic / Focus | Major Due Dates |
+|---|---|---|
+| TBD | Course introduction | — |
+| TBD | TBD | — |
+| TBD | TBD | **TBD** |
+| TBD | TBD | — |
+| TBD | TBD | **TBD** |
+| TBD | TBD | — |
+| TBD | Course wrap-up and reflection | **TBD** |
+
+## Assignments and Grading
+
+There are no exams in this course. Your grade is based on participation and attendance together with three projects, each weighted equally. Written assignments should be submitted on Canvas in PDF format by **11:59 PM ET** unless otherwise specified.
+
+| Course Component | Due Date | Weight |
+|---|---|---|
+| Participation, short assignments, and attendance | Weekly | 25% |
+| Team Project | TBD | 25% |
+| Academic Planning Project | TBD | 25% |
+| Career Readiness Project | TBD | 25% |
+
+### Assignment Descriptions
+
+<!-- TODO: write the full description for each project. Canvas assignment links go here once the course shell exists. -->
+
+- **Participation, short assignments, and attendance:** Attendance and active participation in each class session, along with short in-class and take-home assignments. Excessive lateness and absences (three or more per semester) can negatively impact your final grade.
+- **[Team Project](assignments/team-project.qmd):** TBD.
+- **[Academic Planning Project](assignments/academic-planning.qmd):** TBD.
+- **[Career Readiness Project](assignments/career-readiness.qmd):** TBD.
+
+## Important Links and Resources
+
+:::: {.columns}
+
+::: {.column width="50%"}
+**First-Year Resources**
+
+- [GT 1000 program](https://gt1000.gatech.edu/)
+- [Center for Academic Success](https://advising.gatech.edu/)
+- [School of Physics](https://physics.gatech.edu/)
+- [Undergraduate research (UROP)](https://urop.gatech.edu/)
+
+**Campus Resources**
+
+- [Georgia Tech Campus Calendar](https://calendar.gatech.edu/)
+- [Dean of Students class attendance verification](https://studentlife.gatech.edu/dean-students/class-attendance)
+- [Office of Disability Services / ADAPTS](https://disabilityservices.gatech.edu/)
+:::
+
+::: {.column width="50%"}
+**Policies**
+
+- [Georgia Tech Academic Honor Code](https://policylibrary.gatech.edu/student-life/academic-honor-code)
+- [Georgia Tech Student Code of Conduct](https://policylibrary.gatech.edu/student-life/student-code-conduct)
+- [Georgia Tech guidance on generative AI](https://oit.gatech.edu/ai/guidance)
+- [Georgia Tech grading system](http://registrar.gatech.edu/info/grading-system)
+- [Student-faculty expectations](http://www.catalog.gatech.edu/rules/21/)
+:::
+
+::::
+
+## A Few Important Course Notes
+
+- **Attendance is mandatory.** This is a highly interactive course, and excessive lateness or absences (three or more per semester) can negatively impact your final grade. If you will miss class, please email the instructor as soon as possible.
+- **Check your GT email and Canvas daily.** Important class announcements and information are posted to Canvas.
+- **No textbook is required.** Course materials and assignment information will be provided through Canvas.
+- **The use of generative AI is strongly discouraged.** This course is based in your own discovery, exploration, and reflection. Per the Georgia Tech Honor Code, no work produced via AI should be submitted as your own.
+- **When in doubt, ask.** If you are unsure whether a resource, collaboration, or AI use is appropriate, contact the instructor before submitting.
+
+::: {.callout-tip}
+## Next steps
+Review the [full syllabus](course-files/syllabus.qmd), note the class meeting time and location, and come to the first session ready to participate.
+:::
+
+## Copyright
+
+© 2026 Andrew J. Steinmetz. Course materials are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.
+
+### AI Disclosure
+
+Some course materials were developed with assistance from generative AI tools, including Claude (Anthropic), Copilot (Microsoft), ChatGPT (OpenAI), and Gemini (Google). All AI-generated content was reviewed, edited, and approved by the instructor before use.

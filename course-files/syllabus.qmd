@@ -1,0 +1,153 @@
+---
+title: "Syllabus"
+subtitle: "GT 1000: First-Year Seminar, Physics"
+---
+
+**Fall 2026 | Section D03 | CRN #94631 | 1 credit hour**
+
+**Fridays, 12:30–1:20 PM • Swann 325 • Weekly in-person attendance required**
+
+## Course Description
+
+This seminar course is designed to help you make a successful transition to college by becoming better acquainted with the academic and social environments here at Georgia Tech. Through the course, you will acquire strategies that promote academic, social, and professional success. This is a highly interactive course that requires active student participation and working collaboratively in small groups.
+
+### Learning Outcomes
+
+Upon successful completion of this course, students will:
+
+1. Develop self-awareness and self-knowledge, particularly as it relates to academic interests and professional goals.
+2. Describe their path to graduation and identify opportunities for academic and professional enrichment with the assistance of a faculty member or advisor.
+3. Demonstrate the ability to lead and productively participate in collaborative projects.
+4. Be aware of what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels.
+
+### Required Course Materials
+
+None.
+
+## Instructor Information
+
+| | |
+|---|---|
+| **Instructor** | Andrew J. Steinmetz |
+| **Email** | [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) |
+| **Office** | Howey W204 |
+| **Office Hours** | [By appointment](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
+
+## Course Modality Information
+
+This is an in-person course with mandatory attendance.
+
+No required textbook. Course materials and assignment information will be provided through Canvas.
+
+## Course Schedule
+
+<!-- TODO: replace the placeholder rows below with the finalized Fall 2026 weekly schedule. -->
+
+The course meets every Friday of the semester except holidays. The schedule below may be adjusted as needed throughout the semester. Please check the Canvas Homepage for the most up-to-date course schedule.
+
+| Date | Tentative Topic / Focus | Major Due Dates |
+|---|---|---|
+| TBD | Course introduction | — |
+| TBD | TBD | — |
+| TBD | TBD | **TBD** |
+| TBD | TBD | — |
+| TBD | TBD | **TBD** |
+| TBD | TBD | — |
+| TBD | Course wrap-up and reflection | **TBD** |
+
+## Assignments and Grading
+
+There are no exams in this course. Grading for the course will be broken down as follows:
+
+| Course Component | Weight |
+|---|---|
+| Participation, short assignments, and attendance | 25% |
+| Team Project | 25% |
+| Academic Planning Project | 25% |
+| Career Readiness Project | 25% |
+| **Total** | **100%** |
+
+### Assignment Descriptions
+
+<!-- TODO: write the full description and due date for each project once finalized. -->
+
+- **Participation, short assignments, and attendance:** Attendance and active participation in each class session, along with short in-class and take-home assignments. TBD.
+- **[Team Project](../assignments/team-project.qmd):** TBD.
+- **[Academic Planning Project](../assignments/academic-planning.qmd):** TBD.
+- **[Career Readiness Project](../assignments/career-readiness.qmd):** TBD.
+
+### Grading Scale
+
+Your final grade will be assigned as a letter grade according to the following scale:
+
+| Letter Grade | Percentage |
+|---|---|
+| A | 90–100% |
+| B | 80–89% |
+| C | 70–79% |
+| D | 60–69% |
+| F | 0–59% |
+
+Final numeric grades are rounded to the nearest whole percent. For example, 83.76% becomes 84%. This course is not otherwise curved. At Georgia Tech, grades are awarded on a scale of A–F with no plus/minus grades permitted.
+
+[Georgia Tech grading system](http://registrar.gatech.edu/info/grading-system)
+
+## Course and Institution Policies
+
+### Attendance
+
+This class is designed for students to become active participants, so it is vital that all students attend each class session and are fully engaged in all class activities. This means that you will need to do more than just show up at the appointed time and place — you will also need to come to class prepared to participate.
+
+Please attend every scheduled meeting on time. That said, if you are exhibiting any symptoms of illness (fever over 100.4 °F, coughing, nausea, etc.), please stay home to rest, seek medical attention if appropriate, and contact me as soon as possible.
+
+Excessive lateness and absences (three or more per semester) can negatively impact your final grade outcome. If you have extenuating circumstances, I will try to work with you to address those challenges. Please communicate early and often if you are struggling with issues that may call for accommodations.
+
+To request an excused absence, contact the Dean of Students office for class absence verification in the case of a documented illness, hospitalization, accident, death in the family, family emergency, or lengthy illness.
+
+[Dean of Students: Class Attendance](https://studentlife.gatech.edu/dean-students/class-attendance)
+
+#### Late Work
+
+**Late work is not accepted.** An assignment may be excused only through the Dean of Students office. While this is not meant to be a difficult course, all assignments are open and available for the entirety of the semester; therefore, appropriate time-management is expected.
+
+### Criteria for Successful Completion and Acceptable Student Conduct
+
+Creating an engaging and productive class experience is the responsibility of both the instructor and the students involved. To ensure you are getting the most out of our class and contributing positively to our learning environment, please be mindful of the following:
+
+1. Please create a habit of checking your GT e-mail and Canvas daily. Important class announcements and information will be posted to Canvas, and you want to make sure you are fully equipped for success.
+2. Grades will be posted to Canvas throughout the semester. It is your responsibility to keep track of your submitted assignments and grade progress throughout the semester. If something seems missing or off to you, please reach out to me to discuss.
+3. GT 1000 is designed to be informative, helpful, and fun. However, the class is graded and does carry one credit towards your degree. For that reason, it is important that all assignments you submit be high quality. Please double-check your work for spelling, capitalization, and grammatical errors. This practice is also good for creating a habit of professionalism.
+4. You can expect that, as your GT 1000 instructor, I will come to class each day ready to engage you in learning about Georgia Tech and learning how to be successful academically and professionally. Each session will be structured to encourage your active participation, so please come prepared to participate and contribute to the class.
+5. To ensure everyone feels safe, heard, and able to learn in our class, please demonstrate appropriate classroom behavior at all times. This means that you should speak and act in a respectful manner towards your classmates, your Team Leader, and your instructor.
+
+[Georgia Tech Student Code of Conduct](https://policylibrary.gatech.edu/student-life/student-code-conduct)
+
+### Academic Integrity and Generative AI
+
+GT 1000 is a class based in your own discovery, exploration, and reflection of what you want your time at Tech and professional life to be. Unpacking your thought processes based on information you acquire through campus resources is a major component of the assignments. **Therefore, the use of AI is strongly discouraged.**
+
+If you wish to use AI as part of your brainstorming process, that is fine; however, per the Georgia Tech Honor Code, no work produced via AI should be submitted as your own. If you have questions about what constitutes acceptable use, please see the instructor.
+
+The Georgia Tech Academic Honor Code applies to all work submitted in this course.
+
+[Georgia Tech Academic Honor Code](https://policylibrary.gatech.edu/student-life/academic-honor-code)
+
+[Georgia Tech OIT guidance on AI](https://oit.gatech.edu/ai/guidance)
+
+### Accommodations for Students with Disabilities
+
+If there are aspects of the instruction or design of this course that result in barriers to your inclusion or accurate assessment of achievement, please notify me as soon as possible so we can resolve the issue.
+
+Students with disabilities should also contact the Office of Disability Services (ODS), whose purpose is to collaborate with students, faculty, and staff to create a campus environment that ensures all students have an equal opportunity to access the Georgia Tech community. ODS can be reached at [404-894-2563](tel:4048942563), [dsinfo@gatech.edu](mailto:dsinfo@gatech.edu), or through the Office of Disability Services website.
+
+Please contact me ahead of time to discuss any issues related to disabilities. I am happy to work with you.
+
+[Georgia Tech Office of Disability Services](https://disabilityservices.gatech.edu/)
+
+### Student-Faculty Expectations
+
+At Georgia Tech, we believe that it is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body.
+
+In the end, simple respect for knowledge, hard work, and cordial interactions will help build the environment we seek. Therefore, I encourage you to remain committed to the ideals of Georgia Tech while in this class.
+
+[Georgia Tech student-faculty expectations](http://www.catalog.gatech.edu/rules/21/)
