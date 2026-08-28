@@ -89,10 +89,6 @@ By the end of this course, you will be able to:
 4. **Be aware of what it means to be a physicist** and explore opportunities for physicists at the undergraduate, graduate, and career levels.
 :::
 
-::: {.highlight-box}
-Outcome 4 is why we are looking at career data today, and why your résumé is the first thing you will turn in.
-:::
-
 ---
 
 ## How You Are Graded
@@ -124,7 +120,7 @@ All four components are weighted equally and there are no exams in this course. 
 
 ## Part I: What do I do with my degree?
 
-You picked this major a few weeks ago. Here is where it goes: nationally, about half of B.S. Physics majors are employed one year after graduation, and most of the rest go to graduate school.
+You picked this major a few weeks ago. Here is where it goes.
 
 ![](figs/fig1_bachelors-status.png){fig-align="center" width="80%"}
 
@@ -185,7 +181,7 @@ plt.show()
 
 ## Part II: September Career Fair Events
 
-Career Center events:
+Career Center events (https://calendar.gatech.edu/):
 
 - Sept. 8: GT Career Center: In-Person Resume Reviews
 - Sept. 9: Supply Chain Day Career Fair
@@ -193,8 +189,6 @@ Career Center events:
 - Sept. 10: GT Career Center: Virtual Resume Reviews
 - Sept. 14: **Fall 2026 All Majors Career Fair**
 - Sept. 15: **Fall 2026 All Majors Career Fair**
-- Sept. 17: Fall 2026 College of Computing Career Fair 
-- Sept. 21: Fall 2026 IISE Career Fair 
 
 ---
 
@@ -208,7 +202,7 @@ The **Fall 2026 All Majors Career Fair** is September 14–15 at Georgia Tech.
 Your **résumé is due September 11** before the fair begins.
 
 ::: {.highlight-box}
-**The goal of today's lecture:** covering what goes on a résumé and how to start writing one if you haven't done so already.
+**Today's goal:** covering what goes on a résumé and how to start writing one if you haven't done so already.
 :::
 
 ---
@@ -250,8 +244,7 @@ Make this easy to find — usually at the top of the page.
 - Full name (prominent — consider a slightly larger font)
 - Professional email address (GT email is fine)
 - Phone number
-- LinkedIn profile URL
-- GitHub or portfolio URL (if you have one worth sharing)
+- LinkedIn, GitHub or portfolio URL (Optional; if you have one worth sharing)
 - City and state — no full street address needed
 
 ::: notes
@@ -266,8 +259,7 @@ Mention that GT email is appropriate for now but a permanent personal email is u
   - B.S. Physics / Astrophysics / Applied Physics (or joint degree)
   - Expected graduation: **May 2030** (or your actual date)
   - GPA: you do not have a GT GPA yet — leave it off until you have a semester on the books, then include it if it is ≥ 3.0
-- Relevant coursework (optional, and useful right now while experience is thin)
-- Academic honors: high school honors and scholarships are fair game this year; Dean's List will come later
+- Relevant coursework (optional, and useful right now while experience is thin). Academic honors: high school honors and scholarships are fair game this year.
 
 List your most recent institution first. Your high school can stay on the résumé for now, and comes off once you have Tech coursework and experience to replace it.
 
@@ -275,18 +267,14 @@ List your most recent institution first. Your high school can stay on the résum
 
 ## Experience
 
-The most important section for most employers.
-
-Include: **work, research, internships, co-ops, teaching assistantships**
-
-For each entry:
+The most important section for most employers. Include: **work, research, internships, co-ops, teaching assistantships**. For each entry:
 
 - Organization name and your role or title
 - Dates — month and year (e.g., May 2025 – Aug. 2025)
 - Location (city, state) — or "Remote"
 - **2–4 bullet points describing what you did and what it produced**
 
-Research experience counts strongly for physics students — faculty advisors, national labs, REUs — and that is where you are headed. In the meantime, **high school jobs, volunteering, and club roles all belong here.** Starting with a nearly empty Experience section is the normal first-year position, not a problem to hide.
+Research experience counts strongly for physics students — faculty advisors, national labs, REUs — and that is where you are headed. In the meantime, **high school jobs, volunteering, and club roles all belong here.** 
 
 ::: notes
 Reassure students that an empty experience section is expected in week one. Emphasize that even a one-semester research role is worth including if it involved real technical work.
@@ -305,21 +293,6 @@ The most common mistake: describing duties instead of accomplishments.
 | Worked on simulations | Implemented Monte Carlo simulation of particle trajectories in C++; validated against published results |
 
 Lead with a **strong action verb**. Quantify where you can.
-
----
-
-## Strong Action Verbs
-
-Use these to open your bullet points:
-
-**Research and Analysis**
-Analyzed · Modeled · Simulated · Measured · Characterized · Derived · Validated
-
-**Development and Implementation**
-Built · Designed · Developed · Implemented · Programmed · Automated · Optimized
-
-**Communication and Collaboration**
-Presented · Wrote · Documented · Led · Collaborated · Mentored · Coordinated
 
 ---
 
@@ -346,17 +319,9 @@ Do not list generic software (Word, PowerPoint) unless the role specifically req
 
 Valuable if work or research experience is limited — which describes essentially all of you today.
 
-**Technical projects**
+**Technical projects** Computational or experimental class projects with real results. Independent projects, open-source contributions
 
-- Computational or experimental class projects with real results
-- Independent projects, open-source contributions
-
-**Leadership and service**
-
-- Club officers, SPS (Society of Physics Students), outreach programs
-- Teaching or peer tutoring roles
-
-Describe these the same way you describe experience: action verb, specific contribution, result if possible.
+**Leadership and service** Club officers, SPS (Society of Physics Students), outreach programs. Teaching or peer tutoring roles
 
 ::: {.highlight-box}
 **How you fill this section over the next two semesters:** join [SPS](https://physics.gatech.edu/), and start looking at [UROP](https://urop.gatech.edu/) for undergraduate research. First-years are eligible.
@@ -368,12 +333,12 @@ Describe these the same way you describe experience: action verb, specific contr
 
 Keep it clean and professional.
 
-- **One page** for most undergraduates (two pages with substantial experience)
+- **One page** for most undergraduates
 - Consistent fonts — one or two at most; no smaller than 10 pt for body text
 - Adequate white space — do not cram everything in
 - Consistent alignment of dates and section headers
-- No photos, no graphics, no colored text (with rare exceptions)
-- Typos and grammar errors are disqualifying. Proofread. Then proofread again.
+- No photos, no graphics, no colored text
+- Typos and grammar errors are disqualifying. Proofread.
 
 [Georgia Tech Career Center — Résumé Guidance](https://career.gatech.edu/resumes/)
 
