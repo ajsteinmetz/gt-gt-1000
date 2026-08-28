@@ -1,0 +1,583 @@
+[
+  {
+    "objectID": "supplemental/technical-writing.html",
+    "href": "supplemental/technical-writing.html",
+    "title": "Technical and Professional Writing",
+    "section": "",
+    "text": "Clear writing is one of the most transferable skills you will build at Georgia Tech. The documents you produce as a student — course assignments, research summaries, applications for internships, scholarships, and graduate programs — are not only obstacles in your path in pursuit of an agreeable letter grade but documents that can help develop your career and reputation as a physicist.\n\n\n\n\n\n\nTipRecommendation\n\n\n\nThe Elements of Style by W. Strunk Jr. and E. B. White (often referred to as Strunk & White) is a popular and concise (~50–100 pages depending on the edition) book about how to write well in English. To quote Stephen King: “There is little or no detectable bullshit in that book.” While not specifically about technical writing, much of its wisdom is broadly applicable.\n\n\nStrong technical and professional writing is:\n\nClear: the reader can understand your purpose and main points without guessing;\nSpecific: claims are supported by concrete details, evidence, or examples;\nAudience-aware: the document is shaped toward the actual reader and context;\nProfessional: formatting, tone, grammar, and organization reinforce your credibility;\nPurposeful: every section contributes to the document’s goal.\n\n\n\n\n\n\n\nNoteCore principle\n\n\n\nGood technical writing accomplishes an objective and communicates it to the audience."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#why-writing-matters",
+    "href": "supplemental/technical-writing.html#why-writing-matters",
+    "title": "Technical and Professional Writing",
+    "section": "",
+    "text": "Clear writing is one of the most transferable skills you will build at Georgia Tech. The documents you produce as a student — course assignments, research summaries, applications for internships, scholarships, and graduate programs — are not only obstacles in your path in pursuit of an agreeable letter grade but documents that can help develop your career and reputation as a physicist.\n\n\n\n\n\n\nTipRecommendation\n\n\n\nThe Elements of Style by W. Strunk Jr. and E. B. White (often referred to as Strunk & White) is a popular and concise (~50–100 pages depending on the edition) book about how to write well in English. To quote Stephen King: “There is little or no detectable bullshit in that book.” While not specifically about technical writing, much of its wisdom is broadly applicable.\n\n\nStrong technical and professional writing is:\n\nClear: the reader can understand your purpose and main points without guessing;\nSpecific: claims are supported by concrete details, evidence, or examples;\nAudience-aware: the document is shaped toward the actual reader and context;\nProfessional: formatting, tone, grammar, and organization reinforce your credibility;\nPurposeful: every section contributes to the document’s goal.\n\n\n\n\n\n\n\nNoteCore principle\n\n\n\nGood technical writing accomplishes an objective and communicates it to the audience."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#start-with-audience-and-purpose",
+    "href": "supplemental/technical-writing.html#start-with-audience-and-purpose",
+    "title": "Technical and Professional Writing",
+    "section": "2 Start with Audience and Purpose",
+    "text": "2 Start with Audience and Purpose\nBefore writing, identify two things:\n\nWho is the reader?\nWhat should the document accomplish?\n\n\n\n\n\n\n\n\n\nDocument\nLikely Reader\nPrimary Purpose\n\n\n\n\nRésumé\nEmployer, recruiter, hiring manager, research supervisor\nShow that your background fits a specific role.\n\n\nOnline professional profile\nEmployers, alumni, collaborators, graduate programs, professional contacts\nPresent a concise and credible professional identity.\n\n\nResearch proposal\nFellowship reviewers, faculty, research mentors\nPersuade the reader that a research question is important, feasible, and worth supporting.\n\n\nPersonal statement\nGraduate admissions committee, faculty group, research supervisor\nExplain your preparation, goals, and fit for a specific academic opportunity.\n\n\nCover letter\nEmployer or hiring committee\nShow why your experience and interests match a specific job posting.\n\n\n\nA document that is technically polished but not shaped toward its actual audience will usually be less effective than a slightly simpler document that is highly specific and well targeted.\nAn example mismatch would be a B.S. Physics student applying to a data analysis, engineering, or technical role who writes a résumé like a graduate-school application, emphasizing abstract intellectual interests and course topics while underemphasizing concrete skills, projects, software and instrumentation, teamwork, and deliverables."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#writing-style-clear-specific-and-direct",
+    "href": "supplemental/technical-writing.html#writing-style-clear-specific-and-direct",
+    "title": "Technical and Professional Writing",
+    "section": "3 Writing Style: Clear, Specific, and Direct",
+    "text": "3 Writing Style: Clear, Specific, and Direct\nTechnical and professional writing should favor clarity over vagueness, needless complexity, and ornament for its own sake. Use specialized vocabulary when your audience requires it, but do not use complexity to imitate expertise.\n\n3.1 Prefer Specific Claims\n\n\n\n\n\n\n\nLess Effective\nMore Effective\n\n\n\n\nI gained valuable research experience.\nI analyzed detector calibration data in Python and developed plots used in weekly group meetings.\n\n\nThis research is important.\nThis work addresses how improved vacuum diagnostics could improve pump longevity and increase vacuum stability.\n\n\nI am passionate about physics.\nMy interest in condensed-matter developed through my coursework in quantum mechanics, auditing a graduate-level solid-state class, and a summer project with Professor X modeling lattice excitations.\n\n\n\n\n\n3.2 Use Strong Verbs\nEspecially in résumés and cover letters, strong verbs help the reader understand what you did. Examples include analyzed, designed, developed, implemented, measured, modeled, presented, programmed, tested, and wrote.\n\n\n3.3 Avoid Empty Intensifiers\nWords such as very, extremely, incredibly, and highly often add less value than a concrete detail.\n\n\n\n\n\n\nTipBetter habit\n\n\n\nReplace vague emphasis with evidence, examples, or measurable detail whenever possible."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#concision-and-structure",
+    "href": "supplemental/technical-writing.html#concision-and-structure",
+    "title": "Technical and Professional Writing",
+    "section": "4 Concision and Structure",
+    "text": "4 Concision and Structure\nConcise writing is about sentence structure rather than whether a document is particularly lengthy or short.\n\n4.1 Paragraph Structure\nEach paragraph should usually have:\n\nA clear main point;\nSpecific support or evidence;\nA connection back to the purpose of the document.\n\nFor example, in a personal statement, a paragraph about prior research experience should not merely list tasks. It should explain how those tasks prepared you for the graduate program, professor, laboratory, or research direction you are targeting."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#formatting-make-the-document-easy-to-read",
+    "href": "supplemental/technical-writing.html#formatting-make-the-document-easy-to-read",
+    "title": "Technical and Professional Writing",
+    "section": "5 Formatting: Make the Document Easy to Read",
+    "text": "5 Formatting: Make the Document Easy to Read\nFormatting helps a reader navigate your document, locate key information, and form an impression of your professionalism. This last effect is partly psychological and partly conventional: a reader may ignore your message or stop reading if the document is difficult or annoying to read (the same is true of professors grading your work!). Formatting may be precisely prescribed, as in a grant proposal, or guided more loosely by disciplinary norms and aesthetic judgment, as in an academic publication.\n\n5.1 General Formatting Principles\n\nUse consistent spacing, indentation, capitalization, and punctuation.\nUse headings to guide the reader where appropriate.\nMaintain enough white space that the page does not feel crowded.\nChoose readable fonts and avoid excessive visual complexity.\nAlign dates, titles, and section labels consistently."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#citations-and-references",
+    "href": "supplemental/technical-writing.html#citations-and-references",
+    "title": "Technical and Professional Writing",
+    "section": "6 Citations and References",
+    "text": "6 Citations and References\nCitations are especially important in research writing. They show how your work fits into existing knowledge, help establish credibility, and allow readers to confirm information used to support your claims. Citations should also prioritize primary sources, peer-reviewed literature, and authoritative texts over blogs, social media posts, and anonymous webpages.\n\n6.1 When Should You Cite?\nIn a research document, whether a proposal or publication, cite sources when you:\n\nDescribe prior research or accepted findings;\nIdentify an open problem, technical limitation, or gap in the literature;\nUse a specialized method, model, dataset, or established experimental approach;\nMake a factual claim that is not common knowledge;\nPosition your proposed research relative to existing work.\n\n\n\n\n\n\n\nWarningDo not pad references\n\n\n\nUnless you are writing a review article, a compact and well-chosen bibliography is usually more effective than a long list of sources that are never meaningfully integrated into the document’s message.\n\n\n\n\n6.2 Responsible Source Use\nTechnical writing requires intentional use of references. When using outside sources:\n\nRead sources closely enough to understand what they actually claim.\nDo not cite a paper merely because it seems related from the title or abstract.\nDo not copy wording without quotation and attribution.\nDo not distort a source to make it support a claim it does not support.\nCheck citations, bibliographic information, and URLs carefully before submission."
+  },
+  {
+    "objectID": "supplemental/technical-writing.html#revision-is-part-of-writing",
+    "href": "supplemental/technical-writing.html#revision-is-part-of-writing",
+    "title": "Technical and Professional Writing",
+    "section": "7 Revision Is Part of Writing",
+    "text": "7 Revision Is Part of Writing\nStrong documents are rarely produced in a single draft. Revision should be expected.\n\n7.1 A Useful Revision Process\n\nDraft the main content and get the main ideas onto the page.\nRevise the structure to check that the document flows logically.\nRevise to replace vague claims with details and evidence.\nRevise to ensure the document satisfies the purpose expected by the reader.\nEdit the style and formatting to improve clarity and remove awkward sentences.\nProofread carefully.\n\n\n\n\n\n\n\nTipRecommendation\n\n\n\nRead important application documents aloud during revision. Awkward phrasing, overly long sentences, and unclear transitions often become easier to notice."
+  },
+  {
+    "objectID": "supplemental/peer-feedback.html",
+    "href": "supplemental/peer-feedback.html",
+    "title": "Peer Feedback",
+    "section": "",
+    "text": "The typical experience of peer feedback goes something like this: you trade papers with a classmate, quickly skim each other’s work, write “good introduction” and circle a few typos, and call it done. Nothing changes. Nobody learned anything.\nThat version of peer review fails because the feedback is vague, generic, and not connected to what the document actually needs to do (Roberts 2016). The goal here is feedback that the author can act on, from a reader who has thought seriously about the document.\n\n\n\n\n\n\n\nxkcd #1098 “Qualifications” · CC BY-NC 2.5\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nPeer feedback is a professional skill. In research, your labmates, collaborators, co-authors, and dissertation committee will all read and critique your work before it reaches a journal or grant panel."
+  },
+  {
+    "objectID": "supplemental/peer-feedback.html#why-peer-feedback-often-fails",
+    "href": "supplemental/peer-feedback.html#why-peer-feedback-often-fails",
+    "title": "Peer Feedback",
+    "section": "",
+    "text": "The typical experience of peer feedback goes something like this: you trade papers with a classmate, quickly skim each other’s work, write “good introduction” and circle a few typos, and call it done. Nothing changes. Nobody learned anything.\nThat version of peer review fails because the feedback is vague, generic, and not connected to what the document actually needs to do (Roberts 2016). The goal here is feedback that the author can act on, from a reader who has thought seriously about the document.\n\n\n\n\n\n\n\nxkcd #1098 “Qualifications” · CC BY-NC 2.5\n\n\n\n\n\n\n\n\n\nImportant\n\n\n\nPeer feedback is a professional skill. In research, your labmates, collaborators, co-authors, and dissertation committee will all read and critique your work before it reaches a journal or grant panel."
+  },
+  {
+    "objectID": "supplemental/peer-feedback.html#benefits-of-peer-review",
+    "href": "supplemental/peer-feedback.html#benefits-of-peer-review",
+    "title": "Peer Feedback",
+    "section": "2 Benefits of Peer Review",
+    "text": "2 Benefits of Peer Review\nBefore you begin, it helps to recognize what peer review is actually good for (Kuyyogsuy 2019):\n\nYou see how other students interpreted the same assignment and solved the same problems.\nYou receive feedback from someone with no authority to grade you. The stakes are lower and the conversation can be more honest.\nYou have a chance to ask questions and get them answered before final submission.\nYou practice the workforce skill of giving and receiving effective criticism, which every professional environment requires."
+  },
+  {
+    "objectID": "supplemental/peer-feedback.html#prepare-before-you-read",
+    "href": "supplemental/peer-feedback.html#prepare-before-you-read",
+    "title": "Peer Feedback",
+    "section": "3 Prepare Before You Read",
+    "text": "3 Prepare Before You Read\nMost of what separates useful feedback from useless feedback is preparation. Taking time to understand how to perform peer review will make your feedback more valuable and give you confidence in giving it (Brammer and Rees 2007).\n\n3.1 Understand Your Position\nAs a peer. You are at the same level as the author. You have no authority to demand changes. You are there to offer suggestions and recommendations, not edicts. The author decides what to do with your feedback.\nAs a reader. You may feel unqualified to evaluate another person’s writing, but you already evaluate movies, restaurants, and sports teams without being an expert in any of them. You do this because you know when something works for you as an audience member. You know when you are confused, bored, persuaded, or engaged. That is exactly the qualification you need here.\n\n\n3.2 Understand the Document\nEvery document is meant to communicate something for a specific purpose within a set of expected boundaries:\n\nRequirements. What are the absolute requirements? Did the document meet them? Consult the specific requirements of the assignment.\nPurpose. What is the document trying to accomplish? Getting a job? Demonstrating a valid research program?\nAudience. Who is this document written for? A recruiter? A graduate admissions committee?\nSubject. Does the document stay on topic? Are there sections, arguments, or details that do not serve the document’s stated purpose?\n\n\n\n\n\n\n\nNote\n\n\n\nA résumé here could go to an actual employer. A personal statement could go to an actual graduate program. Evaluate the document against the real-world audience it is intended to reach.\n\n\n\n\n3.3 Understand the Author\nThe better you understand who the author is, the more useful your feedback will be.\n\nGoals. What is the author trying to achieve with this document? A résumé aimed at research roles should be evaluated differently than one aimed at industry.\nVoice. Does the document sound like the person who wrote it? If the tone shifts abruptly or something feels borrowed, that is worth noting.\nWhat they need. Some authors need high-level structural direction; others need confirmation they are on the right track. Calibrate your feedback to what will actually help."
+  },
+  {
+    "objectID": "supplemental/peer-feedback.html#providing-feedback",
+    "href": "supplemental/peer-feedback.html#providing-feedback",
+    "title": "Peer Feedback",
+    "section": "4 Providing Feedback",
+    "text": "4 Providing Feedback\nAll feedback ultimately boils down to the following logical construction: “My reaction is X, because of Y.” This structure is how all your major feedback, both positive and negative, should be delivered.\n\n\n\n\n\n\nTip\n\n\n\nThe word “because” (or equivalent language) is an excellent way to link your reaction to a document and the reason for your reaction.\n\n\n\n4.1 Make Positive Comments\nIt matters that the author hears what is working. Praise that is specific helps the author know which choices to keep and repeat.\n\n\n\n\n\n\n\nWeak\nStrong\n\n\n\n\n“Good introduction.”\n“The opening is good because it immediately names the specific lab technique you want to improve and why it is important.”\n\n\n“I liked the research section.”\n“The research motivation connects your goal directly to an open question in the field, not just a general area of interest.”\n\n\n\nYou often will know whether or not you like a piece of writing before you’ve consciously identified why. Don’t fret if it takes you a little time to pinpoint the reason why you like something. This sort of self-reflection is a powerful skill.\n\n\n4.2 Give Constructive Criticism\nWhile simple critique still follows the “My reaction is X, because of Y” formula, constructive criticism takes it one step further by offering a potential solution: “My reaction is X, because of Y, therefore I suggest Z.”\n\n\n\n\n\n\nNote\n\n\n\nWhile we should always strive towards constructive criticism, it is inherently more difficult. Sometimes you’ll only have the time and mental bandwidth to point out issues without necessarily knowing how to fix things, especially if the issues are extensive.\n\n\nConstructive criticism gives the author a direction for how to make their work better. Focus your criticism in three layers:\n\nRequirements. Did the document meet the stated requirements? If something is missing, point it out directly. Those are points the author will lose (or an immediate job rejection) if you do not flag them.\nMeaning. Is it clear what the document is saying? Are claims supported with evidence? Are there places where you wanted more, or where you still had unanswered questions? These are the comments that matter most for revision.\nSpeed bumps. A speed bump is anything that stops your reading: a sentence that confused you, a transition that did not land, a word choice that felt off, a section that seemed to lose focus. Pay attention to what your brain does as you read. It will usually signal when something needs revision.\n\n\n\n\n\n\n\nTip\n\n\n\nYou do not have to be right. Your job is to report what you experienced as a reader. The author decides whether to act on your observation."
+  },
+  {
+    "objectID": "supplemental/peer-feedback.html#how-to-structure-your-written-response",
+    "href": "supplemental/peer-feedback.html#how-to-structure-your-written-response",
+    "title": "Peer Feedback",
+    "section": "5 How to Structure Your Written Response",
+    "text": "5 How to Structure Your Written Response\nA clear structure makes your feedback easier to use.\n\nOpening summary. One or two sentences on your overall impression. What is working? What is the most important thing to address?\nMajor comments. Two to four substantive observations about content, structure, audience fit, or meaning. Identify a specific location in the document for each comment, explain the issue, and suggest a direction for improvement.\nMinor comments. Smaller issues: phrasing, formatting, word choice, typos. Worth noting, but should not dominate your response unless such issues are severe.\nClosing. What is the document’s strongest aspect? What single revision would most improve it?\n\nSpend the most time on the major comments. A review that is mostly a list of typos is not helpful as proofreading is the author’s responsibility. What they need is your perspective on whether the document is doing its job."
+  },
+  {
+    "objectID": "supplemental/peer-feedback.html#common-mistakes-in-peer-review",
+    "href": "supplemental/peer-feedback.html#common-mistakes-in-peer-review",
+    "title": "Peer Feedback",
+    "section": "6 Common Mistakes in Peer Review",
+    "text": "6 Common Mistakes in Peer Review\n\n\n\n\n\n\n\n\nMistake\nWhy It Fails\nBetter Approach\n\n\n\n\n“This looks great!”\nOffers nothing the author can act on\nIdentify something specific that works and something that could be stronger\n\n\n“This is confusing.”\nDoes not say where or why\nQuote the specific passage and explain what confused you\n\n\n“I would have done it differently…”\nImposes your approach\nAsk whether the author’s choice serves their purpose, then offer an alternative as a suggestion\n\n\nFixing only surface errors\nMisses content and structure, which matter more\nAddress meaning and organization first, then surface polish\n\n\nSoftening every criticism\nAuthor cannot tell what actually needs work\nState problems clearly while keeping the tone professional"
+  },
+  {
+    "objectID": "supplemental/peer-feedback.html#receiving-feedback",
+    "href": "supplemental/peer-feedback.html#receiving-feedback",
+    "title": "Peer Feedback",
+    "section": "7 Receiving Feedback",
+    "text": "7 Receiving Feedback\nYou will also receive peer feedback on your own documents. How you receive it matters.\n\nListen without immediately defending. You do not need to agree with every comment, but understand what the reviewer is responding to before you decide whether to act on it.\nAsk clarifying questions if you do not understand what a comment is pointing to.\nSeparate the diagnosis from the solution. A reviewer may correctly identify a problem but suggest a fix that does not fit your document. Take the diagnosis seriously even if you choose a different approach.\nYou are not obligated to make every suggested change, but you should be able to explain to yourself why you are not making it.\n\n\n\n\n\n\n\nNoteFeedback is information, not instruction\n\n\n\nA reviewer’s job is to tell you how the document is landing on a reader. What you do with that information is your decision."
+  },
+  {
+    "objectID": "supplemental/peer-feedback.html#a-note-on-tone",
+    "href": "supplemental/peer-feedback.html#a-note-on-tone",
+    "title": "Peer Feedback",
+    "section": "8 A Note on Tone",
+    "text": "8 A Note on Tone\nProfessional feedback should be direct but not unkind. You can be honest without being dismissive, and specific without being harsh. The standard to aim for is the kind of feedback a thoughtful colleague or mentor would give.\nSharing your writing may make you feel vulnerable, which is completely normal. Feedback that is honest and encouraging is one of the most useful things you can offer a peer."
+  },
+  {
+    "objectID": "supplemental/peer-feedback.html#references",
+    "href": "supplemental/peer-feedback.html#references",
+    "title": "Peer Feedback",
+    "section": "9 References",
+    "text": "9 References\n\n\nBrammer, Charlotte, and Mary Rees. 2007. “Peer Review from the Students’ Perspective: Invaluable or Invalid?” Composition Studies 35 (2): 71–85. https://www.jstor.org/stable/43501704.\n\n\nKuyyogsuy, Sirikarn. 2019. “Promoting Peer Feedback in Developing Students’ English Writing Ability in L2 Writing Class.” International Education Studies 12 (9): 76–88. https://doi.org/10.5539/ies.v12n9p76.\n\n\nRoberts, Jason. 2016. “Making a Peer Review More Than a Waste of Time.” In Open English @ SLCC. SLCC English Department. https://pressbooks.pub/openenglishatslcc/chapter/making-a-peer-review-more-than-a-waste-of-time/.\n\n\n\n\n\n\n\n\n\nNoteLicense\n\n\n\nThe peer review framework presented in this page is adapted from Jason Roberts, “Making a Peer Review More Than a Waste of Time,” in Open English @ SLCC (Roberts 2016). Open English @ SLCC Copyright © 2016 by SLCC English Department · CC BY-NC 4.0."
+  },
+  {
+    "objectID": "lectures/index.html",
+    "href": "lectures/index.html",
+    "title": "Lectures",
+    "section": "",
+    "text": "Fall 2026\n\n\n\n\n#\nDate\nTopic\nSlides\n\n\n\n\n1\nTBD\nCourse Overview\nOpen slides"
+  },
+  {
+    "objectID": "course-files/syllabus.html",
+    "href": "course-files/syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Fall 2026 | Section D03 | CRN #94631 | 1 credit hour\nFridays, 12:30–1:20 PM • Swann 325 • Weekly in-person attendance required"
+  },
+  {
+    "objectID": "course-files/syllabus.html#course-description",
+    "href": "course-files/syllabus.html#course-description",
+    "title": "Syllabus",
+    "section": "1 Course Description",
+    "text": "1 Course Description\nThis seminar course is designed to help you make a successful transition to college by becoming better acquainted with the academic and social environments here at Georgia Tech. Through the course, you will acquire strategies that promote academic, social, and professional success. This is a highly interactive course that requires active student participation and working collaboratively in small groups.\n\n1.1 Learning Outcomes\nUpon successful completion of this course, students will:\n\nDevelop self-awareness and self-knowledge, particularly as it relates to academic interests and professional goals.\nDescribe their path to graduation and identify opportunities for academic and professional enrichment with the assistance of a faculty member or advisor.\nDemonstrate the ability to lead and productively participate in collaborative projects.\nBe aware of what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels.\n\n\n\n1.2 Required Course Materials\nNone."
+  },
+  {
+    "objectID": "course-files/syllabus.html#instructor-information",
+    "href": "course-files/syllabus.html#instructor-information",
+    "title": "Syllabus",
+    "section": "2 Instructor Information",
+    "text": "2 Instructor Information\n\n\n\nInstructor\nAndrew J. Steinmetz\n\n\nEmail\najsteinmetz@gatech.edu\n\n\nOffice\nHowey W204\n\n\nOffice Hours\nBy appointment"
+  },
+  {
+    "objectID": "course-files/syllabus.html#course-modality-information",
+    "href": "course-files/syllabus.html#course-modality-information",
+    "title": "Syllabus",
+    "section": "3 Course Modality Information",
+    "text": "3 Course Modality Information\nThis is an in-person course with mandatory attendance.\nNo required textbook. Course materials and assignment information will be provided through Canvas."
+  },
+  {
+    "objectID": "course-files/syllabus.html#course-schedule",
+    "href": "course-files/syllabus.html#course-schedule",
+    "title": "Syllabus",
+    "section": "4 Course Schedule",
+    "text": "4 Course Schedule\n\nThe course meets every Friday of the semester except holidays. The schedule below may be adjusted as needed throughout the semester. Please check the Canvas Homepage for the most up-to-date course schedule.\n\n\n\nDate\nTentative Topic / Focus\nMajor Due Dates\n\n\n\n\nTBD\nCourse introduction\n—\n\n\nTBD\nTBD\n—\n\n\nTBD\nTBD\nTBD\n\n\nTBD\nTBD\n—\n\n\nTBD\nTBD\nTBD\n\n\nTBD\nTBD\n—\n\n\nTBD\nCourse wrap-up and reflection\nTBD"
+  },
+  {
+    "objectID": "course-files/syllabus.html#assignments-and-grading",
+    "href": "course-files/syllabus.html#assignments-and-grading",
+    "title": "Syllabus",
+    "section": "5 Assignments and Grading",
+    "text": "5 Assignments and Grading\nThere are no exams in this course. Grading for the course will be broken down as follows:\n\n\n\nCourse Component\nWeight\n\n\n\n\nParticipation, short assignments, and attendance\n25%\n\n\nTeam Project\n25%\n\n\nAcademic Planning Project\n25%\n\n\nCareer Readiness Project\n25%\n\n\nTotal\n100%\n\n\n\n\n5.1 Assignment Descriptions\n\n\nParticipation, short assignments, and attendance: Attendance and active participation in each class session, along with short in-class and take-home assignments. TBD.\nTeam Project: TBD.\nAcademic Planning Project: TBD.\nCareer Readiness Project: TBD.\n\n\n\n5.2 Grading Scale\nYour final grade will be assigned as a letter grade according to the following scale:\n\n\n\nLetter Grade\nPercentage\n\n\n\n\nA\n90–100%\n\n\nB\n80–89%\n\n\nC\n70–79%\n\n\nD\n60–69%\n\n\nF\n0–59%\n\n\n\nFinal numeric grades are rounded to the nearest whole percent. For example, 83.76% becomes 84%. This course is not otherwise curved. At Georgia Tech, grades are awarded on a scale of A–F with no plus/minus grades permitted.\nGeorgia Tech grading system"
+  },
+  {
+    "objectID": "course-files/syllabus.html#course-and-institution-policies",
+    "href": "course-files/syllabus.html#course-and-institution-policies",
+    "title": "Syllabus",
+    "section": "6 Course and Institution Policies",
+    "text": "6 Course and Institution Policies\n\n6.1 Attendance\nThis class is designed for students to become active participants, so it is vital that all students attend each class session and are fully engaged in all class activities. This means that you will need to do more than just show up at the appointed time and place — you will also need to come to class prepared to participate.\nPlease attend every scheduled meeting on time. That said, if you are exhibiting any symptoms of illness (fever over 100.4 °F, coughing, nausea, etc.), please stay home to rest, seek medical attention if appropriate, and contact me as soon as possible.\nExcessive lateness and absences (three or more per semester) can negatively impact your final grade outcome. If you have extenuating circumstances, I will try to work with you to address those challenges. Please communicate early and often if you are struggling with issues that may call for accommodations.\nTo request an excused absence, contact the Dean of Students office for class absence verification in the case of a documented illness, hospitalization, accident, death in the family, family emergency, or lengthy illness.\nDean of Students: Class Attendance\n\n6.1.1 Late Work\nLate work is not accepted. An assignment may be excused only through the Dean of Students office. While this is not meant to be a difficult course, all assignments are open and available for the entirety of the semester; therefore, appropriate time-management is expected.\n\n\n\n6.2 Criteria for Successful Completion and Acceptable Student Conduct\nCreating an engaging and productive class experience is the responsibility of both the instructor and the students involved. To ensure you are getting the most out of our class and contributing positively to our learning environment, please be mindful of the following:\n\nPlease create a habit of checking your GT e-mail and Canvas daily. Important class announcements and information will be posted to Canvas, and you want to make sure you are fully equipped for success.\nGrades will be posted to Canvas throughout the semester. It is your responsibility to keep track of your submitted assignments and grade progress throughout the semester. If something seems missing or off to you, please reach out to me to discuss.\nGT 1000 is designed to be informative, helpful, and fun. However, the class is graded and does carry one credit towards your degree. For that reason, it is important that all assignments you submit be high quality. Please double-check your work for spelling, capitalization, and grammatical errors. This practice is also good for creating a habit of professionalism.\nYou can expect that, as your GT 1000 instructor, I will come to class each day ready to engage you in learning about Georgia Tech and learning how to be successful academically and professionally. Each session will be structured to encourage your active participation, so please come prepared to participate and contribute to the class.\nTo ensure everyone feels safe, heard, and able to learn in our class, please demonstrate appropriate classroom behavior at all times. This means that you should speak and act in a respectful manner towards your classmates, your Team Leader, and your instructor.\n\nGeorgia Tech Student Code of Conduct\n\n\n6.3 Academic Integrity and Generative AI\nGT 1000 is a class based in your own discovery, exploration, and reflection of what you want your time at Tech and professional life to be. Unpacking your thought processes based on information you acquire through campus resources is a major component of the assignments. Therefore, the use of AI is strongly discouraged.\nIf you wish to use AI as part of your brainstorming process, that is fine; however, per the Georgia Tech Honor Code, no work produced via AI should be submitted as your own. If you have questions about what constitutes acceptable use, please see the instructor.\nThe Georgia Tech Academic Honor Code applies to all work submitted in this course.\nGeorgia Tech Academic Honor Code\nGeorgia Tech OIT guidance on AI\n\n\n6.4 Accommodations for Students with Disabilities\nIf there are aspects of the instruction or design of this course that result in barriers to your inclusion or accurate assessment of achievement, please notify me as soon as possible so we can resolve the issue.\nStudents with disabilities should also contact the Office of Disability Services (ODS), whose purpose is to collaborate with students, faculty, and staff to create a campus environment that ensures all students have an equal opportunity to access the Georgia Tech community. ODS can be reached at 404-894-2563, dsinfo@gatech.edu, or through the Office of Disability Services website.\nPlease contact me ahead of time to discuss any issues related to disabilities. I am happy to work with you.\nGeorgia Tech Office of Disability Services\n\n\n6.5 Student-Faculty Expectations\nAt Georgia Tech, we believe that it is important to strive for an atmosphere of mutual respect, acknowledgment, and responsibility between faculty members and the student body.\nIn the end, simple respect for knowledge, hard work, and cordial interactions will help build the environment we seek. Therefore, I encourage you to remain committed to the ideals of Georgia Tech while in this class.\nGeorgia Tech student-faculty expectations"
+  },
+  {
+    "objectID": "assignments/career-readiness.html",
+    "href": "assignments/career-readiness.html",
+    "title": "Career Readiness Project",
+    "section": "",
+    "text": "TBD.\nThis project supports the course learning outcome that students be aware of what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels."
+  },
+  {
+    "objectID": "assignments/career-readiness.html#purpose",
+    "href": "assignments/career-readiness.html#purpose",
+    "title": "Career Readiness Project",
+    "section": "",
+    "text": "TBD.\nThis project supports the course learning outcome that students be aware of what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels."
+  },
+  {
+    "objectID": "assignments/career-readiness.html#what-to-submit",
+    "href": "assignments/career-readiness.html#what-to-submit",
+    "title": "Career Readiness Project",
+    "section": "2 What to Submit",
+    "text": "2 What to Submit\n\nTBD.\nThe file must be submitted as a PDF.\nUpload the PDF directly to this Canvas assignment by the deadline."
+  },
+  {
+    "objectID": "assignments/career-readiness.html#expectations",
+    "href": "assignments/career-readiness.html#expectations",
+    "title": "Career Readiness Project",
+    "section": "3 Expectations",
+    "text": "3 Expectations\nTBD."
+  },
+  {
+    "objectID": "assignments/career-readiness.html#helpful-resources",
+    "href": "assignments/career-readiness.html#helpful-resources",
+    "title": "Career Readiness Project",
+    "section": "4 Helpful Resources",
+    "text": "4 Helpful Resources\n\nGeorgia Tech Career Center\nRésumé vs. Academic CV"
+  },
+  {
+    "objectID": "assignments/career-readiness.html#submission-checklist",
+    "href": "assignments/career-readiness.html#submission-checklist",
+    "title": "Career Readiness Project",
+    "section": "5 Submission Checklist",
+    "text": "5 Submission Checklist\n\nI have reviewed the document for clarity, formatting, spelling, and grammar.\nI have submitted my work as a PDF."
+  },
+  {
+    "objectID": "assignments/academic-planning.html",
+    "href": "assignments/academic-planning.html",
+    "title": "Academic Planning Project",
+    "section": "",
+    "text": "TBD.\nThis project supports the course learning outcome that students describe their path to graduation and identify opportunities for academic and professional enrichment with the assistance of a faculty member or advisor."
+  },
+  {
+    "objectID": "assignments/academic-planning.html#purpose",
+    "href": "assignments/academic-planning.html#purpose",
+    "title": "Academic Planning Project",
+    "section": "",
+    "text": "TBD.\nThis project supports the course learning outcome that students describe their path to graduation and identify opportunities for academic and professional enrichment with the assistance of a faculty member or advisor."
+  },
+  {
+    "objectID": "assignments/academic-planning.html#what-to-submit",
+    "href": "assignments/academic-planning.html#what-to-submit",
+    "title": "Academic Planning Project",
+    "section": "2 What to Submit",
+    "text": "2 What to Submit\n\nTBD.\nThe file must be submitted as a PDF.\nUpload the PDF directly to this Canvas assignment by the deadline."
+  },
+  {
+    "objectID": "assignments/academic-planning.html#expectations",
+    "href": "assignments/academic-planning.html#expectations",
+    "title": "Academic Planning Project",
+    "section": "3 Expectations",
+    "text": "3 Expectations\nTBD."
+  },
+  {
+    "objectID": "assignments/academic-planning.html#helpful-resources",
+    "href": "assignments/academic-planning.html#helpful-resources",
+    "title": "Academic Planning Project",
+    "section": "4 Helpful Resources",
+    "text": "4 Helpful Resources\n\nCenter for Academic Success\nSchool of Physics undergraduate program"
+  },
+  {
+    "objectID": "assignments/academic-planning.html#submission-checklist",
+    "href": "assignments/academic-planning.html#submission-checklist",
+    "title": "Academic Planning Project",
+    "section": "5 Submission Checklist",
+    "text": "5 Submission Checklist\n\nI have reviewed the document for clarity, formatting, spelling, and grammar.\nI have submitted my work as a PDF."
+  },
+  {
+    "objectID": "assignments/team-project.html",
+    "href": "assignments/team-project.html",
+    "title": "Team Project",
+    "section": "",
+    "text": "TBD.\nThis project supports the course learning outcome that students demonstrate the ability to lead and productively participate in collaborative projects."
+  },
+  {
+    "objectID": "assignments/team-project.html#purpose",
+    "href": "assignments/team-project.html#purpose",
+    "title": "Team Project",
+    "section": "",
+    "text": "TBD.\nThis project supports the course learning outcome that students demonstrate the ability to lead and productively participate in collaborative projects."
+  },
+  {
+    "objectID": "assignments/team-project.html#what-to-submit",
+    "href": "assignments/team-project.html#what-to-submit",
+    "title": "Team Project",
+    "section": "2 What to Submit",
+    "text": "2 What to Submit\n\nTBD.\nThe file must be submitted as a PDF.\nUpload the PDF directly to this Canvas assignment by the deadline."
+  },
+  {
+    "objectID": "assignments/team-project.html#expectations",
+    "href": "assignments/team-project.html#expectations",
+    "title": "Team Project",
+    "section": "3 Expectations",
+    "text": "3 Expectations\nTBD."
+  },
+  {
+    "objectID": "assignments/team-project.html#helpful-resources",
+    "href": "assignments/team-project.html#helpful-resources",
+    "title": "Team Project",
+    "section": "4 Helpful Resources",
+    "text": "4 Helpful Resources\n\nTBD."
+  },
+  {
+    "objectID": "assignments/team-project.html#submission-checklist",
+    "href": "assignments/team-project.html#submission-checklist",
+    "title": "Team Project",
+    "section": "5 Submission Checklist",
+    "text": "5 Submission Checklist\n\nI have reviewed the document for clarity, formatting, spelling, and grammar.\nI have submitted my work as a PDF."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome Page",
+    "section": "",
+    "text": "Fall 2026 | Section D03 | CRN #94631 | 1 credit hour\nFridays, 12:30–1:20 PM • Swann 325 • Weekly in-person attendance required"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Welcome Page",
+    "section": "1 Welcome",
+    "text": "1 Welcome\nWelcome to GT 1000: First-Year Seminar, Physics. This course is designed to help you make a successful transition to college by becoming better acquainted with the academic and social environments here at Georgia Tech.\nThrough the semester you will build strategies that promote academic, social, and professional success, learn how to navigate the resources available to you at Tech, and explore what it means to be a physicist at the undergraduate, graduate, and career levels. This is a highly interactive course that requires active student participation and working collaboratively in small groups.\n\n\n\n\n\n\nNote\n\n\n\nReview the full syllabus on Canvas as this home page is a truncated version (with the exception of the Course Schedule, which will remain updated here if anything changes during the semester)."
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Welcome Page",
+    "section": "2 Course Description",
+    "text": "2 Course Description\nThis seminar course is designed to help you make a successful transition to college by becoming better acquainted with the academic and social environments here at Georgia Tech. Through the course, you will acquire strategies that promote academic, social, and professional success. This is a highly interactive course that requires active student participation and working collaboratively in small groups.\nThere are no prerequisites. This section is intended for first-year students in Physics, Astrophysics, and Applied Physics.\n\n2.1 Learning Outcomes\n\nDevelop self-awareness and self-knowledge, particularly as it relates to academic interests and professional goals.\nDescribe your path to graduation and identify opportunities for academic and professional enrichment with the assistance of a faculty member or advisor.\nDemonstrate the ability to lead and productively participate in collaborative projects.\nBe aware of what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels."
+  },
+  {
+    "objectID": "index.html#instructor-information",
+    "href": "index.html#instructor-information",
+    "title": "Welcome Page",
+    "section": "3 Instructor Information",
+    "text": "3 Instructor Information\n\n\n\nInstructor\nAndrew J. Steinmetz\n\n\nEmail\najsteinmetz@gatech.edu\n\n\nOffice\nHowey W204\n\n\nOffice Hours\nBy appointment"
+  },
+  {
+    "objectID": "index.html#course-schedule",
+    "href": "index.html#course-schedule",
+    "title": "Welcome Page",
+    "section": "4 Course Schedule",
+    "text": "4 Course Schedule\n\nThe course meets every Friday of the semester except holidays. The schedule below may be adjusted as needed throughout the semester.\n\n\n\nDate\nTentative Topic / Focus\nMajor Due Dates\n\n\n\n\nTBD\nCourse introduction\n—\n\n\nTBD\nTBD\n—\n\n\nTBD\nTBD\nTBD\n\n\nTBD\nTBD\n—\n\n\nTBD\nTBD\nTBD\n\n\nTBD\nTBD\n—\n\n\nTBD\nCourse wrap-up and reflection\nTBD"
+  },
+  {
+    "objectID": "index.html#assignments-and-grading",
+    "href": "index.html#assignments-and-grading",
+    "title": "Welcome Page",
+    "section": "5 Assignments and Grading",
+    "text": "5 Assignments and Grading\nThere are no exams in this course. Your grade is based on participation and attendance together with three projects, each weighted equally. Written assignments should be submitted on Canvas in PDF format by 11:59 PM ET unless otherwise specified.\n\n\n\nCourse Component\nDue Date\nWeight\n\n\n\n\nParticipation, short assignments, and attendance\nWeekly\n25%\n\n\nTeam Project\nTBD\n25%\n\n\nAcademic Planning Project\nTBD\n25%\n\n\nCareer Readiness Project\nTBD\n25%\n\n\n\n\n5.1 Assignment Descriptions\n\n\nParticipation, short assignments, and attendance: Attendance and active participation in each class session, along with short in-class and take-home assignments. Excessive lateness and absences (three or more per semester) can negatively impact your final grade.\nTeam Project: TBD.\nAcademic Planning Project: TBD.\nCareer Readiness Project: TBD."
+  },
+  {
+    "objectID": "index.html#important-links-and-resources",
+    "href": "index.html#important-links-and-resources",
+    "title": "Welcome Page",
+    "section": "6 Important Links and Resources",
+    "text": "6 Important Links and Resources\n\n\nFirst-Year Resources\n\nGT 1000 program\nCenter for Academic Success\nSchool of Physics\nUndergraduate research (UROP)\n\nCampus Resources\n\nGeorgia Tech Campus Calendar\nDean of Students class attendance verification\nOffice of Disability Services / ADAPTS\n\n\nPolicies\n\nGeorgia Tech Academic Honor Code\nGeorgia Tech Student Code of Conduct\nGeorgia Tech guidance on generative AI\nGeorgia Tech grading system\nStudent-faculty expectations"
+  },
+  {
+    "objectID": "index.html#a-few-important-course-notes",
+    "href": "index.html#a-few-important-course-notes",
+    "title": "Welcome Page",
+    "section": "7 A Few Important Course Notes",
+    "text": "7 A Few Important Course Notes\n\nAttendance is mandatory. This is a highly interactive course, and excessive lateness or absences (three or more per semester) can negatively impact your final grade. If you will miss class, please email the instructor as soon as possible.\nCheck your GT email and Canvas daily. Important class announcements and information are posted to Canvas.\nNo textbook is required. Course materials and assignment information will be provided through Canvas.\nThe use of generative AI is strongly discouraged. This course is based in your own discovery, exploration, and reflection. Per the Georgia Tech Honor Code, no work produced via AI should be submitted as your own.\nWhen in doubt, ask. If you are unsure whether a resource, collaboration, or AI use is appropriate, contact the instructor before submitting.\n\n\n\n\n\n\n\nTipNext steps\n\n\n\nReview the full syllabus, note the class meeting time and location, and come to the first session ready to participate."
+  },
+  {
+    "objectID": "index.html#copyright",
+    "href": "index.html#copyright",
+    "title": "Welcome Page",
+    "section": "8 Copyright",
+    "text": "8 Copyright\n© 2026 Andrew J. Steinmetz. Course materials are licensed under the Creative Commons Attribution 4.0 International License. You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.\n\n8.1 AI Disclosure\nSome course materials were developed with assistance from generative AI tools, including Claude (Anthropic), Copilot (Microsoft), ChatGPT (OpenAI), and Gemini (Google). All AI-generated content was reviewed, edited, and approved by the instructor before use."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#your-instructor",
+    "href": "lectures/lecture-01.html#your-instructor",
+    "title": "Course Overview & Résumés",
+    "section": "Your Instructor",
+    "text": "Your Instructor\n\n\nDr. Andrew J. Steinmetz\nSchool of Physics · Georgia Institute of Technology\n\n\n\nEmail\najsteinmetz@gatech.edu\n\n\nOffice hours\nBy appointment (link)\n\n\nOffice\nHowey W204\n\n\n\n\n\n\n\n\n\n\nhttps://www.linkedin.com/in/ajsteinmetz/"
+  },
+  {
+    "objectID": "lectures/lecture-01.html#welcome-to-phys-4604",
+    "href": "lectures/lecture-01.html#welcome-to-phys-4604",
+    "title": "Course Overview & Résumés",
+    "section": "Welcome to PHYS 4604",
+    "text": "Welcome to PHYS 4604\n\n\nOver the semester, we will produce five real documents you can use immediately in job applications, graduate school applications, fellowship applications, and career fairs.\nE.g. this is stuff you’ll need to get good at anyway, might as well practice it now!\nCourse websites:\n\nhttps://canvas.gatech.edu/\nhttps://ajsteinmetz.github.io/gt-phys-4604/\n\n\n\n\n\n\n\n\nxkcd #2756 “Qualifications” · CC BY-NC 2.5"
+  },
+  {
+    "objectID": "lectures/lecture-01.html#what-you-will-produce-this-semester",
+    "href": "lectures/lecture-01.html#what-you-will-produce-this-semester",
+    "title": "Course Overview & Résumés",
+    "section": "What You Will Produce This Semester",
+    "text": "What You Will Produce This Semester\n\n\n\nAssignment\nDue Date\nWeight\n\n\n\n\nRésumé\nSeptember 11\n10%\n\n\nOnline professional presence (LinkedIn)\nOctober 2\n4%\n\n\nResearch proposal, GRFP style\nOctober 23\n15%\n\n\nPersonal statement or cover letter\nNovember 20\n15%\n\n\nExternal participation\nDecember 4\n4%\n\n\nAttendance and participation\nWeekly\n52%\n\n\n\n\n\n\n\n\n\nNote\n\n\nThe dates have been intentionally chosen to front-load the majority of the work during the first two-thirds of the semester."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#course-policies-the-short-version",
+    "href": "lectures/lecture-01.html#course-policies-the-short-version",
+    "title": "Course Overview & Résumés",
+    "section": "Course Policies — The Short Version",
+    "text": "Course Policies — The Short Version\n\nAttendance is mandatory. One missed class is dropped from your attendance grade.\nNo textbook. Materials are provided through Canvas/course website.\nNo exams.\nLimited AI use is permitted but must be disclosed with an AI Usage Statement.\nLate work is not accepted. All assignments are open the entire semester, so plan ahead.\nWhen in doubt, ask. Email or office hours, I’d rather you ask than guess."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#part-i-what-do-i-do-with-my-degree",
+    "href": "lectures/lecture-01.html#part-i-what-do-i-do-with-my-degree",
+    "title": "Course Overview & Résumés",
+    "section": "Part I: What do I do with my degree?",
+    "text": "Part I: What do I do with my degree?\nNationally, about half of B.S. Physics majors are employed 1-year post-graduation; the rest mostly go to graduate school.\n\n\n\n\n\n\n(Mulvey and Pold 2025)"
+  },
+  {
+    "objectID": "lectures/lecture-01.html#b.s.-physics-employment-outcomes",
+    "href": "lectures/lecture-01.html#b.s.-physics-employment-outcomes",
+    "title": "Course Overview & Résumés",
+    "section": "B.S. Physics: Employment Outcomes",
+    "text": "B.S. Physics: Employment Outcomes\n\n\n\n\n\n\n\n\n(Mulvey and Pold 2025)"
+  },
+  {
+    "objectID": "lectures/lecture-01.html#gatech-b.s.-physics-starting-salaries",
+    "href": "lectures/lecture-01.html#gatech-b.s.-physics-starting-salaries",
+    "title": "Course Overview & Résumés",
+    "section": "GaTech B.S. Physics: Starting Salaries",
+    "text": "GaTech B.S. Physics: Starting Salaries\nReported initial median salaries range from $74,000 to $86,500 and are competitive or in excess of national trends reported by NACE.\n\n\n\n\n\n\n\n\n\n\n(National Association of Colleges and Employers 2021-2026, 2022-2025; Georgia Institute of Technology Office of Academic Effectiveness 2021-2025)"
+  },
+  {
+    "objectID": "lectures/lecture-01.html#gatech-b.s.-physics-graduate-acceptance",
+    "href": "lectures/lecture-01.html#gatech-b.s.-physics-graduate-acceptance",
+    "title": "Course Overview & Résumés",
+    "section": "GaTech B.S. Physics: Graduate Acceptance",
+    "text": "GaTech B.S. Physics: Graduate Acceptance\nMost Georgia Tech B.S. Physics majors who intend to further their education are accepted into at least one graduate school by graduation.\n\n\n\n\n\n\n\n\n\n\n(Georgia Institute of Technology Office of Academic Effectiveness 2021-2025)"
+  },
+  {
+    "objectID": "lectures/lecture-01.html#gatech-b.s.-physics-graduate-destinations",
+    "href": "lectures/lecture-01.html#gatech-b.s.-physics-graduate-destinations",
+    "title": "Course Overview & Résumés",
+    "section": "GaTech B.S. Physics: Graduate Destinations",
+    "text": "GaTech B.S. Physics: Graduate Destinations\nGeorgia Tech B.S. Physics majors are accepted to a wide range of highly ranked institutions for graduate study.\n\n\n\n\n\n\n\n\n\n\n(Georgia Institute of Technology Institutional Research and Planning 2026)"
+  },
+  {
+    "objectID": "lectures/lecture-01.html#part-ii-september-career-fair-events",
+    "href": "lectures/lecture-01.html#part-ii-september-career-fair-events",
+    "title": "Course Overview & Résumés",
+    "section": "Part II: September Career Fair Events",
+    "text": "Part II: September Career Fair Events\nCareer Center events:\n\nSept. 8: GT Career Center: In-Person Resume Reviews\nSept. 9: Supply Chain Day Career Fair\nSept. 9: GT Career Center: Virtual Resume Reviews\nSept. 10: GT Career Center: Virtual Resume Reviews\nSept. 14: Fall 2026 All Majors Career Fair\nSept. 15: Fall 2026 All Majors Career Fair\nSept. 17: Fall 2026 College of Computing Career Fair\nSept. 21: Fall 2026 IISE Career Fair"
+  },
+  {
+    "objectID": "lectures/lecture-01.html#the-career-fair-is-seventeen-days-away",
+    "href": "lectures/lecture-01.html#the-career-fair-is-seventeen-days-away",
+    "title": "Course Overview & Résumés",
+    "section": "The Career Fair Is Seventeen Days Away",
+    "text": "The Career Fair Is Seventeen Days Away\nThe Fall 2026 All Majors Career Fair is September 14–15 at Georgia Tech.\n\nGeorgia Tech Career Fair\nGeorgia Tech Interviewing Resources\n\nYour résumé is due September 11 before the fair begins.\n\nThe goal of today’s lecture: covering what goes on a résumé and how to start writing one if you haven’t done so already."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#part-iii-résumés",
+    "href": "lectures/lecture-01.html#part-iii-résumés",
+    "title": "Course Overview & Résumés",
+    "section": "Part III: Résumés",
+    "text": "Part III: Résumés\nA résumé is typically organized into six sections:\n\nContact information\nEducation\nExperience\nSkills\nProjects and leadership\nAwards and honors (optional)\n\nNot every résumé looks the same. The order and emphasis depend on your background and the opportunity."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#résumé-vs.-academic-cv",
+    "href": "lectures/lecture-01.html#résumé-vs.-academic-cv",
+    "title": "Course Overview & Résumés",
+    "section": "Résumé vs. Academic CV",
+    "text": "Résumé vs. Academic CV\n\n\n\n\n\n\n\n\n\nRésumé\nAcademic CV\n\n\n\n\nLength\n1–2 pages\nNo limit; grows over time\n\n\nPurpose\nFit for a specific role\nFull academic and professional record\n\n\nUsed for\nJobs, internships, most undergrad opportunities\nGrad fellowships, faculty positions, postdocs\n\n\nCustomization\nTailored to each application\nUpdated over time\n\n\n\nFor most of you a résumé is your concern. A CV will come later during graduate school, as publications, talks, and grants accumulate."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#contact-information",
+    "href": "lectures/lecture-01.html#contact-information",
+    "title": "Course Overview & Résumés",
+    "section": "Contact Information",
+    "text": "Contact Information\nMake this easy to find — usually at the top of the page.\n\nFull name (prominent — consider a slightly larger font)\nProfessional email address (GT email is fine)\nPhone number\nLinkedIn profile URL\nGitHub or portfolio URL (if you have one worth sharing)\nCity and state — no full street address needed\n\n\nMention that GT email is appropriate for now but a permanent personal email is useful long-term. LinkedIn URL should be customized (linkedin.com/in/yourname) rather than the default random string."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#education",
+    "href": "lectures/lecture-01.html#education",
+    "title": "Course Overview & Résumés",
+    "section": "Education",
+    "text": "Education\n\nGeorgia Institute of Technology\n\nB.S. Physics / Astrophysics / Applied Physics (or joint degree)\nExpected graduation: May 2027 (or your actual date)\nGPA: include if ≥ 3.0 — judgement call\n\nRelevant coursework (optional, useful if experience is thin)\nAcademic honors: Dean’s List, scholarships, etc.\n\nList your most recent degree first. If you attended another institution, include it."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#experience",
+    "href": "lectures/lecture-01.html#experience",
+    "title": "Course Overview & Résumés",
+    "section": "Experience",
+    "text": "Experience\nThe most important section for most employers.\nInclude: work, research, internships, co-ops, teaching assistantships\nFor each entry:\n\nOrganization name and your role or title\nDates — month and year (e.g., May 2025 – Aug. 2025)\nLocation (city, state) — or “Remote”\n2–4 bullet points describing what you did and what it produced\n\nResearch experience counts strongly for physics students: faculty advisors, national labs, REUs.\n\nEmphasize that even a one-semester research role is worth including if it involved real technical work."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#writing-strong-bullets",
+    "href": "lectures/lecture-01.html#writing-strong-bullets",
+    "title": "Course Overview & Résumés",
+    "section": "Writing Strong Bullets",
+    "text": "Writing Strong Bullets\nThe most common mistake: describing duties instead of accomplishments.\n\n\n\n\n\n\n\nWeak\nStrong\n\n\n\n\nHelped with research in the lab\nAnalyzed detector calibration data in Python; results incorporated into weekly group reports\n\n\nResponsible for data analysis\nDeveloped signal-processing pipeline in MATLAB, reducing analysis time by 40%\n\n\nWorked on simulations\nImplemented Monte Carlo simulation of particle trajectories in C++; validated against published results\n\n\n\nLead with a strong action verb. Quantify where you can."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#strong-action-verbs",
+    "href": "lectures/lecture-01.html#strong-action-verbs",
+    "title": "Course Overview & Résumés",
+    "section": "Strong Action Verbs",
+    "text": "Strong Action Verbs\nUse these to open your bullet points:\nResearch and Analysis Analyzed · Modeled · Simulated · Measured · Characterized · Derived · Validated\nDevelopment and Implementation Built · Designed · Developed · Implemented · Programmed · Automated · Optimized\nCommunication and Collaboration Presented · Wrote · Documented · Led · Collaborated · Mentored · Coordinated"
+  },
+  {
+    "objectID": "lectures/lecture-01.html#skills",
+    "href": "lectures/lecture-01.html#skills",
+    "title": "Course Overview & Résumés",
+    "section": "Skills",
+    "text": "Skills\nList technical skills — the specific tools and languages you actually know.\nProgramming and Software Python, MATLAB, C/C++, Julia, Mathematica, LaTeX, Git, Linux/bash, etc.\nLaboratory and Instrumentation List specific instruments, techniques, or equipment relevant to your work\nOther Data analysis, scientific writing, numerical methods\n\nDo not list generic software (Word, PowerPoint) unless the role specifically requires it."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#projects-and-leadership",
+    "href": "lectures/lecture-01.html#projects-and-leadership",
+    "title": "Course Overview & Résumés",
+    "section": "Projects and Leadership",
+    "text": "Projects and Leadership\nValuable if work or research experience is limited and generally worth including.\nTechnical projects\n\nComputational or experimental class projects with real results\nIndependent projects, open-source contributions\n\nLeadership and service\n\nClub officers, SPS (Society of Physics Students), outreach programs\nTeaching or peer tutoring roles\n\nDescribe these the same way you describe experience: action verb, specific contribution, result if possible."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#formatting",
+    "href": "lectures/lecture-01.html#formatting",
+    "title": "Course Overview & Résumés",
+    "section": "Formatting",
+    "text": "Formatting\nKeep it clean and professional.\n\nOne page for most undergraduates (two pages with substantial experience)\nConsistent fonts — one or two at most; no smaller than 10 pt for body text\nAdequate white space — do not cram everything in\nConsistent alignment of dates and section headers\nNo photos, no graphics, no colored text (with rare exceptions)\nTypos and grammar errors are disqualifying. Proofread. Then proofread again.\n\nGeorgia Tech Career Center — Résumé Guidance\n\nEncourage students to use one if they are starting from scratch. The formatting rules exist because recruiters scan résumés in seconds."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#upcoming-schedule",
+    "href": "lectures/lecture-01.html#upcoming-schedule",
+    "title": "Course Overview & Résumés",
+    "section": "Upcoming Schedule",
+    "text": "Upcoming Schedule\n\nStart your résumé draft — or revisit the one you have.\nBring it to class next Friday (September 4) — we will workshop drafts in class.\nRésumé is due: September 11 at 11:59 PM ET — submitted as PDF to Canvas.\nCareer Fair: September 14–15 — Attendance counts as possible External Participation credit."
+  },
+  {
+    "objectID": "lectures/lecture-01.html#references",
+    "href": "lectures/lecture-01.html#references",
+    "title": "Course Overview & Résumés",
+    "section": "References",
+    "text": "References\n\n\nGeorgia Institute of Technology Institutional Research and Planning. 2026. Graduate-Granting Institutions Attended by Bachelor of Science in Physics Alumni Who Graduated Between Academic Years 2021 Through 2025. No. UR0083979. Georgia Institute of Technology.\n\n\nGeorgia Institute of Technology Office of Academic Effectiveness. 2021-2025. Career and Salary Survey. Georgia Institute of Technology. https://www.oae.gatech.edu/.\n\n\nMulvey, Patrick, and Jack Pold. 2025. Physics Bachelors Initial Employment: Academic Years 2020–21 and 2021–22. American Institute of Physics Statistical Research Center. https://doi.org/10.1063/sr.aa204240a3.\n\n\nNational Association of Colleges and Employers. 2021-2026. Salary Survey: Winter Report. National Association of Colleges and Employers. https://www.naceweb.org/research/.\n\n\nNational Association of Colleges and Employers. 2022-2025. Salary Survey: Summer Report. National Association of Colleges and Employers. https://www.naceweb.org/research/."
+  },
+  {
+    "objectID": "supplemental/resume-cv.html",
+    "href": "supplemental/resume-cv.html",
+    "title": "Résumé vs. Academic CV",
+    "section": "",
+    "text": "A résumé is a concise, targeted document that highlights the experiences and qualifications most relevant to a particular opportunity. It is the standard document for most internships, industry jobs, research technician positions, and many early-career applications.\nAn academic curriculum vitae, usually called a CV, is a longer and more comprehensive record of academic, research, teaching, and professional accomplishments. It grows over time and is commonly used for graduate school, academic research positions, postdoctoral applications, faculty positions, grant applications, and promotion or review processes.\n\n\n\n\n\n\nImportant\n\n\n\nMost undergraduates will need a strong résumé well before they need a true academic CV. An academic CV is often first developed during graduate school, when publications, talks, research outputs, teaching roles, and professional service begin to accumulate."
+  },
+  {
+    "objectID": "supplemental/resume-cv.html#the-short-version",
+    "href": "supplemental/resume-cv.html#the-short-version",
+    "title": "Résumé vs. Academic CV",
+    "section": "",
+    "text": "A résumé is a concise, targeted document that highlights the experiences and qualifications most relevant to a particular opportunity. It is the standard document for most internships, industry jobs, research technician positions, and many early-career applications.\nAn academic curriculum vitae, usually called a CV, is a longer and more comprehensive record of academic, research, teaching, and professional accomplishments. It grows over time and is commonly used for graduate school, academic research positions, postdoctoral applications, faculty positions, grant applications, and promotion or review processes.\n\n\n\n\n\n\nImportant\n\n\n\nMost undergraduates will need a strong résumé well before they need a true academic CV. An academic CV is often first developed during graduate school, when publications, talks, research outputs, teaching roles, and professional service begin to accumulate."
+  },
+  {
+    "objectID": "supplemental/resume-cv.html#when-should-you-use-each",
+    "href": "supplemental/resume-cv.html#when-should-you-use-each",
+    "title": "Résumé vs. Academic CV",
+    "section": "2 When Should You Use Each?",
+    "text": "2 When Should You Use Each?\n\n\n\n\n\n\n\n\nSituation\nUsually Use\nWhy\n\n\n\n\nInternship or industry job application\nRésumé\nEmployers typically want a concise, tailored summary of relevant skills and experience.\n\n\nCareer fair or networking conversation\nRésumé\nA short document is easier to scan quickly and use in conversation.\n\n\nUndergraduate research position\nUsually résumé\nA résumé is typically sufficient unless the program specifically asks for a CV.\n\n\nGraduate school application\nRésumé or CV\nFollow the program instructions. Research-intensive programs may request a CV.\n\n\nGraduate fellowship, academic research role, or postdoctoral application\nAcademic CV\nThese applications often need a fuller record of research, publications, presentations, and honors.\n\n\nFaculty jobs, academic promotion, grant applications\nAcademic CV\nThe CV serves as a comprehensive professional record."
+  },
+  {
+    "objectID": "supplemental/resume-cv.html#key-differences",
+    "href": "supplemental/resume-cv.html#key-differences",
+    "title": "Résumé vs. Academic CV",
+    "section": "3 Key Differences",
+    "text": "3 Key Differences\n\n\n\n\n\n\n\n\nFeature\nRésumé\nAcademic CV\n\n\n\n\nTypical length\nOften 1 page for undergraduates; sometimes 2 pages with substantial experience\nNo fixed limit; grows with academic experience\n\n\nPurpose\nMarket your fit for a specific role\nDocument your full academic and professional record\n\n\nCustomization\nHighly tailored to the job, internship, or opportunity\nUsually updated over time, but less radically tailored\n\n\nStyle\nSelective, concise, skill-oriented\nComprehensive, chronological, detailed\n\n\nCommon content\nEducation, skills, experience, projects, leadership, selected awards\nEducation, appointments, publications, talks, teaching, grants, awards, mentoring, service, outreach, professional memberships\n\n\nMain question answered\n“Why are you a strong candidate for this position?”\n“What is the full scope of your academic and professional record?”"
+  },
+  {
+    "objectID": "supplemental/resume-cv.html#what-belongs-on-a-résumé",
+    "href": "supplemental/resume-cv.html#what-belongs-on-a-résumé",
+    "title": "Résumé vs. Academic CV",
+    "section": "4 What Belongs on a Résumé?",
+    "text": "4 What Belongs on a Résumé?\nA résumé should be selective. You do not need to list everything you have ever done. Instead, choose the experiences most relevant to the opportunity you are pursuing.\n\n4.1 Common Résumé Sections\n\nContact information\nEducation\nRelevant work, research, or internship experience\nProjects or technical experience\nSkills, especially software, laboratory, computational, or language skills\nLeadership, service, or activities, when relevant\nSelected honors or awards, if useful\n\n\n\n\n\n\n\nNoteBuilding your first résumé\n\n\n\nMost, if not all, undergraduates should be working from a résumé rather than an academic CV. The goal is to prepare a polished professional document that can be used for jobs, internships, research opportunities, career fairs, or related applications."
+  },
+  {
+    "objectID": "supplemental/resume-cv.html#what-belongs-on-an-academic-cv",
+    "href": "supplemental/resume-cv.html#what-belongs-on-an-academic-cv",
+    "title": "Résumé vs. Academic CV",
+    "section": "5 What Belongs on an Academic CV?",
+    "text": "5 What Belongs on an Academic CV?\nAn academic CV is much broader than a résumé. Academic CVs vary considerably in style and length, but they commonly document a wide range of academic contributions.\n\n5.1 Common Academic CV Sections\n\nContact information and professional title\nEducation, often including dissertation or advisor information\nAcademic employment or appointments\nResearch interests or areas of specialization\nPublications, sometimes separated into peer-reviewed articles, book chapters, reports, and works in progress\nConference presentations, invited talks, and seminars\nGrants, fellowships, awards, and honors\nTeaching experience, often with courses, terms, enrollment, or instructional roles\nMentoring and student supervision\nProfessional service, such as reviewing, organizing conferences, committee work, and society involvement\nInstitutional service and public outreach"
+  },
+  {
+    "objectID": "supplemental/resume-cv.html#practical-guidance-for-students",
+    "href": "supplemental/resume-cv.html#practical-guidance-for-students",
+    "title": "Résumé vs. Academic CV",
+    "section": "6 Practical Guidance for Students",
+    "text": "6 Practical Guidance for Students\n\nStart with a résumé. Every student should be able to produce a polished résumé for jobs, internships, research roles, and networking.\nBegin a CV only when it becomes useful. This often happens during graduate school, or earlier if you begin applying for research-intensive programs that specifically request one.\nFollow the instructions of the opportunity. If an application asks for a résumé, submit a résumé. If it asks for a CV, submit a CV.\nDo not simply rename one document. A résumé and CV serve different purposes and should be structured accordingly.\nMaintain a master record. Even if you are submitting a one-page résumé, keep a private running list of all research projects, presentations, awards, teaching roles, and service. That record can later become the basis of an academic CV.\n\n\n\n\n\n\n\nTip\n\n\n\nFor most first-year students, the immediate priority is learning to produce a strong résumé. Understanding the academic CV now will help you recognize when and how to build one later."
+  }
+]
