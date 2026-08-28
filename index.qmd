@@ -64,39 +64,47 @@ There are no prerequisites. This section is intended for first-year students in 
 
 ## Course Schedule
 
-<!-- TODO: replace the placeholder rows below with the finalized Fall 2026 weekly schedule. -->
+<!-- TODO: fill in the topics for the TBD weeks below. -->
 
-The course meets every Friday of the semester except holidays. The schedule below may be adjusted as needed throughout the semester.
+The course meets every Friday of the semester except holidays, from **August 28 through December 4**. The schedule below may be adjusted as needed throughout the semester.
 
 | Date | Tentative Topic / Focus | Major Due Dates |
 |---|---|---|
-| TBD | Course introduction | — |
-| TBD | TBD | — |
-| TBD | TBD | **TBD** |
-| TBD | TBD | — |
-| TBD | TBD | **TBD** |
-| TBD | TBD | — |
-| TBD | Course wrap-up and reflection | **TBD** |
+| Aug. 28 | Course introduction; résumés | — |
+| Sept. 4 | Résumé review and revision workshop | — |
+| Sept. 11 | Time management and study strategies | **Résumé due** |
+| Sept. 14-15 | **Fall 2026 All Majors Career Fair** | — |
+| Sept. 18 | TBD | — |
+| Sept. 25 | TBD | — |
+| Oct. 2 | TBD | — |
+| Oct. 9 | TBD | — |
+| Oct. 16 | TBD | — |
+| Oct. 23 | TBD | — |
+| Oct. 30 | TBD | — |
+| Nov. 6 | TBD | — |
+| Nov. 13 | TBD | — |
+| Nov. 20 | TBD | — |
+| Dec. 4 | Course wrap-up and reflection | — |
 
 ## Assignments and Grading
 
-There are no exams in this course. Your grade is based on participation and attendance together with three projects, each weighted equally. Written assignments should be submitted on Canvas in PDF format by **11:59 PM ET** unless otherwise specified.
+There are no exams in this course. Your grade is based on participation and attendance together with the Team Project and two graded categories, Academic Planning and Career Readiness, each holding several smaller deliverables. All four components are weighted equally. Written assignments should be submitted on Canvas in PDF format by **11:59 PM ET** unless otherwise specified.
 
 | Course Component | Due Date | Weight |
 |---|---|---|
 | Participation, short assignments, and attendance | Weekly | 25% |
 | Team Project | TBD | 25% |
-| Academic Planning Project | TBD | 25% |
-| Career Readiness Project | TBD | 25% |
+| Academic Planning | Multiple deliverables | 25% |
+| Career Readiness | Multiple deliverables | 25% |
 
 ### Assignment Descriptions
 
-<!-- TODO: write the full description for each project. Canvas assignment links go here once the course shell exists. -->
+<!-- TODO: write the full description for each component. Canvas assignment links go here once the course shell exists. -->
 
 - **Participation, short assignments, and attendance:** Attendance and active participation in each class session, along with short in-class and take-home assignments. Excessive lateness and absences (three or more per semester) can negatively impact your final grade.
 - **[Team Project](assignments/team-project.qmd):** TBD.
-- **[Academic Planning Project](assignments/academic-planning.qmd):** TBD.
-- **[Career Readiness Project](assignments/career-readiness.qmd):** TBD.
+- **[Academic Planning](assignments/academic-planning.qmd):** A category of several deliverables covering your path to graduation and academic enrichment. TBD.
+- **[Career Readiness](assignments/career-readiness.qmd):** A category of several deliverables covering professional preparation. The first is your **résumé, due September 11**. TBD.
 
 ## Important Links and Resources
 

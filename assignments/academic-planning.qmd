@@ -1,6 +1,6 @@
 ---
-title: "Academic Planning Project"
-subtitle: "Due: TBD · 25% of course grade"
+title: "Academic Planning"
+subtitle: "25% of course grade · multiple deliverables"
 ---
 
 <!-- TODO: write this assignment. Replace every TBD below and add the Canvas
