@@ -9,9 +9,23 @@ subtitle: "GT 1000: First-Year Seminar, Physics"
 
 ## Welcome
 
+:::: {.columns}
+
+::: {.column style="width: 70%; padding-right: 2em;"}
 Welcome to **GT 1000: First-Year Seminar, Physics**. This course is designed to help you make a successful transition to college by becoming better acquainted with the academic and social environments here at Georgia Tech.
 
 Through the semester you will build strategies that promote academic, social, and professional success, learn how to navigate the resources available to you at Tech, and explore what it means to be a physicist at the undergraduate, graduate, and career levels. This is a highly interactive course that requires active student participation and working collaboratively in small groups.
+:::
+
+::: {.column width="30%"}
+![](https://imgs.xkcd.com/comics/physicists.png){fig-align="center" width="100%" fig-alt="xkcd comic #793, \"Physicists\": a physicist interrupts another field's researcher to offer a simple model of their problem."}
+
+::: {style="text-align: center; color: #555;"}
+[xkcd #793 "Physicists"](https://xkcd.com/793/) · [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
+:::
+:::
+
+::::
 
 ::: {.callout-note}
 Review the full syllabus on Canvas as this home page is a truncated version (with the exception of the Course Schedule, which will remain updated here if anything changes during the semester).
