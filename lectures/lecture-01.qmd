@@ -1,6 +1,6 @@
 ---
 title: "Course Overview & Résumés"
-subtitle: "PHYS 4604 · Lecture 1"
+subtitle: "GT 1000 · Lecture 1"
 author: "Andrew J. Steinmetz"
 date: "August 28, 2026"
 format:
@@ -8,16 +8,16 @@ format:
     theme: [default, gatech-revealjs.css]
     slide-number: c/t
     transition: none
-    footer: "PHYS 4604 · Fall 2026 · Georgia Institute of Technology"
+    footer: "GT 1000 · Fall 2026 · Section D03 · Georgia Institute of Technology"
     width: 1200
     height: 750
     auto-stretch: false
 ---
 
-## Your Instructor
+## Your Instructor & Team Leader
 
 :::: {.columns}
-::: {.column width="60%"}
+::: {.column width="40%"}
 **Dr. Andrew J. Steinmetz**
 
 School of Physics · Georgia Institute of Technology
@@ -27,9 +27,18 @@ School of Physics · Georgia Institute of Technology
 | **Email** | [ajsteinmetz@gatech.edu](mailto:ajsteinmetz@gatech.edu) |
 | **Office hours** | [By appointment (link)](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
 | **Office** | Howey W204 |
+
+**Elouan Crews**
+
+Your Team Leader
+
+| | |
+|---|---|
+| **Email** | [ecrews8@gatech.edu](mailto:ecrews8@gatech.edu) |
+
 :::
-::: {.column width="40%"}
-![](figs/qr-code.jpg){fig-align="center" width="75%"}
+::: {.column width="25%"}
+![](figs/qr-code.jpg){fig-align="center" width="100%"}
 
 ::: {.cite-note}
 [https://www.linkedin.com/in/ajsteinmetz/](https://www.linkedin.com/in/ajsteinmetz/)
@@ -41,18 +50,20 @@ School of Physics · Georgia Institute of Technology
 
 ---
 
-## Welcome to PHYS 4604
+## Welcome to GT 1000
 
 :::: {.columns}
 ::: {.column width="70%"}
-Over the semester, we will produce five real documents you can use immediately in job applications, graduate school applications, fellowship applications, and career fairs. 
+This seminar is here to help you make a successful transition to college by getting you better acquainted with the academic and social environments at Georgia Tech.
 
-E.g. this is stuff you'll need to get good at anyway, might as well practice it now!
+Over the semester you will build strategies for academic, social, and professional success, learn to navigate the resources available to you, and explore what it actually means to be a physicist.
+
+This is a highly interactive course. Come ready to participate and to work in small groups.
 
 ### Course websites:
 
 - [https://canvas.gatech.edu/](https://canvas.gatech.edu/)
-- [https://ajsteinmetz.github.io/gt-phys-4604/](https://ajsteinmetz.github.io/gt-phys-4604/)
+- [https://ajsteinmetz.github.io/gt-gt-1000/](https://ajsteinmetz.github.io/gt-gt-1000/)
 :::
 
 ::: {.column width="30%"}
@@ -67,19 +78,34 @@ E.g. this is stuff you'll need to get good at anyway, might as well practice it 
 
 ---
 
-## What You Will Produce This Semester
+## Learning Outcomes
 
-| Assignment | Due Date | Weight |
+By the end of this course, you will be able to:
+
+::: {.nonincremental}
+1. **Develop self-awareness and self-knowledge**, particularly as it relates to your academic interests and professional goals.
+2. **Describe your path to graduation** and identify opportunities for academic and professional enrichment with the assistance of a faculty member or advisor.
+3. **Demonstrate the ability to lead** and productively participate in collaborative projects.
+4. **Be aware of what it means to be a physicist** and explore opportunities for physicists at the undergraduate, graduate, and career levels.
+:::
+
+::: {.highlight-box}
+Outcome 4 is why we are looking at career data today, and why your résumé is the first thing you will turn in.
+:::
+
+---
+
+## How You Are Graded
+
+| Course Component | Due | Weight |
 |---|---|---|
-| Résumé | September 11 | 10% |
-| Online professional presence (LinkedIn) | October 2 | 4% |
-| Research proposal, GRFP style | October 23 | 15% |
-| Personal statement or cover letter | November 20 | 15% |
-| External participation | December 4 | 4% |
-| Attendance and participation | Weekly | 52% |
+| Participation, short assignments, and attendance | Weekly | 25% |
+| Team Project | TBD | 25% |
+| Academic Planning | Multiple deliverables | 25% |
+| Career Readiness | Multiple deliverables | 25% |
 
 ::: {.callout-note}
-The dates have been intentionally chosen to front-load the majority of the work during the first two-thirds of the semester.
+All four components are weighted equally and there are no exams in this course. The first Career Readiness deliverable is your **résumé, due September 11**.
 :::
 
 
@@ -87,10 +113,10 @@ The dates have been intentionally chosen to front-load the majority of the work 
 
 ## Course Policies — The Short Version
 
-- **Attendance is mandatory.** One missed class is dropped from your attendance grade.
+- **Attendance is mandatory.** Excessive lateness and absences (three or more per semester) can negatively impact your final grade. Excused absences go through the Dean of Students.
 - **No textbook.** Materials are provided through Canvas/course website.
 - **No exams.**
-- **Limited AI use is permitted** but must be disclosed with an AI Usage Statement.
+- **The use of generative AI is strongly discouraged.** Brainstorming with it is fine, but per the Honor Code no work produced via AI may be submitted as your own.
 - **Late work is not accepted.** All assignments are open the entire semester, so plan ahead.
 - **When in doubt, ask.** Email or office hours, I'd rather you ask than guess.
 
@@ -98,33 +124,13 @@ The dates have been intentionally chosen to front-load the majority of the work 
 
 ## Part I: What do I do with my degree?
 
-Nationally, about half of B.S. Physics majors are employed 1-year post-graduation; the rest mostly go to graduate school.
+You picked this major a few weeks ago. Here is where it goes: nationally, about half of B.S. Physics majors are employed one year after graduation, and most of the rest go to graduate school.
 
 ![](figs/fig1_bachelors-status.png){fig-align="center" width="80%"}
 
 ::: {.cite-note style="margin-top: -0.5em;"}
 [@mulvey2025]
 :::
-
----
-
-## B.S. Physics: Employment Outcomes
-
-:::: {.columns}
-::: {.column width="50%"}
-![](figs/fig2a_bachelors-employment.png){fig-align="center" width="100%"}
-
-::: {.cite-note style="margin-top: -0.5em;"}
-[@mulvey2025]
-:::
-
-
-:::
-::: {.column width="50%"}
-![](figs/fig2b_bachelors-employment.png){fig-align="center" width="100%"}
-
-:::
-::::
 
 ---
 
@@ -173,107 +179,6 @@ plt.show()
 
 ::: {.cite-note style="margin-top: -0.5em;"}
 [@nace_winter; @nace_summer; @oae_gt]
-:::
-
----
-
-## GaTech B.S. Physics: Graduate Acceptance
-
-Most Georgia Tech B.S. Physics majors who intend to further their education are accepted into at least one graduate school by graduation.
-
-```{python}
-#| echo: false
-#| fig-align: center
-import matplotlib
-import matplotlib.pyplot as plt
-import numpy as np
-
-matplotlib.rcParams.update({'font.family': 'sans-serif'})
-
-years    = ['2020–21', '2021–22', '2022–23', '2023–24', '2024–25']
-x        = np.arange(len(years))
-width    = 0.3
-
-further  = [68.4, 60.6, 50.0, 65.2, 62.1]
-accepted = [42.1, 51.5, 39.3, 56.5, 58.6]
-
-fig, ax = plt.subplots(figsize=(12, 4.5))
-
-ax.bar(x - width/2, further,  width, label='Furthering education',        color='#2e7d32', edgecolor='black', linewidth=0.5)
-ax.bar(x + width/2, accepted, width, label='Accepted to graduate program', color='#00acc1', edgecolor='black', linewidth=0.5)
-
-ax.set_xlabel('Academic Year', fontsize=18)
-ax.set_ylabel('Percent of B.S. respondents (%)', fontsize=18)
-ax.set_xticks(x)
-ax.set_xticklabels(years, fontsize=16)
-ax.set_ylim(0, 80)
-ax.set_yticks(range(0, 81, 10))
-ax.tick_params(axis='y', labelsize=16)
-ax.yaxis.grid(True, linestyle='--', alpha=0.55, color='gray')
-ax.set_axisbelow(True)
-ax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15),
-          ncol=2, frameon=False, fontsize=16)
-ax.spines['top'].set_visible(False)
-ax.spines['right'].set_visible(False)
-
-plt.tight_layout()
-plt.show()
-```
-
-::: {.cite-note style="margin-top: -0.5em;"}
-[@oae_gt]
-:::
-
----
-
-## GaTech B.S. Physics: Graduate Destinations
-
-Georgia Tech B.S. Physics majors are accepted to a wide range of highly ranked institutions for graduate study.
-
-```{python}
-#| echo: false
-#| fig-align: center
-import matplotlib
-import matplotlib.pyplot as plt
-
-matplotlib.rcParams.update({'font.family': 'sans-serif'})
-
-labels = [
-    'Georgia Tech', 'CU Boulder', 'Caltech', 'Johns Hopkins U.',
-    'Purdue U.', 'Harvard U.', 'MIT', 'U. of Maryland',
-    'UT Austin', 'All other institutions'
-]
-sizes  = [35.7, 3.9, 3.2, 3.2, 3.2, 2.6, 2.6, 2.6, 2.6, 40.3]
-colors = [
-    '#5588BB', '#D97000', '#2e7d32', '#CC3333', '#9955CC',
-    '#00ACC1', '#009999', '#996633', '#8C8C8C', '#BBBBBB'
-]
-
-fig, ax = plt.subplots(figsize=(12, 4.5))
-
-wedges, _ = ax.pie(
-    sizes,
-    colors=colors,
-    startangle=90,
-    counterclock=False,
-    wedgeprops={'edgecolor': 'white', 'linewidth': 1.5}
-)
-
-legend_labels = [f'{l} — {s:.1f}%' for l, s in zip(labels, sizes)]
-ax.legend(
-    wedges, legend_labels,
-    loc='center left',
-    bbox_to_anchor=(1.02, 0.5),
-    fontsize=16,
-    frameon=False
-)
-
-plt.tight_layout()
-plt.show()
-```
-
-::: {.cite-note style="margin-top: -0.5em;"}
-[@irp_gt2026]
 :::
 
 ---
@@ -332,7 +237,9 @@ Not every résumé looks the same. The order and emphasis depend on your backgro
 | **Used for** | Jobs, internships, most undergrad opportunities | Grad fellowships, faculty positions, postdocs |
 | **Customization** | Tailored to each application | Updated over time |
 
-For most of you a **résumé** is your concern. A CV will come later during graduate school, as publications, talks, and grants accumulate.
+For all of you right now, a **résumé** is your concern. A CV comes later during graduate school, as publications, talks, and grants accumulate.
+
+For more detail, see the course guide: [Résumé vs. Academic CV](../supplemental/resume-cv.qmd)
 
 ---
 
@@ -357,12 +264,12 @@ Mention that GT email is appropriate for now but a permanent personal email is u
 
 - **Georgia Institute of Technology**
   - B.S. Physics / Astrophysics / Applied Physics (or joint degree)
-  - Expected graduation: May 2027 (or your actual date)
-  - GPA: include if ≥ 3.0 — judgement call
-- Relevant coursework (optional, useful if experience is thin)
-- Academic honors: Dean's List, scholarships, etc.
+  - Expected graduation: **May 2030** (or your actual date)
+  - GPA: you do not have a GT GPA yet — leave it off until you have a semester on the books, then include it if it is ≥ 3.0
+- Relevant coursework (optional, and useful right now while experience is thin)
+- Academic honors: high school honors and scholarships are fair game this year; Dean's List will come later
 
-List your most recent degree first. If you attended another institution, include it.
+List your most recent institution first. Your high school can stay on the résumé for now, and comes off once you have Tech coursework and experience to replace it.
 
 ---
 
@@ -379,10 +286,10 @@ For each entry:
 - Location (city, state) — or "Remote"
 - **2–4 bullet points describing what you did and what it produced**
 
-Research experience counts strongly for physics students: faculty advisors, national labs, REUs.
+Research experience counts strongly for physics students — faculty advisors, national labs, REUs — and that is where you are headed. In the meantime, **high school jobs, volunteering, and club roles all belong here.** Starting with a nearly empty Experience section is the normal first-year position, not a problem to hide.
 
 ::: notes
-Emphasize that even a one-semester research role is worth including if it involved real technical work.
+Reassure students that an empty experience section is expected in week one. Emphasize that even a one-semester research role is worth including if it involved real technical work.
 :::
 
 ---
@@ -437,7 +344,7 @@ Do not list generic software (Word, PowerPoint) unless the role specifically req
 
 ## Projects and Leadership
 
-Valuable if work or research experience is limited and generally worth including.
+Valuable if work or research experience is limited — which describes essentially all of you today.
 
 **Technical projects**
 
@@ -450,6 +357,10 @@ Valuable if work or research experience is limited and generally worth including
 - Teaching or peer tutoring roles
 
 Describe these the same way you describe experience: action verb, specific contribution, result if possible.
+
+::: {.highlight-box}
+**How you fill this section over the next two semesters:** join [SPS](https://physics.gatech.edu/), and start looking at [UROP](https://urop.gatech.edu/) for undergraduate research. First-years are eligible.
+:::
 
 ---
 
@@ -478,7 +389,57 @@ Encourage students to use one if they are starting from scratch. The formatting 
 1. **Start your résumé draft** — or revisit the one you have.
 2. **Bring it to class next Friday (September 4)** — we will workshop drafts in class.
 3. **Résumé is due: September 11 at 11:59 PM ET** — submitted as PDF to Canvas.
-4. **Career Fair: September 14–15** — Attendance counts as possible External Participation credit.
+4. **Career Fair: September 14–15** — Attending counts toward your participation and short-assignment credit.
+:::
+
+---
+
+## Part IV: Campus Scavenger Hunt
+
+The fastest way to learn this campus is to walk it. So go walk it — with people you have not met yet.
+
+::: {.nonincremental}
+- **Form a group of 2–3 students.** Find your group before you leave today.
+- **Visit all eight locations** on the next slide.
+- **Take a group selfie at each one.** Everyone in the group has to be in every photo.
+- **Compile the eight photos into a single PDF** and submit it to Canvas.
+:::
+
+::: {.highlight-box}
+**Due: TBD.** Counts toward your participation and short-assignment credit.
+:::
+
+---
+
+## The Eight Locations
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.nonincremental}
+1. **Tech Tower**
+2. **Einstein Statue**
+3. **Kessler Campanile** — "the Shaft"
+4. **Ramblin' Wreck** — at the GT Convention Center
+:::
+:::
+::: {.column width="50%"}
+::: {.nonincremental}
+5. **Campus Recreation Center**
+6. **Flowers Invention Studio**
+7. **Howey Physics Building** — my office, W-204
+8. **Clough Commons rooftop**
+:::
+:::
+::::
+
+Stop by W-204 while I am in and I will get in the photo with you.
+
+::: {.highlight-box}
+Stay out of restricted areas, and be considerate of people working and studying. If a space is closed or an event is going on, come back another time.
+:::
+
+::: notes
+Give students a few minutes at the end of class to form their groups so nobody is left scrambling afterward. Confirm the Canvas submission deadline before showing this slide.
 :::
 
 ---

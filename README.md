@@ -16,7 +16,7 @@ The scaffold is complete and renders, but course content is still being written.
 grep -rn "TODO\|TBD" --include="*.qmd" .
 ```
 
-Outstanding at minimum: the weekly schedule, the three project assignment pages, Canvas course and assignment links, and `lectures/lecture-01.qmd` (carried over unrevised from PHYS 4604).
+Outstanding at minimum: the weekly schedule, the three project assignment pages, and Canvas course and assignment links.
 
 ## Contents
 

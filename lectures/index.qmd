@@ -5,9 +5,6 @@ subtitle: "GT 1000: First-Year Seminar, Physics"
 
 **Fall 2026**
 
-<!-- TODO: lecture-01.qmd is carried over unchanged from PHYS 4604 and still
-     contains that course's title, dates, and content. Revise it for GT 1000. -->
-
 | # | Date | Topic | Slides |
 |---|---|---|---|
-| 1 | TBD | Course Overview | [Open slides](lecture-01.qmd){target="_blank"} |
+| 1 | Aug. 28 | Course Overview & Résumés | [Open slides](lecture-01.qmd){target="_blank"} |
