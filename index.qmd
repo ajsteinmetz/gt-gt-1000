@@ -55,6 +55,13 @@ There are no prerequisites. This section is intended for first-year students in 
 | **Office** | Howey W204 |
 | **Office Hours** | [By appointment](https://outlook.office.com/bookwithme/user/118287044b844adb8cb5cfaadd54546f@gatech.edu?anonymous&ismsaljsauthenabled&ep=plink) |
 
+### Team Leader
+
+| | |
+|---|---|
+| **Team Leader** | Elouan Crews |
+| **Email** | [ecrews8@gatech.edu](mailto:ecrews8@gatech.edu) |
+
 ## Course Schedule
 
 <!-- TODO: replace the placeholder rows below with the finalized Fall 2026 weekly schedule. -->
