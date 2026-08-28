@@ -17,7 +17,7 @@ format:
 ## Your Instructor & Team Leader
 
 :::: {.columns}
-::: {.column width="40%"}
+::: {.column width="50%"}
 **Dr. Andrew J. Steinmetz**
 
 School of Physics · Georgia Institute of Technology
@@ -37,7 +37,7 @@ Your Team Leader
 | **Email** | [ecrews8@gatech.edu](mailto:ecrews8@gatech.edu) |
 
 :::
-::: {.column width="25%"}
+::: {.column width="50%"}
 ![](figs/qr-code.jpg){fig-align="center" width="100%"}
 
 ::: {.cite-note}
@@ -53,12 +53,10 @@ Your Team Leader
 ## Welcome to GT 1000
 
 :::: {.columns}
-::: {.column width="70%"}
-This seminar is here to help you make a successful transition to college by getting you better acquainted with the academic and social environments at Georgia Tech.
+::: {.column width="60%"}
+This seminar is here to help you make a successful transition to college by getting you better acquainted with the academic and social environments at Georgia Tech and explore what it actually means to be a physicist.
 
-Over the semester you will build strategies for academic, social, and professional success, learn to navigate the resources available to you, and explore what it actually means to be a physicist.
-
-This is a highly interactive course. Come ready to participate and to work in small groups.
+This is a discussion-based course. Come ready to participate and to work in small groups.
 
 ### Course websites:
 
@@ -66,7 +64,7 @@ This is a highly interactive course. Come ready to participate and to work in sm
 - [https://ajsteinmetz.github.io/gt-gt-1000/](https://ajsteinmetz.github.io/gt-gt-1000/)
 :::
 
-::: {.column width="30%"}
+::: {.column width="40%"}
 ![](https://imgs.xkcd.com/comics/qualifications_2x.png){fig-align="center" width="100%"}
 
 ::: {.cite-note}
@@ -78,7 +76,7 @@ This is a highly interactive course. Come ready to participate and to work in sm
 
 ---
 
-## Learning Outcomes
+## Syllabus - Learning Outcomes
 
 By the end of this course, you will be able to:
 
@@ -91,7 +89,7 @@ By the end of this course, you will be able to:
 
 ---
 
-## How You Are Graded
+## Syllabus - How You Are Graded
 
 | Course Component | Due | Weight |
 |---|---|---|
@@ -107,14 +105,14 @@ All four components are weighted equally and there are no exams in this course. 
 
 ---
 
-## Course Policies — The Short Version
+## Course Policies - The Short Version
 
 - **Attendance is mandatory.** Excessive lateness and absences (three or more per semester) can negatively impact your final grade. Excused absences go through the Dean of Students.
 - **No textbook.** Materials are provided through Canvas/course website.
 - **No exams.**
 - **The use of generative AI is strongly discouraged.** Brainstorming with it is fine, but per the Honor Code no work produced via AI may be submitted as your own.
 - **Late work is not accepted.** All assignments are open the entire semester, so plan ahead.
-- **When in doubt, ask.** Email or office hours, I'd rather you ask than guess.
+- **When in doubt, ask.** Email or office hours.
 
 ---
 
@@ -184,7 +182,6 @@ plt.show()
 Career Center events (https://calendar.gatech.edu/):
 
 - Sept. 8: GT Career Center: In-Person Resume Reviews
-- Sept. 9: Supply Chain Day Career Fair
 - Sept. 9: GT Career Center: Virtual Resume Reviews
 - Sept. 10: GT Career Center: Virtual Resume Reviews
 - Sept. 14: **Fall 2026 All Majors Career Fair**
@@ -224,16 +221,14 @@ Not every résumé looks the same. The order and emphasis depend on your backgro
 
 ## Résumé vs. Academic CV
 
-| | Résumé | Academic CV |
-|---|---|---|
-| **Length** | 1–2 pages | No limit; grows over time |
-| **Purpose** | Fit for a specific role | Full academic and professional record |
-| **Used for** | Jobs, internships, most undergrad opportunities | Grad fellowships, faculty positions, postdocs |
-| **Customization** | Tailored to each application | Updated over time |
+| | Résumé | 
+|---|---| 
+| **Length** | 1–2 pages | 
+| **Purpose** | Fit for a specific role | 
+| **Used for** | Jobs, internships, most undergrad opportunities | 
+| **Customization** | Tailored to each application | 
 
-For all of you right now, a **résumé** is your concern. A CV comes later during graduate school, as publications, talks, and grants accumulate.
-
-For more detail, see the course guide: [Résumé vs. Academic CV](../supplemental/resume-cv.qmd)
+For all of you right now, a **résumé** is your concern.  For more detail, see the course guide: [Résumé vs. Academic CV](../supplemental/resume-cv.qmd)
 
 ---
 
@@ -260,8 +255,7 @@ Mention that GT email is appropriate for now but a permanent personal email is u
   - Expected graduation: **May 2030** (or your actual date)
   - GPA: you do not have a GT GPA yet — leave it off until you have a semester on the books, then include it if it is ≥ 3.0
 - Relevant coursework (optional, and useful right now while experience is thin). Academic honors: high school honors and scholarships are fair game this year.
-
-List your most recent institution first. Your high school can stay on the résumé for now, and comes off once you have Tech coursework and experience to replace it.
+- List your most recent institution first. Your high school can stay on the résumé for now, and comes off once you have Tech coursework and experience to replace it.
 
 ---
 
@@ -274,7 +268,9 @@ The most important section for most employers. Include: **work, research, intern
 - Location (city, state) — or "Remote"
 - **2–4 bullet points describing what you did and what it produced**
 
-Research experience counts strongly for physics students — faculty advisors, national labs, REUs — and that is where you are headed. In the meantime, **high school jobs, volunteering, and club roles all belong here.** 
+Research experience counts strongly for physics students: faculty advisors, national labs, REUs. In the meantime, **high school jobs, volunteering, and club roles all belong here.** 
+
+See https://experiential.learning.gatech.edu/urop/pura-salary/
 
 ::: notes
 Reassure students that an empty experience section is expected in week one. Emphasize that even a one-semester research role is worth including if it involved real technical work.
@@ -361,17 +357,17 @@ Encourage students to use one if they are starting from scratch. The formatting 
 
 ## Part IV: Campus Scavenger Hunt
 
-The fastest way to learn this campus is to walk it. So go walk it — with people you have not met yet.
+The fastest way to learn this campus is to walk it.
 
 ::: {.nonincremental}
 - **Form a group of 2–3 students.** Find your group before you leave today.
 - **Visit all eight locations** on the next slide.
 - **Take a group selfie at each one.** Everyone in the group has to be in every photo.
-- **Compile the eight photos into a single PDF** and submit it to Canvas.
+- **And submit it to Canvas.** Link isn't ready yet, lol.
 :::
 
 ::: {.highlight-box}
-**Due: TBD.** Counts toward your participation and short-assignment credit.
+**Due: September 4** Counts toward your participation and short-assignment credit.
 :::
 
 ---
@@ -383,25 +379,19 @@ The fastest way to learn this campus is to walk it. So go walk it — with peopl
 ::: {.nonincremental}
 1. **Tech Tower**
 2. **Einstein Statue**
-3. **Kessler Campanile** — "the Shaft"
-4. **Ramblin' Wreck** — at the GT Convention Center
+3. **Kessler Campanile** - "the Shaft" the John Lewis Center
+4. **Ramblin' Wreck** - at the GT Convention Center
 :::
 :::
 ::: {.column width="50%"}
 ::: {.nonincremental}
 5. **Campus Recreation Center**
 6. **Flowers Invention Studio**
-7. **Howey Physics Building** — my office, W-204
+7. **Howey Physics Building** - my office, W-204
 8. **Clough Commons rooftop**
 :::
 :::
 ::::
-
-Stop by W-204 while I am in and I will get in the photo with you.
-
-::: {.highlight-box}
-Stay out of restricted areas, and be considerate of people working and studying. If a space is closed or an event is going on, come back another time.
-:::
 
 ::: notes
 Give students a few minutes at the end of class to form their groups so nobody is left scrambling afterward. Confirm the Canvas submission deadline before showing this slide.
