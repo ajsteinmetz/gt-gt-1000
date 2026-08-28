@@ -17,7 +17,7 @@ format:
 ## Your Instructor & Team Leader
 
 :::: {.columns}
-::: {.column width="50%"}
+::: {.column width="65%"}
 **Dr. Andrew J. Steinmetz**
 
 School of Physics · Georgia Institute of Technology
@@ -37,7 +37,7 @@ Your Team Leader
 | **Email** | [ecrews8@gatech.edu](mailto:ecrews8@gatech.edu) |
 
 :::
-::: {.column width="50%"}
+::: {.column width="35%"}
 ![](figs/qr-code.jpg){fig-align="center" width="100%"}
 
 ::: {.cite-note}
