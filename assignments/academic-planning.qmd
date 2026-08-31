@@ -1,33 +1,73 @@
 ---
 title: "Academic Planning"
-subtitle: "25% of course grade · multiple deliverables"
+subtitle: "25% of course grade · 250 points"
 ---
 
-<!-- TODO: write this assignment. Replace every TBD below and add the Canvas
-     assignment link once the course shell exists. -->
+Academic Planning is not a single assignment. It is a category of several smaller deliverables spread across the semester, each graded on its own and added together for one quarter of your final grade. Deliverables are announced in class and posted here as they are assigned.
 
-## Purpose
+Unless a deliverable says otherwise, submit your work to Canvas as a **PDF** by **11:59 PM ET** on the due date. Late work is not accepted.
 
-TBD.
+This category supports the course learning outcome that students *describe their path to graduation and identify opportunities for academic and professional enrichment with the assistance of a faculty member or advisor*.
 
-This project supports the course learning outcome that students *describe their path to graduation and identify opportunities for academic and professional enrichment with the assistance of a faculty member or advisor*.
+## Deliverables
 
-## What to Submit
+| Deliverable | Due | Points |
+|---|---|---|
+| [Campus Scavenger Hunt](#scavenger-hunt) | Sept. 4, 11:59 PM ET | 40 |
+| Additional deliverables (TBD) | TBD | 210 |
+| **Total** | | **250** |
 
-- TBD.
-- The file must be submitted as a PDF.
-- Upload the PDF directly to this Canvas assignment by the deadline.
+## Campus Scavenger Hunt {#scavenger-hunt}
 
-## Expectations
+::: {.callout-note}
+**Due: September 4 at 11:59 PM ET · 40 points · 4% of your final grade**
+:::
 
-TBD.
+<!-- TODO: add the Canvas assignment link once the course shell exists. -->
+
+### Purpose
+
+The fastest way to learn this campus is to walk it. This deliverable gets you across Georgia Tech on foot, in a small group, during your first two weeks — so that the buildings in your schedule, your advisor's office, and the places you will actually spend time are somewhere you have already been.
+
+### What to Submit
+
+- **Form a group of 2–3 students.** Groups are formed in class on August 28. Everyone must be in a group.
+- **Visit all eight locations** listed below.
+- **Take a group selfie at each location.** Every member of the group must appear in every photo.
+- Assemble the eight photos into a **single PDF**, one photo per location, each labeled with the location name. Put every group member's name at the top of the first page.
+- **Each student submits their own copy** of the group's PDF to Canvas. Submitting as a group does not excuse an individual from submitting.
+
+### The Eight Locations
+
+1. **Tech Tower**
+2. **Einstein Statue**
+3. **Kessler Campanile** — beside the John Lewis Student Center ("the Shaft")
+4. **Ramblin' Wreck** — at the GT Convention Center
+5. **Campus Recreation Center**
+6. **Flowers Invention Studio**
+7. **Howey Physics Building** — the instructor's office, W-204
+8. **Clough Commons rooftop**
+
+### Expectations
+
+A complete submission shows all eight locations, clearly identifiable, with the full group present in each photo. Photos that do not show the location, or that are missing a group member, do not count for that location. Order the photos to match the list above so they are easy to check.
+
+This is a walking assignment, not a race. Plan an afternoon, go together, and stay out of restricted areas and closed buildings — if a location is inaccessible when you arrive, photograph it from outside and note that on the page.
+
+### Submission Checklist
+
+- My group had 2–3 students, and every member appears in all eight photos.
+- All eight locations are present, labeled, and in the order listed above.
+- Every group member's name is on the first page.
+- I have reviewed the document for clarity, formatting, spelling, and grammar.
+- I have submitted my own copy of the group's work as a PDF.
+
+## Additional Deliverables
+
+The remaining 210 points in this category will be assigned later in the semester and posted on this page as they are announced. Check Canvas and this page regularly.
 
 ## Helpful Resources
 
 - [Center for Academic Success](https://advising.gatech.edu/)
 - [School of Physics undergraduate program](https://physics.gatech.edu/)
-
-## Submission Checklist
-
-- I have reviewed the document for clarity, formatting, spelling, and grammar.
-- I have submitted my work as a PDF.
+- [Georgia Tech campus map](https://map.gatech.edu/)
