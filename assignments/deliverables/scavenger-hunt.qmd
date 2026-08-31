@@ -1,13 +1,7 @@
 ---
 title: "Campus Scavenger Hunt"
-subtitle: "An [Academic Planning](../academic-planning.qmd) deliverable"
+subtitle: "Due: September 4 by 11:59 PM ET · 4% of course grade"
 ---
-
-::: {.callout-note}
-**Due: September 4 at 11:59 PM ET · 40 points · 4% of your final grade**
-:::
-
-<!-- TODO: add the Canvas assignment link once the course shell exists. -->
 
 ## Purpose
 
@@ -25,11 +19,11 @@ The fastest way to learn this campus is to walk it. This gets you across Georgia
 
 1. **Tech Tower**
 2. **Einstein Statue**
-3. **Kessler Campanile** — beside the John Lewis Student Center ("the Shaft")
-4. **Ramblin' Wreck** — at the GT Convention Center
+3. **Kessler Campanile** -- beside the John Lewis Student Center ("the Shaft")
+4. **Ramblin' Wreck** -- at the GT Convention Center
 5. **Campus Recreation Center**
 6. **Flowers Invention Studio**
-7. **Howey Physics Building** — the instructor's office, W-204
+7. **Howey Physics Building** -- the instructor's office, W-204
 8. **Clough Commons rooftop**
 
 ## Helpful Resources
