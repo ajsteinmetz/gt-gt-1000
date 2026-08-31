@@ -1,0 +1,48 @@
+---
+title: "Résumé"
+subtitle: "A [Career Readiness](../career-readiness.qmd) deliverable"
+---
+
+::: {.callout-note}
+**Due: September 11 at 11:59 PM ET · 100 points · 10% of your final grade**
+:::
+
+## Purpose
+
+The **Fall 2026 All Majors Career Fair** is September 14–15, three days after this deadline. The point of this deliverable is that you walk into it with a polished, one-page résumé in hand rather than assembling one the night before.
+
+We covered what goes on a résumé in [Lecture 1](../../lectures/lecture-01.qmd), and we workshop drafts in class on **September 4** (bring a draft that day, even a rough one).
+
+## What to Submit
+
+- A **one-page résumé**, submitted as a **PDF** to Canvas by September 11 at 11:59 PM ET.
+- Name the file `Lastname-Firstname-Resume.pdf`.
+- Submit a PDF, not a Word document — formatting shifts between machines and a PDF does not.
+
+## Expectations
+
+**Sections.** A résumé is typically organized into sections: contact information, education, experience, skills, projects and leadership, awards and honors. Not every résumé looks the same; the order and emphasis depend on your background.
+
+**Education.** List your most recent institution first. Your high school can stay on for now and comes off once you have Tech coursework to replace it. Relevant coursework and high school honors are fair game this year while experience is thin.
+
+**Experience.** High school jobs, volunteering, and club roles all belong here. For each entry give the organization, your role, dates (month and year), location, and two to four bullets.
+
+**Skills.** List the specific tools and languages you actually know: spoken and written languages, programming languages, laboratory instrumentation, techniques, specialized software.
+
+**Formatting.** One page. One or two fonts at most, nothing smaller than 10 pt for body text. Consistent alignment of dates and section headers, adequate white space, no photos, no graphics, no colored text.
+
+**Proofreading.** Typos and grammar errors are disqualifying to a recruiter and here. Read it out loud before you submit, and have someone else read it too.
+
+## Submission Checklist
+
+- My résumé is one page.
+- My contact information is at the top and correct.
+- The formatting is consistent — fonts, sizes, dates, and alignment.
+- I have reviewed the document for clarity, formatting, spelling, and grammar.
+- I have submitted my work as a PDF named `Lastname-Firstname-Resume.pdf`.
+
+## Helpful Resources
+
+- [Career Center résumé guidance](https://career.gatech.edu/resumes/)
+- [Résumé vs. Academic CV](../../supplemental/resume-cv.qmd)
+- [Lecture 1 slides — Résumés](../../lectures/lecture-01.qmd)

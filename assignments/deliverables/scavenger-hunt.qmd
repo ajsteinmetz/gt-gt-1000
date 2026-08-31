@@ -1,0 +1,37 @@
+---
+title: "Campus Scavenger Hunt"
+subtitle: "An [Academic Planning](../academic-planning.qmd) deliverable"
+---
+
+::: {.callout-note}
+**Due: September 4 at 11:59 PM ET · 40 points · 4% of your final grade**
+:::
+
+<!-- TODO: add the Canvas assignment link once the course shell exists. -->
+
+## Purpose
+
+The fastest way to learn this campus is to walk it. This gets you across Georgia Tech on foot, gives you an opportunity to hang out with your classmates, and discover places you will actually spend time at during your undergraduate career at GT.
+
+## What to Submit
+
+- **Form a group of 2–3 students.** Groups are formed in class on August 28. Everyone must be in a group.
+- **Visit all eight locations** listed below.
+- **Take a group selfie at each location.** Every member of the group must appear in every photo.
+- **One student uploads all photos** of the group's activities to Canvas; preferably as jpg or png files.
+- It is your responsibility to confirm that the designated group member successfully completed the upload of all photos.
+
+## The Eight Locations
+
+1. **Tech Tower**
+2. **Einstein Statue**
+3. **Kessler Campanile** — beside the John Lewis Student Center ("the Shaft")
+4. **Ramblin' Wreck** — at the GT Convention Center
+5. **Campus Recreation Center**
+6. **Flowers Invention Studio**
+7. **Howey Physics Building** — the instructor's office, W-204
+8. **Clough Commons rooftop**
+
+## Helpful Resources
+
+- [Georgia Tech campus map](https://map.gatech.edu/)

@@ -3,69 +3,17 @@ title: "Career Readiness"
 subtitle: "25% of course grade · 250 points"
 ---
 
-Career Readiness is not a single assignment. It is a category of several smaller deliverables spread across the semester, each graded on its own and added together for one quarter of your final grade. Deliverables are announced in class and posted here as they are assigned.
+Career Readiness assignments cover what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels. Assignments are announced in class and posted here as they are assigned.
 
 Unless a deliverable says otherwise, submit your work to Canvas as a **PDF** by **11:59 PM ET** on the due date. Late work is not accepted.
 
-This category supports the course learning outcome that students *be aware of what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels*.
-
 ## Deliverables
 
-| Deliverable | Due | Points |
-|---|---|---|
-| [Résumé](#resume) | Sept. 11, 11:59 PM ET | 100 |
-| Additional deliverables (TBD) | TBD | 150 |
-| **Total** | | **250** |
-
-## Résumé {#resume}
-
-::: {.callout-note}
-**Due: September 11 at 11:59 PM ET · 100 points · 10% of your final grade**
-:::
-
-<!-- TODO: add the Canvas assignment link once the course shell exists. -->
-
-### Purpose
-
-The **Fall 2026 All Majors Career Fair** is September 14–15, three days after this deadline. The point of this deliverable is that you walk into it with a polished, one-page résumé in hand rather than assembling one the night before.
-
-We cover what goes on a résumé in [Lecture 1](../lectures/lecture-01.qmd), and we workshop drafts in class on **September 4** — bring a draft that day, even a rough one.
-
-### What to Submit
-
-- A **one-page résumé**, submitted as a **PDF** to Canvas by September 11 at 11:59 PM ET.
-- Name the file `Lastname-Firstname-Resume.pdf`.
-- Submit a PDF, not a Word document — formatting shifts between machines and a PDF does not.
-
-### Expectations
-
-**Sections.** A résumé is typically organized into six sections: contact information, education, experience, skills, projects and leadership, and — optionally — awards and honors. Not every résumé looks the same; the order and emphasis depend on your background and the opportunity. Put your contact information at the top where it is easy to find: full name, professional email, phone number, city and state, and a LinkedIn or portfolio URL if you have one worth sharing. No full street address.
-
-**Education.** List your most recent institution first. Your high school can stay on for now and comes off once you have Tech coursework to replace it. You do not have a GT GPA yet, so leave GPA off until you have a semester on the books — then include it if it is 3.0 or above. Relevant coursework and high school honors are fair game this year while experience is thin.
-
-**Experience.** An empty or thin experience section is expected in week one. High school jobs, volunteering, and club roles all belong here. For each entry give the organization, your role, dates (month and year), location, and two to four bullets.
-
-**Bullets.** The most common mistake is describing duties instead of accomplishments. Lead with a strong action verb, say what you did *and what it produced*, and quantify wherever you can. "Responsible for data analysis" is weak; "Developed signal-processing pipeline in MATLAB, reducing analysis time by 40%" is strong.
-
-**Skills.** List the specific tools and languages you actually know — programming, laboratory instrumentation, techniques. Do not list generic office software unless a role specifically asks for it.
-
-**Formatting.** One page. One or two fonts at most, nothing smaller than 10 pt for body text. Consistent alignment of dates and section headers, adequate white space, no photos, no graphics, no colored text.
-
-**Proofreading.** Typos and grammar errors are disqualifying — to a recruiter and here. Read it out loud before you submit, and have someone else read it too. The Career Center runs résumé reviews on September 8, 9, and 10; use them.
-
-### Submission Checklist
-
-- My résumé is one page.
-- My contact information is at the top and correct.
-- Every bullet leads with an action verb and says what the work produced.
-- The formatting is consistent — fonts, sizes, dates, and alignment.
-- I have proofread for spelling and grammar, and had at least one other person read it.
-- I have reviewed the document for clarity, formatting, spelling, and grammar.
-- I have submitted my work as a PDF named `Lastname-Firstname-Resume.pdf`.
-
-## Additional Deliverables
-
-The remaining 150 points in this category will be assigned later in the semester and posted on this page as they are announced. Check Canvas and this page regularly.
+| Deliverable | Due | Points | |
+|---|---|---|---|
+| Résumé | Sept. 11, 11:59 PM ET | 100 | [Open assignment](deliverables/resume.qmd) |
+| Additional deliverables (TBD) | TBD | 150 | — |
+| **Total** | | **250** | |
 
 ## Helpful Resources
 
