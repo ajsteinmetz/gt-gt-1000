@@ -5,6 +5,8 @@ subtitle: "Due: September 11 by 11:59 PM ET · 10% of course grade"
 
 ## Purpose
 
+Résumés have a long history going back to at least Leonardo da Vinci, [who wrote a letter](https://artsandculture.google.com/asset/atlantic-codex-codex-atlanticus-f-1082recto-leonardo-da-vinci/EAFjs2sqiBInqg?hl=en) to Ludovico il Moro, Duke of Milan, [summarizing his many talents](https://bookhaven.stanford.edu/2015/11/leonardo-da-vinci-on-how-to-write-a-c-v/) c. 1483–1485.
+
 The **Fall 2026 All Majors Career Fair** is September 14–15, three days after this deadline. The point of this deliverable is that you walk into it with a polished, one-page résumé in hand rather than assembling one the night before.
 
 We covered what goes on a résumé in [Lecture 1](../../lectures/lecture-01.qmd), and we workshop drafts in class on **September 4** (bring a draft that day, even a rough one).
@@ -33,12 +35,10 @@ We covered what goes on a résumé in [Lecture 1](../../lectures/lecture-01.qmd)
 
 - My résumé is one page.
 - My contact information is at the top and correct.
-- The formatting is consistent — fonts, sizes, dates, and alignment.
+- The formatting is consistent -- fonts, sizes, dates, and alignment.
 - I have reviewed the document for clarity, formatting, spelling, and grammar.
 - I have submitted my work as a PDF named `Lastname-Firstname-Resume.pdf`.
 
 ## Helpful Resources
 
 - [Career Center résumé guidance](https://career.gatech.edu/resumes/)
-- [Résumé vs. Academic CV](../../supplemental/resume-cv.qmd)
-- [Lecture 1 slides — Résumés](../../lectures/lecture-01.qmd)
