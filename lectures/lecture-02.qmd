@@ -1,0 +1,51 @@
+---
+title: "Résumé Review & Revision Workshop"
+subtitle: "GT 1000 · Lecture 2"
+author: "Andrew J. Steinmetz"
+date: "September 4, 2026"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    footer: "GT 1000 · Fall 2026 · Section D03 · Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+---
+
+## Due Dates
+
+| What | When | Points |
+|---|---|---|
+| [Campus Scavenger Hunt](../assignments/deliverables/scavenger-hunt.qmd) — photos to Canvas | **Tonight**, Sept. 4, 11:59 PM ET | 40 (4%) · Academic Planning |
+| [Résumé](../assignments/deliverables/resume.qmd) — PDF to Canvas, `Lastname-Firstname-Resume.pdf` | Sept. 11, 11:59 PM ET | 100 (10%) · Career Readiness |
+| GT Career Center résumé reviews | Sept. 8 in person · Sept. 9–10 virtual | — |
+| **Fall 2026 All Majors Career Fair** | Sept. 14–15 | — |
+
+::: {.highlight-box}
+**The Scavenger Hunt is due tonight.** One person per group uploads all the photos.
+:::
+
+::: notes
+Ask for a show of hands: whose group has already submitted? Anyone still without a group needs to
+be sorted out before they leave today. Remind them the résumé deadline sits three days before the
+career fair by design.
+:::
+
+---
+
+## Meanwhile, on Thursday Night
+
+:::: {.columns}
+::: {.column width="44%"}
+![](figs/fluff/CU_game_nyt.png){fig-align="center" width="100%"}
+:::
+::: {.column width="56%"}
+![](figs/fluff/CU_game_beef.jpg){fig-align="center" width="85%"}
+
+![](figs/fluff/CU_game.png){fig-align="center" width="85%"}
+:::
+::::
+
+![](figs/fluff/CU_game_reddit.png){fig-align="center" width="85%"}
