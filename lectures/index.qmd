@@ -9,3 +9,4 @@ subtitle: "GT 1000: First-Year Seminar, Physics"
 |---|---|---|---|
 | 1 | Aug. 28 | Course Overview & Résumés | [Open slides](lecture-01.qmd){target="_blank"} |
 | 2 | Sept. 4 | Résumé Review & Revision Workshop | [Open slides](lecture-02.qmd){target="_blank"} |
+| 3 | Sept. 11 | Time Management | [Open slides](lecture-03.qmd){target="_blank"} |
