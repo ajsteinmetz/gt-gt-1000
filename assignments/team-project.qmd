@@ -14,12 +14,12 @@ This project supports the course learning outcome that students *demonstrate the
 
 ## What to Submit
 
-| Deliverable | Due | Points |
-|---|---|---|
-| Team Project Contract | Oct. 2, 11:59 PM ET | 50 |
-| Team Project Slides | Nov. 6, 11:59 PM ET | 100 |
-| Team Project Presentation | In class, Nov. 6 or Nov. 13 | 100 |
-| **Total** | | **250** |
+| Deliverable | Due | Points | |
+|---|---|---|---|
+| Team Project Contract | Oct. 2, 11:59 PM ET | 50 | [Open assignment](deliverables/team-project-contract.qmd) |
+| Team Project Slides | Nov. 6, 11:59 PM ET | 100 | [Open assignment](deliverables/team-project-slides.qmd) |
+| Team Project Presentation | In class, Nov. 6 or Nov. 13 | 100 | — |
+| **Total** | | **250** | |
 
 - All teams submit slides by **November 6**, including teams presenting on November 13.
 - The file must be submitted as a PDF.

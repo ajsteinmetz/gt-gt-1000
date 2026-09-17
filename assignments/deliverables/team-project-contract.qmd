@@ -1,0 +1,43 @@
+---
+title: "Team Project Contract"
+subtitle: "Due: October 2 by 11:59 PM ET · 5% of course grade"
+---
+
+<!-- TODO: add the team project topic and team sizes once finalized (see team-project.qmd),
+     and decide whether a contract template is provided. -->
+
+## Purpose
+
+Most group projects that go wrong do so for predictable reasons: no one agreed on who does what, when the team meets, or what happens when someone stops responding. A team contract settles those questions at the start, while everyone still gets along.
+
+Your team will write and sign a contract for the [Team Project](../team-project.qmd). Teams are formed at the project kickoff in class on **September 25**.
+
+## What to Submit
+
+- **One contract per team**, signed by every team member, submitted as a PDF named `Team-Name-Contract.pdf`.
+- One team member uploads the PDF to Canvas. Every member is responsible for confirming that it was submitted.
+
+## Expectations
+
+Your contract should address each of the following:
+
+- **Team members and contact information.** Names and GT email addresses.
+- **Project topic.** TBD.
+- **Roles and tasks.** Who is responsible for what, such as research, slide design, editing, and presentation sections. Everyone should do a fair share of the work.
+- **Meetings.** When and where the team will meet, including at least one in-person planning meeting and at least one full rehearsal before presenting.
+- **Communication.** The channel the team will use (e.g., GroupMe or Teams) and how quickly members are expected to respond.
+- **Internal deadlines.** Dates for drafts and a final version ahead of the **November 6** slide deadline.
+- **Backup plan.** How the team will cover for technology failures or a member who is sick on presentation day.
+- **Conflict resolution.** What the team will do if a member stops communicating or contributing. The first step is talking with that member; if that does not resolve it, contact the Team Leader or instructor **before** the assignment is due.
+- **Signatures** of every team member, with the date.
+
+## Submission Checklist
+
+- Every section above is addressed.
+- Every team member has signed and dated the contract.
+- The contract is submitted as a single PDF.
+
+## Helpful Resources
+
+- [GT 1000 textbook: Group Presentations](https://sites.gatech.edu/gt1000-textbook/communication-skills/group-presentations/)
+- [Team Project overview](../team-project.qmd)

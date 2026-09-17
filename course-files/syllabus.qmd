@@ -43,22 +43,22 @@ No required textbook. Course materials and assignment information will be provid
 
 There are no exams in this course. Grading for the course will be broken down as follows:
 
-| Course Component | Weight |
-|---|---|
-| Participation, short assignments, and attendance | 25% |
-| Team Project | 25% |
-| Academic Planning | 25% |
-| Career Readiness | 25% |
-| **Total** | **100%** |
+| Course Component | Points | Weight |
+|---|---|---|
+| Participation, short assignments, and attendance | 250 | 25% |
+| [Team Project](../assignments/team-project.qmd) | 250 | 25% |
+| [Academic Planning](../assignments/academic-planning.qmd) | 250 | 25% |
+| [Career Readiness](../assignments/career-readiness.qmd) | 250 | 25% |
+| **Total** | **1000** | **100%** |
 
 ### Assignment Descriptions
 
-<!-- TODO: write the full description and due date for each component once finalized. -->
+<!-- TODO: Canvas assignment links go here once the course shell exists. -->
 
-- **Participation, short assignments, and attendance:** Attendance and active participation in each class session, along with short in-class and take-home assignments. TBD.
-- **[Team Project](../assignments/team-project.qmd):** TBD.
-- **[Academic Planning](../assignments/academic-planning.qmd):** A category of several deliverables covering your path to graduation and academic enrichment. TBD.
-- **[Career Readiness](../assignments/career-readiness.qmd):** A category of several deliverables covering professional preparation. The first is your **résumé, due September 11**. TBD.
+- **Participation, short assignments, and attendance:** Come to every class prepared to engage, and complete the short in-class and take-home activities that go with each session. Excessive lateness and absences (three or more per semester) can negatively impact your final grade.
+- **[Team Project](../assignments/team-project.qmd):** Work with a small team to plan, build, and deliver a presentation to the class, practicing how to lead and contribute to a collaborative project.
+- **[Academic Planning](../assignments/academic-planning.qmd):** Get to know Georgia Tech, map out your path to graduation, and identify the academic opportunities you want to fit into it.
+- **[Career Readiness](../assignments/career-readiness.qmd):** Build the professional materials, skills, and experiences that prepare you for research, internships, and a career in physics.
 
 ### Grading Scale
 

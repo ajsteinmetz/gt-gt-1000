@@ -69,40 +69,41 @@ The course meets every Friday of the semester except holidays, from **August 28 
 | Date | Tentative Topic / Focus | Major Due Dates |
 |---|---|---|
 | Aug. 28 | Course introduction; résumés | - |
-| Sept. 4 | Résumé review and revision workshop | **Campus Scavenger Hunt due** |
-| Sept. 11 | Time management and study strategies | **Résumé due** |
+| Sept. 4 | Résumé review and revision workshop | **[Campus Scavenger Hunt](assignments/deliverables/scavenger-hunt.qmd) due** |
+| Sept. 11 | Time management and study strategies | **[Résumé](assignments/deliverables/resume.qmd) due** |
 | Sept. 14-15 | **Fall 2026 All Majors Career Fair** | - |
 | Sept. 18 | Degree plan; study abroad | - |
-| Sept. 25 | Team project kickoff | **Degree Map due** |
-| Oct. 2 | Montgomery Machining Mall tour | **Team Project Contract due** |
+| Sept. 25 | Team project kickoff | **[Degree Map](assignments/deliverables/degree-map.qmd) due** |
+| Oct. 2 | Montgomery Machining Mall tour | **[Team Project Contract](assignments/deliverables/team-project-contract.qmd) due** |
 | Oct. 9 | LaTeX/Overleaf | - |
-| Oct. 16 | Undergraduate research | **Homework in LaTeX due** |
-| Oct. 23 | Physics\@Tech talk 1 *(tentative)*; advising | **Research Paper Review due** |
-| Oct. 30 | Physics\@Tech talk 2 *(tentative)*; science ethics | **Advising Meeting & Spring 2027 Plan due** |
-| Nov. 6 | Student presentations I | **Team Project Slides due** |
+| Oct. 16 | Physics\@Tech talk 1 *(tentative)*; online presence | **[Homework in LaTeX](assignments/deliverables/latex-homework.qmd) due** |
+| Oct. 23 | Physics\@Tech talk 2 *(tentative)*; advising | **[Online Profile](assignments/deliverables/online-profile.qmd) due** |
+| Oct. 30 | Physics\@Tech talk 3 *(tentative)*; science ethics | **[Advising Meeting & Spring 2027 Plan](assignments/deliverables/advising-spring-plan.qmd) due** |
+| Nov. 6 | Student presentations I | **[Team Project Slides](assignments/deliverables/team-project-slides.qmd) due** |
 | Nov. 13 | Student presentations II | - |
-| Nov. 20 | Physics\@Tech talk 3 *(tentative)*; online presence | - |
-| Dec. 4 | Course wrap-up and reflection | **Online Profile due** |
+| Nov. 20 | Undergraduate research | - |
+| Dec. 4 | Course wrap-up and reflection | **[Research Talk Reflection](assignments/deliverables/research-talk-reflection.qmd) due** *(open assignment; submit any time before)* |
 
 ## Assignments and Grading
 
 There are no exams in this course. Your grade is based on participation and attendance together with the Team Project and two graded categories, Academic Planning and Career Readiness, each holding several smaller deliverables. All four components are weighted equally. Written assignments should be submitted on Canvas in PDF format by **11:59 PM ET** unless otherwise specified.
 
-| Course Component | Due Date | Weight |
+| Course Component | Points | Weight |
 |---|---|---|
-| Participation, short assignments, and attendance | Weekly | 25% |
-| Team Project | Oct. 2 – Nov. 13 | 25% |
-| Academic Planning | Multiple deliverables | 25% |
-| Career Readiness | Multiple deliverables | 25% |
+| Participation, short assignments, and attendance | 250 | 25% |
+| [Team Project](assignments/team-project.qmd) | 250 | 25% |
+| [Academic Planning](assignments/academic-planning.qmd) | 250 | 25% |
+| [Career Readiness](assignments/career-readiness.qmd) | 250 | 25% |
+| **Total** | **1000** | **100%** |
 
 ### Assignment Descriptions
 
-<!-- TODO: write the full description for each component. Canvas assignment links go here once the course shell exists. -->
+<!-- TODO: Canvas assignment links go here once the course shell exists. -->
 
-- **Participation, short assignments, and attendance:** Attendance and active participation in each class session, along with short in-class and take-home assignments. Excessive lateness and absences (three or more per semester) can negatively impact your final grade.
-- **[Team Project](assignments/team-project.qmd):** TBD.
-- **[Academic Planning](assignments/academic-planning.qmd):** A category of several deliverables covering your path to graduation and academic enrichment. TBD.
-- **[Career Readiness](assignments/career-readiness.qmd):** A category of several deliverables covering professional preparation. The first is your **résumé, due September 11**. TBD.
+- **Participation, short assignments, and attendance:** Come to every class prepared to engage, and complete the short in-class and take-home activities that go with each session. Excessive lateness and absences (three or more per semester) can negatively impact your final grade.
+- **[Team Project](assignments/team-project.qmd):** Work with a small team to plan, build, and deliver a presentation to the class, practicing how to lead and contribute to a collaborative project.
+- **[Academic Planning](assignments/academic-planning.qmd):** Get to know Georgia Tech, map out your path to graduation, and identify the academic opportunities you want to fit into it.
+- **[Career Readiness](assignments/career-readiness.qmd):** Build the professional materials, skills, and experiences that prepare you for research, internships, and a career in physics.
 
 ## Important Links and Resources
 

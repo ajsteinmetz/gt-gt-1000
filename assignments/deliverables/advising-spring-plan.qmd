@@ -1,0 +1,50 @@
+---
+title: "Advising Meeting & Spring 2027 Plan"
+subtitle: "Due: October 30 by 11:59 PM ET · 6% of course grade"
+---
+
+## Purpose
+
+Your [Degree Map](degree-map.qmd) is a long-range plan. This assignment turns the next piece of it into action before registration opens: you will talk with an advisor about your plan, draft your Spring 2027 schedule, and pick one enrichment opportunity to start working toward.
+
+Timing matters here. The Spring 2027 class schedule posts **October 14**, time tickets post **October 29**, and Phase I registration opens **November 2**. We talk about advising in class on **October 23**.
+
+## What to Submit
+
+Submit a single PDF named `Lastname-Firstname-Spring-Plan.pdf` with three parts:
+
+1. **Advising meeting.** The name and role of the person you met with (your academic advisor or a School of Physics faculty member), the date, and a short paragraph on what you discussed and what, if anything, you changed as a result.
+2. **Draft Spring 2027 schedule.** The courses you plan to register for, with credit hours, checked against your Degree Map. For any course likely to fill, list a backup section or course.
+3. **One enrichment opportunity.** Choose one: undergraduate research, study abroad, a minor or certificate, a co-op, or an internship. In one paragraph, explain why you chose it and name the first concrete step you will take, with a date.
+
+Upload the PDF directly to this Canvas assignment by the deadline.
+
+## Expectations
+
+**Schedule the meeting early.** Advisors are busiest right before registration. Request your meeting by email well before the deadline, using a clear subject line, a proper greeting, and your full name and major. See the textbook guidance on [communicating through email](https://sites.gatech.edu/gt1000-textbook/communication-skills/communicating-through-email/).
+
+**Come prepared.** Bring your Degree Map and a list of questions. A meeting in which you ask specific questions is far more useful than one where the advisor has to guess what you need.
+
+**Make the schedule realistic.** Check prerequisites, meeting-time conflicts, and your total credit load. The schedule should match what your Degree Map says for Spring 2027, or explain why it changed.
+
+**Make the next step concrete.** "Look into research" is not a step. "Email two faculty members in condensed matter physics about their groups by November 13" is.
+
+## Submission Checklist
+
+- I met with an advisor or faculty member and recorded who, when, and what we discussed.
+- My Spring 2027 schedule is checked against my Degree Map and includes backups.
+- I chose one enrichment opportunity and named a dated first step.
+- I have reviewed the document for clarity, formatting, spelling, and grammar.
+- I have submitted my work as a PDF named `Lastname-Firstname-Spring-Plan.pdf`.
+
+## Helpful Resources
+
+- [GT 1000 textbook: Interacting with Faculty](https://sites.gatech.edu/gt1000-textbook/communication-skills/interacting-with-faculty/)
+- [GT 1000 textbook: Communicating through Email](https://sites.gatech.edu/gt1000-textbook/communication-skills/communicating-through-email/)
+- [Registrar's academic calendar](https://registrar.gatech.edu/current-academic-calendar) (registration dates)
+- [OSCAR](https://oscar.gatech.edu/) (class schedule and registration)
+- [DegreeWorks degree audit](https://degreeworks.gatech.edu/) (GT login required)
+- [School of Physics undergraduate degrees and programs](https://physics.gatech.edu/academics/undergraduate/requirements)
+- [Undergraduate research in the School of Physics](https://physics.gatech.edu/research/undergraduate)
+- [Education Abroad](https://ea.oie.gatech.edu/)
+- [Georgia Tech Career Center](https://career.gatech.edu/) (co-ops and internships)

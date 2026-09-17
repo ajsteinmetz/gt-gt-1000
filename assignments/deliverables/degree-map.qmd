@@ -1,0 +1,54 @@
+---
+title: "Degree Map"
+subtitle: "Due: September 25 by 11:59 PM ET · 10% of course grade"
+---
+
+## Purpose
+
+A degree map is a semester-by-semester plan from now until graduation. Building one early shows you how and when you will graduate, and where there is room for the things that make an undergraduate degree more than a list of courses: a minor, undergraduate research, study abroad, an internship, or a co-op.
+
+We cover degree planning in class on **September 18**. This plan is also the starting point for the [Advising Meeting & Spring 2027 Plan](advising-spring-plan.qmd) due October 30.
+
+## What to Submit
+
+- A completed **degree map** covering every semester from Fall 2026 through your expected graduation.
+- Start from the [GT 1000 Degree Map template](https://sites.gatech.edu/gt1000-textbook/wp-content/uploads/sites/658/2017/07/Degree-Map.xlsx) (Excel) or build an equivalent table of your own.
+- The file must be submitted as a PDF, named `Lastname-Firstname-Degree-Map.pdf`.
+- Upload the PDF directly to this Canvas assignment by the deadline.
+
+## Expectations
+
+**Degree requirements.** Plan against the official requirements for your major: [Physics B.S.](https://catalog.gatech.edu/programs/physics-bs/) or the program you are actually enrolled in. Every required course should appear in some semester, and prerequisites should come before the courses that need them.
+
+**Transfer credit.** Include all credit you arrived with (AP, IB, dual enrollment, other institutions) and state which degree requirement each one satisfies.
+
+**Minors and certificates.** If you are pursuing or considering one, include its courses.
+
+**Co-curricular plans.** Show where these fit, even if they are tentative:
+
+- Study abroad (a summer program or a semester away);
+- Undergraduate research for credit;
+- Internships (full-time or part-time, one semester each);
+- Co-ops (three alternating semesters of full-time work and full-time classes).
+
+**Credit hours.** List the credit hours for each semester and a running total, and make sure the total meets your degree's minimum.
+
+**Check your work.** Compare your map against your DegreeWorks audit. A map is a plan, not a contract; you will revise it, and that is the point.
+
+## Submission Checklist
+
+- My map covers every semester through my expected graduation.
+- Every required course appears, and prerequisites come first.
+- I listed my transfer credit and what each one satisfies.
+- I included my minor or certificate courses, if any.
+- I showed where study abroad, research, an internship, or a co-op could fit.
+- I have submitted my work as a PDF named `Lastname-Firstname-Degree-Map.pdf`.
+
+## Helpful Resources
+
+- [GT 1000 textbook: Degree Map](https://sites.gatech.edu/gt1000-textbook/researching-and-choosing-a-major/degree-map/)
+- [Georgia Tech Catalog: Physics B.S.](https://catalog.gatech.edu/programs/physics-bs/)
+- [School of Physics undergraduate degrees and programs](https://physics.gatech.edu/academics/undergraduate/requirements)
+- [DegreeWorks degree audit](https://degreeworks.gatech.edu/) (GT login required)
+- [Education Abroad](https://ea.oie.gatech.edu/)
+- [Undergraduate research in the School of Physics](https://physics.gatech.edu/research/undergraduate)

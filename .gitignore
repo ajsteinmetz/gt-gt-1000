@@ -20,6 +20,7 @@ Thumbs.db
 
 # Build artifacts
 /.quarto/
+/.claude/
 /_site/
 **/*_files/
 

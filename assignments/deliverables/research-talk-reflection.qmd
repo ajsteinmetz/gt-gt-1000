@@ -1,0 +1,54 @@
+---
+title: "Research Talk Reflection"
+subtitle: "Open assignment: due any time by December 4 at 11:59 PM ET · 7.5% of course grade"
+---
+
+<!-- TODO: set a length guideline for the written sections. -->
+
+## Purpose
+
+Colloquia and seminars are how physicists share new work with each other. Speakers from Georgia Tech and other institutions present their research, and anyone is welcome to attend, including first-year students. You will not understand everything, and neither does most of the audience. Going anyway is how you start to see what research looks like beyond the classroom.
+
+For this assignment, you will attend a physics colloquium or seminar and reflect on the experience. We discuss undergraduate research in class on **November 20**.
+
+::: {.callout-note}
+## Open assignment
+You may submit this assignment **any time** during the semester, up to **December 4 at 11:59 PM ET**. Talks are not held every week, so check the calendar early and do not wait until the end of the semester.
+:::
+
+## What to Submit
+
+Submit a single PDF named `Lastname-Firstname-Talk-Reflection.pdf` that includes:
+
+1. **Event details:** the title of the talk, the speaker, the date, and the location or seminar series.
+2. **Proof of attendance:** a photo of you at the talk, such as a selfie with the title slide or the speaker in the background.
+3. **Summary:** what the talk was about, in your own words.
+4. **Your understanding:** what made sense to you, what did not, and any questions you still have.
+5. **Reflection:** what the experience was like, what surprised you, and whether it changed how you think about research or your own interests.
+
+Upload the PDF directly to this Canvas assignment.
+
+## Expectations
+
+**Eligible talks.** Any physics-related colloquium or seminar counts, including the School of Physics Colloquium and the research seminars listed on the [School of Physics events calendar](https://physics.gatech.edu/news-events) (for example, the Center for Relativistic Astrophysics and soft matter seminar series). For a physics-related talk hosted somewhere else, ask the instructor before you go.
+
+**Be honest about your understanding.** A clear account of what you did and did not follow is more valuable than a summary that sounds confident but is copied from the abstract. Questions you would ask the speaker are a good sign, not a weakness.
+
+**Write in your own words.** Do not reproduce the talk abstract or slides as your summary.
+
+## Submission Checklist
+
+- The talk I attended is a physics-related colloquium or seminar.
+- I included the title, speaker, date, and location or series.
+- I included a photo showing that I attended.
+- I wrote a summary, an account of my understanding, and a reflection, in my own words.
+- I have reviewed the document for clarity, formatting, spelling, and grammar.
+- I submitted my work as a PDF by December 4.
+
+## Helpful Resources
+
+- [School of Physics news and events](https://physics.gatech.edu/news-events)
+- [School of Physics upcoming events](https://physics.gatech.edu/events)
+- [School of Physics Colloquium](https://physics.gatech.edu/colloquium)
+- [Georgia Tech campus calendar](https://calendar.gatech.edu/)
+- [Technical and Professional Writing](../../supplemental/technical-writing.qmd)

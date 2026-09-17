@@ -1,0 +1,46 @@
+---
+title: "Homework in LaTeX"
+subtitle: "Due: October 16 by 11:59 PM ET · 5% of course grade"
+---
+
+## Purpose
+
+LaTeX is the standard way physicists write anything with equations in it: homework, lab reports, papers, theses, and grant proposals. Learning it now pays off in every technical course you take after this one.
+
+For this assignment, you will take a homework problem you have already solved in another course and write up the solution as a clean LaTeX note in [Overleaf](https://www.overleaf.com/). We cover LaTeX and Overleaf in class on **October 9**.
+
+## What to Submit
+
+- A LaTeX note presenting **one** homework problem and your solution, submitted as a PDF named `Lastname-Firstname-LaTeX.pdf`.
+- The `.tex` source file for your note.
+- Upload both files directly to this Canvas assignment by the deadline.
+
+## Expectations
+
+**Choose a problem.** Pick a homework problem from any technical science, engineering, or mathematics course you are taking this semester. **State the course in your PDF**, for example "PHYS 2211: Introductory Physics I." Choose a problem with enough steps to be worth writing up.
+
+**Structure your note** with the following sections:
+
+| Section | Purpose |
+|---|---|
+| **Problem Statement** | The full problem, stated clearly enough that a reader does not need the original assignment. |
+| **Solution** | Your solution, step by step. Define every variable, explain each step in words, and write key equations as numbered display equations. |
+| **Interpretation** | What the final answer means: check its units, whether its size is reasonable, and how it behaves in limiting or special cases. |
+
+**Use LaTeX properly.** Your note should compile without errors, use inline math for symbols in sentences, and use display environments for equations that deserve their own line. Figures and tables are welcome if they help, but are not required.
+
+**Follow that course's policies.** The solution must be your own work, and you must follow the collaboration policy of the course the problem comes from.
+## Submission Checklist
+
+- My PDF names the course the problem comes from.
+- My note includes a Problem Statement, a Solution, and an Interpretation.
+- Variables are defined, and key equations are numbered display equations.
+- My document compiles in Overleaf without errors.
+- I have reviewed the document for clarity, formatting, spelling, and grammar.
+- I uploaded both the PDF and the `.tex` source.
+
+## Helpful Resources
+
+- [Overleaf](https://www.overleaf.com/) (free account with your GT email)
+- [Overleaf: Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+- [Technical and Professional Writing](../../supplemental/technical-writing.qmd)

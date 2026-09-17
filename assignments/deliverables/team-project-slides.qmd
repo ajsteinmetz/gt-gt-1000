@@ -1,0 +1,51 @@
+---
+title: "Team Project Slides"
+subtitle: "Due: November 6 by 11:59 PM ET · 10% of course grade"
+---
+
+<!-- TODO: add the project topic, presentation length, slide-count limits, and the
+     grading rubric for both the slides and the in-class presentation. -->
+
+## Purpose
+
+Your team will present its [Team Project](../team-project.qmd) to the class. This assignment is the slide deck. The in-class presentation itself is graded separately (100 points) on **November 6 or November 13**.
+
+Being a strong presenter is a skill you will use throughout your academic and professional career, whether you are defending a thesis, pitching an idea, or presenting research at a conference.
+
+## What to Submit
+
+- The team's final slide deck, submitted as a PDF named `Team-Name-Slides.pdf`.
+- **All teams submit by November 6**, including teams presenting on November 13.
+- One team member uploads the PDF to Canvas. Every member is responsible for confirming that it was submitted.
+
+TBD: presentation length and any slide limits.
+
+## Expectations
+
+**Analyze.** Understand the assignment and your audience: your classmates. Define terms they may not know.
+
+**Research.** Use reliable sources and cite them on a final slide.
+
+**Plan.** Give the presentation a clear beginning, middle, and end. Every slide should support the main point.
+
+**Design.** Keep text short; slides support what you say rather than repeat it. Use figures and images where they explain something better than words.
+
+**Practice together.** Rehearse the full presentation as a team, out loud, at least once. This is how you catch gaps, redundancies, and rough hand-offs between speakers.
+
+**Present.** Every team member presents. Speak to the audience, make eye contact, and **never read your slides**.
+
+TBD: grading rubric.
+
+## Submission Checklist
+
+- The deck has a title slide with the team name and all members' names.
+- Sources are cited on a final slide.
+- The team has rehearsed the full presentation together.
+- The deck is submitted as a single PDF by November 6.
+
+## Helpful Resources
+
+- [GT 1000 textbook: Creating Effective Presentations](https://sites.gatech.edu/gt1000-textbook/communication-skills/creating-effective-presentations/)
+- [GT 1000 textbook: Group Presentations](https://sites.gatech.edu/gt1000-textbook/communication-skills/group-presentations/)
+- [Naugle CommLab](https://commlab.gatech.edu/) (one-on-one help with presentations)
+- [Team Project Contract](team-project-contract.qmd)
