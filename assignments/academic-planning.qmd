@@ -11,10 +11,10 @@ Unless a deliverable says otherwise, submit your work to Canvas as a **PDF** by 
 
 | Deliverable | Due | Points | |
 |---|---|---|---|
-| Campus Scavenger Hunt | Sept. 4, 11:59 PM ET | 40 | [Open assignment](deliverables/scavenger-hunt.qmd) |
-| Degree Map | Sept. 25, 11:59 PM ET | 100 | [Open assignment](deliverables/degree-map.qmd) |
-| Homework in LaTeX | Oct. 16, 11:59 PM ET | 50 | [Open assignment](deliverables/latex-homework.qmd) |
-| Advising Meeting & Spring 2027 Plan | Oct. 30, 11:59 PM ET | 60 | [Open assignment](deliverables/advising-spring-plan.qmd) |
+| Campus Scavenger Hunt | Sept. 4 | 40 | [Open assignment](deliverables/scavenger-hunt.qmd) |
+| Degree Map | Sept. 25 | 100 | [Open assignment](deliverables/degree-map.qmd) |
+| Homework in LaTeX | Oct. 16 | 50 | [Open assignment](deliverables/latex-homework.qmd) |
+| Advising Meeting & Spring 2027 Plan | Oct. 30 | 60 | [Open assignment](deliverables/advising-spring-plan.qmd) |
 | **Total** | | **250** | |
 
 ## Helpful Resources

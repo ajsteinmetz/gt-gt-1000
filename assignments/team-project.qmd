@@ -16,8 +16,8 @@ This project supports the course learning outcome that students *demonstrate the
 
 | Deliverable | Due | Points | |
 |---|---|---|---|
-| Team Project Contract | Oct. 2, 11:59 PM ET | 50 | [Open assignment](deliverables/team-project-contract.qmd) |
-| Team Project Slides | Nov. 6, 11:59 PM ET | 100 | [Open assignment](deliverables/team-project-slides.qmd) |
+| Team Project Contract | Oct. 2 | 50 | [Open assignment](deliverables/team-project-contract.qmd) |
+| Team Project Slides | Start of class, Nov. 6, 12:30 PM ET  | 100 | [Open assignment](deliverables/team-project-slides.qmd) |
 | Team Project Presentation | In class, Nov. 6 or Nov. 13 | 100 | — |
 | **Total** | | **250** | |
 

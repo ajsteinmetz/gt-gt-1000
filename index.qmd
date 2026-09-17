@@ -98,8 +98,6 @@ There are no exams in this course. Your grade is based on participation and atte
 
 ### Assignment Descriptions
 
-<!-- TODO: Canvas assignment links go here once the course shell exists. -->
-
 - **Participation, short assignments, and attendance:** Come to every class prepared to engage, and complete the short in-class and take-home activities that go with each session. Excessive lateness and absences (three or more per semester) can negatively impact your final grade.
 - **[Team Project](assignments/team-project.qmd):** Work with a small team to plan, build, and deliver a presentation to the class, practicing how to lead and contribute to a collaborative project.
 - **[Academic Planning](assignments/academic-planning.qmd):** Get to know Georgia Tech, map out your path to graduation, and identify the academic opportunities you want to fit into it.

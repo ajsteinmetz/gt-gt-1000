@@ -11,9 +11,9 @@ Unless a deliverable says otherwise, submit your work to Canvas as a **PDF** by 
 
 | Deliverable | Due | Points | |
 |---|---|---|---|
-| Résumé | Sept. 11, 11:59 PM ET | 100 | [Open assignment](deliverables/resume.qmd) |
-| Online Profile | Oct. 23, 11:59 PM ET | 75 | [Open assignment](deliverables/online-profile.qmd) |
-| Research Talk Reflection | Any time by Dec. 4, 11:59 PM ET | 75 | [Open assignment](deliverables/research-talk-reflection.qmd) |
+| Résumé | Sept. 11 | 100 | [Open assignment](deliverables/resume.qmd) |
+| Online Profile | Oct. 23 | 75 | [Open assignment](deliverables/online-profile.qmd) |
+| Research Talk Reflection | Dec. 4 | 75 | [Open assignment](deliverables/research-talk-reflection.qmd) |
 | **Total** | | **250** | |
 
 ## Helpful Resources
