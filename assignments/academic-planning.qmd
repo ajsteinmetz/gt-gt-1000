@@ -12,7 +12,9 @@ Unless a deliverable says otherwise, submit your work to Canvas as a **PDF** by 
 | Deliverable | Due | Points | |
 |---|---|---|---|
 | Campus Scavenger Hunt | Sept. 4, 11:59 PM ET | 40 | [Open assignment](deliverables/scavenger-hunt.qmd) |
-| Additional deliverables (TBD) | TBD | 210 | — |
+| Degree Map | Sept. 25, 11:59 PM ET | 100 | — |
+| Homework in LaTeX | Oct. 23, 11:59 PM ET | 50 | — |
+| Additional deliverables (TBD) | TBD | 60 | — |
 | **Total** | | **250** | |
 
 ## Helpful Resources

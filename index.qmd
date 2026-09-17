@@ -64,27 +64,25 @@ There are no prerequisites. This section is intended for first-year students in 
 
 ## Course Schedule
 
-<!-- TODO: fill in the topics for the TBD weeks below. -->
-
-The course meets every Friday of the semester except holidays, from **August 28 through December 4**. The schedule below may be adjusted as needed throughout the semester.
+The course meets every Friday of the semester except holidays, from **August 28 through December 4**. The schedule below may be adjusted as needed throughout the semester. Physics\@Tech talk dates are tentative.
 
 | Date | Tentative Topic / Focus | Major Due Dates |
 |---|---|---|
-| Aug. 28 | Course introduction; résumés | — |
-| Sept. 4 | Résumé review and revision workshop | — |
+| Aug. 28 | Course introduction; résumés | - |
+| Sept. 4 | Résumé review and revision workshop | **Campus Scavenger Hunt due** |
 | Sept. 11 | Time management and study strategies | **Résumé due** |
-| Sept. 14-15 | **Fall 2026 All Majors Career Fair** | — |
-| Sept. 18 | TBD | — |
-| Sept. 25 | TBD | — |
-| Oct. 2 | TBD | — |
-| Oct. 9 | TBD | — |
-| Oct. 16 | TBD | — |
-| Oct. 23 | TBD | — |
-| Oct. 30 | TBD | — |
-| Nov. 6 | TBD | — |
-| Nov. 13 | TBD | — |
-| Nov. 20 | TBD | — |
-| Dec. 4 | Course wrap-up and reflection | — |
+| Sept. 14-15 | **Fall 2026 All Majors Career Fair** | - |
+| Sept. 18 | Degree plan and advising | - |
+| Sept. 25 | Team project kickoff | **Degree Map due** |
+| Oct. 2 | Montgomery Machining Mall tour | **Team Project Contract due** |
+| Oct. 9 | Physics\@Tech talk 1 *(tentative)*; online presence | - |
+| Oct. 16 | LaTeX/Overleaf | **Online Profile due** |
+| Oct. 23 | Undergraduate research | **Homework in LaTeX due** |
+| Oct. 30 | Physics\@Tech talk 2 *(tentative)*; study abroad | **Research Paper Review due** |
+| Nov. 6 | Student presentations I | **Team Project Slides due** |
+| Nov. 13 | Student presentations II | - |
+| Nov. 20 | Physics\@Tech talk 3 *(tentative)* | - |
+| Dec. 4 | Course wrap-up and reflection | - |
 
 ## Assignments and Grading
 
@@ -93,7 +91,7 @@ There are no exams in this course. Your grade is based on participation and atte
 | Course Component | Due Date | Weight |
 |---|---|---|
 | Participation, short assignments, and attendance | Weekly | 25% |
-| Team Project | TBD | 25% |
+| Team Project | Oct. 2 – Nov. 13 | 25% |
 | Academic Planning | Multiple deliverables | 25% |
 | Career Readiness | Multiple deliverables | 25% |
 
