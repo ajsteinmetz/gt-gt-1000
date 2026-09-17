@@ -1,5 +1,8 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!planning/"
 
 website:
   title: "GT 1000"
