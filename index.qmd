@@ -79,8 +79,8 @@ The course meets every Friday of the semester except holidays, from **August 28 
 | Oct. 16 | Physics\@Tech talk 1 *(tentative)*; online presence | **[Homework in LaTeX](assignments/deliverables/latex-homework.qmd) due** |
 | Oct. 23 | Physics\@Tech talk 2 *(tentative)*; advising | **[Online Profile](assignments/deliverables/online-profile.qmd) due** |
 | Oct. 30 | Physics\@Tech talk 3 *(tentative)*; science ethics | **[Advising Meeting & Spring 2027 Plan](assignments/deliverables/advising-spring-plan.qmd) due** |
-| Nov. 6 | Student presentations I | **[Team Project Slides](assignments/deliverables/team-project-slides.qmd) due** |
-| Nov. 13 | Student presentations II | - |
+| Nov. 6 | Student presentations I | **[Team 1-2 Project Slides](assignments/deliverables/team-project-slides.qmd) due** |
+| Nov. 13 | Student presentations II | **[Team 3-4 Project Slides](assignments/deliverables/team-project-slides.qmd) due** |
 | Nov. 20 | Undergraduate research | - |
 | Dec. 4 | Course wrap-up and reflection | **[Research Talk Reflection](assignments/deliverables/research-talk-reflection.qmd) due** *(open assignment; submit any time before)* |
 
