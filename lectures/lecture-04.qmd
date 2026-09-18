@@ -1,0 +1,263 @@
+---
+title: "Building a Degree Plan"
+subtitle: "GT 1000 · Lecture 4"
+author: "Andrew J. Steinmetz"
+date: "September 18, 2026"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    footer: "GT 1000 · Fall 2026 · Section D03 · Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+
+---
+
+## Front matter
+
+- SWiP introduction
+- How was the career fair? Anyone go?
+
+
+---
+
+## Due Dates
+
+| What | When | Points |
+|---|---|---|
+| [Degree Map](../assignments/deliverables/degree-map.qmd) -- PDF to Canvas, `Lastname-Firstname-Degree-Map.pdf` | Sept. 25, 11:59 PM ET | 100 (10%) · Academic Planning |
+| Team project kickoff | Sept. 25, in class | -- |
+| [Advising Meeting & Spring 2027 Plan](../assignments/deliverables/advising-spring-plan.qmd) | Oct. 30, 11:59 PM ET | 60 (6%) · Academic Planning |
+
+::: {.highlight-box}
+Today's work **is** the Degree Map.
+:::
+
+---
+
+## Why plan now?
+
+You have been here four weeks. Why map out four years?
+
+::: {.nonincremental}
+- Some courses are only offered in **fall** or **spring**.
+- Prerequisite chains are long. One missed semester can push graduation back a year.
+- A minor, research, study abroad, or a co-op all need room in the plan, and room is easiest to make early.
+- Your advisor can help you much more when you show up with a plan.
+:::
+
+::: {.highlight-box}
+**A map is a plan, not a contract.** You will revise it. That is the point.
+:::
+
+---
+
+## What is a degree map?
+
+The School of Physics' [4-year plan](https://ballantyne.physics.gatech.edu/FourYearPlans/BS%20PHYS%20Traditional%204%20Yr%20Plan.pdf) with no transfer credit starts like this:
+
+| Semester | Courses | Hours | Running total |
+|---|---|---|---|
+| Fall 2026 | ENGL 1101, MATH 1551, MATH 1553, CHEM 1310, GT 1000 | 15 | 15 |
+| Spring 2027 | ENGL 1102, MATH 1552, PHYS 2231, CS 1301, APPH 1040 | 17 | 32 |
+| Summer 2027 | *Study abroad? Internship?* | -- | 32 |
+| ... | ... | ... | ... |
+| Spring 2030 | PHYS 4605, electives | 14 | $\geq$ 122 |
+
+---
+
+## Anatomy of the Physics B.S.
+
+**122 credit hours** total ([Physics B.S. - General](https://catalog.gatech.edu/programs/physics-general-bs/)).
+
+| Block | Examples |
+|---|---|
+| Core IMPACTS | ENGL 1101/1102, CS 1301/1371 |
+| Field of study | PHYS 2303, PHYS 2304 |
+| Upper-level physics | E&M, quantum, thermo |
+| Physics / technical electives | PHYS, approved MATH, NRE |
+| Free electives | **Anything**: this is where a minor lives |
+
+::: {.highlight-box}
+**Applied Physics or Astrophysics?** Same first year, different upper levels. Use your own [4-year plan](https://physics.gatech.edu/academics/undergraduate/requirements).
+:::
+
+::: notes
+Per-block hours from the catalog (IMPACTS 43, field of study 18, upper-level 32, electives 18, free
+15) sum to 126, not 122, so some blocks overlap. The School's 4-year plan sums to 122. Physics and
+Applied Physics both have a Business Option and a Physics of Living Systems concentration, each
+with its own 4-year plan.
+:::
+
+---
+
+## The upper-level core
+
+What every Physics B.S. takes.
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.nonincremental}
+- PHYS 3122 Electrostatics
+- PHYS 3123 Electrodynamics
+- PHYS 3141 Thermodynamics
+- PHYS 3143 Quantum Mechanics I
+- PHYS 3201 Classical Mechanics I
+:::
+:::
+::: {.column width="50%"}
+::: {.nonincremental}
+- PHYS 4142 Statistical Mechanics
+- PHYS 4143 Quantum Mechanics II
+- PHYS 4321 Advanced Laboratory I
+- PHYS 4604 Professional Dev.
+- PHYS 4605 Scientific Comm.
+:::
+:::
+::::
+
+::: {.highlight-box}
+You need a **2.0 GPA** across all 3000- and 4000-level PHYS classes. Pass/fail only counts toward free electives.
+:::
+
+---
+
+## Prerequisites set the order
+
+Your map is really a set of **chains**. Build the chains first, then fill in around them.
+
+::: {.nonincremental}
+- **Math:** MATH 1551 $\to$ 1552 $\to$ 2551 $\to$ 2552
+- **Intro physics:** PHYS 2231 $\to$ 2232 $\to$ 2303 / 2304
+- **Upper level:** intro physics + math $\to$ 3000-level $\to$ 4000-level
+:::
+
+When in doubt, check [Oscar](https://oscar.gatech.edu/).
+
+**Example:** PHYS 3143 Quantum Mechanics I requires (PHYS 2213 or 2304) **and** MATH 2551 **and** MATH 2552 (or equivalent).
+
+
+::: notes
+The 3143 prerequisites are from the School of Physics requirements page (Quantum minor section).
+In the 4-year plan, MATH 2552 and PHYS 2304 are both spring of year 2, so QM I lands in fall of
+year 3. Taking 2211/2212 instead of 2231/2232 moves two hours to physics/technical electives.
+Consider drawing the chain on the board. Check which upper-level courses are offered only once a
+year.
+:::
+
+---
+
+## Transfer credit counts
+
+AP, IB, dual enrollment, and courses from other schools all go on your map.
+
+::: {.nonincremental}
+- List each one and **which requirement it satisfies**.
+- Check that it actually shows up in [DegreeWorks](https://degreeworks.gatech.edu/). If it doesn't, find out why **now**.
+- More credit is not automatically better. Skipping a course you are shaky on can hurt later in the chain.
+- DegreeWorks can have errors where classes that should count, don't. Check with you academic advisor about these.
+:::
+
+::: notes
+Ask who arrived with MATH 1551 or PHYS 2211 credit. Encourage anyone who placed out of calculus but felt unsure to talk to their advisor before spring registration.
+:::
+
+---
+
+## Room for more
+
+Your free and technical electives are where the degree becomes yours.
+
+| Option | How it fits |
+|---|---|
+| **Minor or certificate** | Physics' minors are 15 hours; up to 6 can double-count toward your major |
+| **Undergraduate research** | PHYS 2699 / 4699, at most 9 hours toward the degree (Astrophysics: at most 3 hours of 4699 as an elective) |
+| **Internship** | One semester or a summer, full- or part-time |
+| **Co-op** | Alternating semesters of full-time work and full-time classes |
+| **Study abroad** | A summer program or a full semester away |
+
+::: notes
+The School offers minors in Physics (non-physics majors only), Astrophysics (open to Physics and
+Applied Physics majors), and Quantum Sciences and Technology (open to all). Research gets its own
+lecture on Nov. 20. The Montgomery Machining Mall tour on Oct. 2 is also a
+good fit for students who want to build things in lab.
+:::
+
+---
+
+## Study abroad: the deadlines are earlier than you think
+
+::: {.nonincremental}
+- **Oct. 12:** [Georgia Tech Europe, Spring 2027](https://atlas.gatech.edu/_portal/tds-program-brochure?programid=10215). First-years can apply; admission is conditional on your first-semester GPA (2.5 minimum).
+- **Dec. 1 -- Feb. 15:** most **Summer 2027** programs. This is the most realistic option for first-years.
+- **Feb. 1, 2027:** most exchange programs for Fall 2027 / the academic year.
+:::
+
+Search programs in [ATLAS](https://atlas.gatech.edu/_portal/program-discovery). If US Citizen, make sure you have a [Passport](https://ea.oie.gatech.edu/apply-us-passport).
+
+::: {.highlight-box}
+**Coming up:** [Education Abroad 101: Faculty-Led Programs](https://ea.oie.gatech.edu/event/2026/09/22/education-abroad-101-faculty-led-programs), Tue., Sept. 22 · [Education Abroad Fair](https://ea.oie.gatech.edu/event/2026/10/20/education-abroad-fair), Tue., Oct. 20
+:::
+
+::: notes
+Deadlines were pulled from ATLAS on Sept. 16 (see planning/lecture-04-study-abroad-deadlines.md).
+Re-check the GTE Spring deadline the morning of class. Remind them a passport can take weeks:
+https://ea.oie.gatech.edu/apply-us-passport
+:::
+
+---
+
+## Tools
+
+| Tool | Use it for |
+|---|---|
+| [Georgia Tech Catalog](https://catalog.gatech.edu/programs/physics-general-bs/) | The official requirements |
+| [DegreeWorks](https://degreeworks.gatech.edu/) | What you have done and what is left |
+| [GT 1000 Degree Map template](https://sites.gatech.edu/gt1000-textbook/wp-content/uploads/sites/658/2017/07/Degree-Map.xlsx) | A starting table (Excel) |
+| [GT 1000 textbook: Degree Map](https://sites.gatech.edu/gt1000-textbook/researching-and-choosing-a-major/degree-map/) | Worked guidance |
+| [School of Physics 4-year plans](https://physics.gatech.edu/academics/undergraduate/requirements) | A semester-by-semester plan for each major |
+| [Oscar](https://oscar.gatech.edu/) | Official info on classes |
+| [Course Critique](https://critique.gatech.edu/) | Student-run info on classes and instructors |
+| [GT Course Vis](https://www.gt-course-vis.com/) | Student-run info on classes and prereqs. |
+| [Degree Roadmap GaTech](https://degree-roadmap.gatech.edu/) | Student-run info on classes and prereqs. |
+
+
+::: notes
+If there is time, pull up DegreeWorks live (with a test or personal account) and show where
+transfer credit and "still needed" blocks appear.
+:::
+
+---
+
+## Starting your map
+
+::: {.nonincremental}
+1. Open the [template](https://sites.gatech.edu/gt1000-textbook/wp-content/uploads/sites/658/2017/07/Degree-Map.xlsx) and your DegreeWorks audit.
+2. Enter your **transfer credit** and your **Fall 2026** schedule.
+3. Lay out the **math** and **physics** chains through graduation.
+4. *Optional:* Mark time for research, study abroad, an internship, or a co-op.
+5. Fill the rest with core and electives. Check each semester's hours.
+:::
+
+---
+
+## Before you submit
+
+Due **Sept. 25, 11:59 PM ET** · [Degree Map assignment](../assignments/deliverables/degree-map.qmd)
+
+::: {.nonincremental}
+- Every semester through your expected graduation.
+- Every required course appears, and prerequisites come first.
+- Transfer credit listed with what each one satisfies.
+- Minor courses, if any.
+- Where study abroad, research, an internship, or a co-op could fit.
+- Credit hours per semester, a running total, and $\geq 122$ at the end.
+- One PDF named `Lastname-Firstname-Degree-Map.pdf`.
+:::
+
+::: notes
+This map is also the starting point for the advising meeting assignment due Oct. 30, so a careful
+job now saves work later.
+:::

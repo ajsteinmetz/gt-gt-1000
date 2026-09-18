@@ -29,3 +29,9 @@ Thumbs.db
 /_freeze/**/libs/
 
 **/*.quarto_ipynb
+
+# Student photo submissions and the collage tiles derived from them
+/lectures/figs/fluff/submissions/
+/lectures/figs/fluff/collage/
+
+# Extra files

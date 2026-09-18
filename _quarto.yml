@@ -3,6 +3,7 @@ project:
   render:
     - "*.qmd"
     - "!planning/"
+    - "!lectures/figs/"
 
 website:
   title: "GT 1000"
