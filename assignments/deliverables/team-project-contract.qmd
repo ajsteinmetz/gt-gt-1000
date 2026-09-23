@@ -1,6 +1,6 @@
 ---
 title: "Team Project Contract"
-subtitle: "Due: October 2 by 11:59 PM ET · 5% of course grade"
+subtitle: "Due: October 9 by 11:59 PM ET · 5% of course grade"
 ---
 
 <!-- TODO: add the team project topic and team sizes once finalized (see team-project.qmd),
@@ -10,7 +10,7 @@ subtitle: "Due: October 2 by 11:59 PM ET · 5% of course grade"
 
 Most group projects that go wrong do so for predictable reasons: no one agreed on who does what, when the team meets, or what happens when someone stops responding. A team contract settles those questions at the start, while everyone still gets along.
 
-Your team will write and sign a contract for the [Team Project](../team-project.qmd). Teams are formed at the project kickoff in class on **September 25**.
+Your team will write and sign a contract for the [Team Project](../team-project.qmd). Teams are formed at the project kickoff in class on **October 2**.
 
 ## What to Submit
 

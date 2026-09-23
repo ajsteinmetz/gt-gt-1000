@@ -73,9 +73,9 @@ The course meets every Friday of the semester except holidays, from **August 28 
 | Sept. 11 | Time management and study strategies | **[Résumé](assignments/deliverables/resume.qmd) due** |
 | Sept. 14-15 | **Fall 2026 All Majors Career Fair** | - |
 | Sept. 18 | Degree plan; study abroad | - |
-| Sept. 25 | Team project kickoff | **[Degree Map](assignments/deliverables/degree-map.qmd) due** |
-| Oct. 2 | Montgomery Machining Mall tour | **[Team Project Contract](assignments/deliverables/team-project-contract.qmd) due** |
-| Oct. 9 | LaTeX/Overleaf | - |
+| Sept. 25 | Montgomery Machining Mall tour | **[Degree Map](assignments/deliverables/degree-map.qmd) due** |
+| Oct. 2 | Team project kickoff | - |
+| Oct. 9 | LaTeX/Overleaf | **[Team Project Contract](assignments/deliverables/team-project-contract.qmd) due** |
 | Oct. 16 | Physics\@Tech talk 1 *(tentative)*; online presence | **[Homework in LaTeX](assignments/deliverables/latex-homework.qmd) due** |
 | Oct. 23 | Physics\@Tech talk 2 *(tentative)*; advising | **[Online Profile](assignments/deliverables/online-profile.qmd) due** |
 | Oct. 30 | Physics\@Tech talk 3 *(tentative)*; science ethics | **[Advising Meeting & Spring 2027 Plan](assignments/deliverables/advising-spring-plan.qmd) due** |

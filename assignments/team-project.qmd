@@ -1,6 +1,6 @@
 ---
 title: "Team Project"
-subtitle: "Contract due Oct. 2 · Slides due Nov. 6 · 25% of course grade · 250 points"
+subtitle: "Contract due Oct. 9 · Slides due Nov. 6 · 25% of course grade · 250 points"
 ---
 
 <!-- TODO: write this assignment. Replace every TBD below and add the Canvas
@@ -16,7 +16,7 @@ This project supports the course learning outcome that students *demonstrate the
 
 | Deliverable | Due | Points | |
 |---|---|---|---|
-| Team Project Contract | Oct. 2 | 50 | [Open assignment](deliverables/team-project-contract.qmd) |
+| Team Project Contract | Oct. 9 | 50 | [Open assignment](deliverables/team-project-contract.qmd) |
 | Team Project Slides | In class, Nov. 6 or Nov. 13 | 100 | [Open assignment](deliverables/team-project-slides.qmd) |
 | Team Project Presentation | In class, Nov. 6 or Nov. 13 | 100 | — |
 | **Total** | | **250** | |

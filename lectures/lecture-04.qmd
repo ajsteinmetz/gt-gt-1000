@@ -28,7 +28,7 @@ format:
 | What | When | Points |
 |---|---|---|
 | [Degree Map](../assignments/deliverables/degree-map.qmd) -- PDF to Canvas, `Lastname-Firstname-Degree-Map.pdf` | Sept. 25, 11:59 PM ET | 100 (10%) · Academic Planning |
-| Team project kickoff | Sept. 25, in class | -- |
+| Team project kickoff | Oct. 2, in class | -- |
 | [Advising Meeting & Spring 2027 Plan](../assignments/deliverables/advising-spring-plan.qmd) | Oct. 30, 11:59 PM ET | 60 (6%) · Academic Planning |
 
 ::: {.highlight-box}
@@ -181,7 +181,7 @@ Your free and technical electives are where the degree becomes yours.
 ::: notes
 The School offers minors in Physics (non-physics majors only), Astrophysics (open to Physics and
 Applied Physics majors), and Quantum Sciences and Technology (open to all). Research gets its own
-lecture on Nov. 20. The Montgomery Machining Mall tour on Oct. 2 is also a
+lecture on Nov. 20. The Montgomery Machining Mall tour on Sept. 25 is also a
 good fit for students who want to build things in lab.
 :::
 
