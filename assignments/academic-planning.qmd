@@ -1,6 +1,6 @@
 ---
 title: "Academic Planning"
-subtitle: "25% of course grade · 250 points"
+subtitle: "25% of course grade &middot; 250 points"
 ---
 
 Academic Planning assignments supports learning how to be a successful Georgia Tech student, understanding your path to graduation, and identifying opportunities for academic enrichment. Assignments are announced in class and posted here as they are assigned.

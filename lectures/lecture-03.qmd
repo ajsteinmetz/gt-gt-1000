@@ -1,6 +1,6 @@
 ---
 title: "Time Management"
-subtitle: "GT 1000 · Lecture 3"
+subtitle: "GT 1000 &middot; Lecture 3"
 author: "Andrew J. Steinmetz"
 date: "September 11, 2026"
 format:
@@ -8,7 +8,7 @@ format:
     theme: [default, gatech-revealjs.css]
     slide-number: c/t
     transition: none
-    footer: "GT 1000 · Fall 2026 · Section D03 · Georgia Institute of Technology"
+    footer: "GT 1000 &middot; Fall 2026 &middot; Section D03 &middot; Georgia Institute of Technology"
     width: 1200
     height: 750
     auto-stretch: false
@@ -39,7 +39,7 @@ Let the silence run. If nobody volunteers, pair them up for two minutes and then
 ![](figs/fluff/time_management.png){fig-align="center" width="100%"}
 
 ::: {.cite-note}
-[xkcd #874 "Time Management"](https://xkcd.com/874/) · [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/) · (edited)
+[xkcd #874 "Time Management"](https://xkcd.com/874/) &middot; [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/) &middot; (edited)
 :::
 
 ---
@@ -51,7 +51,7 @@ Let the silence run. If nobody volunteers, pair them up for two minutes and then
 I probably need to hear some of the stuff we're going to discuss as well.
 
 ::: {.highlight-box}
-**Reminder:** Your [résumé](../assignments/deliverables/resume.qmd) is due **tonight, Sept. 11, 11:59 PM ET**.
+**Reminder:** Your [resume](../assignments/deliverables/resume.qmd) is due **tonight, Sept. 11, 11:59 PM ET**.
 :::
 
 ::: {.highlight-box}

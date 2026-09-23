@@ -1,6 +1,6 @@
 ---
 title: "Career Readiness"
-subtitle: "25% of course grade · 250 points"
+subtitle: "25% of course grade &middot; 250 points"
 ---
 
 Career Readiness assignments cover what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels. Assignments are announced in class and posted here as they are assigned.
@@ -11,7 +11,7 @@ Unless a deliverable says otherwise, submit your work to Canvas as a **PDF** by 
 
 | Deliverable | Due | Points | |
 |---|---|---|---|
-| Résumé | Sept. 11 | 100 | [Open assignment](deliverables/resume.qmd) |
+| Resume | Sept. 11 | 100 | [Open assignment](deliverables/resume.qmd) |
 | Online Profile | Oct. 23 | 75 | [Open assignment](deliverables/online-profile.qmd) |
 | Research Talk Reflection | Dec. 4 | 75 | [Open assignment](deliverables/research-talk-reflection.qmd) |
 | **Total** | | **250** | |
@@ -19,9 +19,9 @@ Unless a deliverable says otherwise, submit your work to Canvas as a **PDF** by 
 ## Helpful Resources
 
 - [Georgia Tech Career Center](https://career.gatech.edu/)
-- [Career Center résumé guidance](https://career.gatech.edu/resumes/)
+- [Career Center resume guidance](https://career.gatech.edu/resumes/)
 - [Fall 2026 All Majors Career Fair](https://careerfair.gatech.edu/)
 - [Georgia Tech interviewing resources](https://career.gatech.edu/interviewing/)
-- [Résumé vs. Academic CV](../supplemental/resume-cv.qmd)
-- [Lecture 1 slides — Résumés](../lectures/lecture-01.qmd)
+- [Resume vs. Academic CV](../supplemental/resume-cv.qmd)
+- [Lecture 1 slides &mdash; Resumes](../lectures/lecture-01.qmd)
 - [Undergraduate research (UROP)](https://urop.gatech.edu/)

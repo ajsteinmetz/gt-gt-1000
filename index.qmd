@@ -5,7 +5,7 @@ subtitle: "GT 1000: First-Year Seminar, Physics"
 
 **Fall 2026 | Section D03 | CRN #94631 | 1 credit hour**
 
-**Fridays, 12:30–1:20 PM • Swann 325 • Weekly in-person attendance required**
+**Fridays, 12:30&ndash;1:20 PM &middot; Swann 325 &middot; Weekly in-person attendance required**
 
 ## Welcome
 
@@ -27,7 +27,7 @@ Review the full syllabus as this home page is a truncated version (with the exce
 ![](https://imgs.xkcd.com/comics/physicists.png){fig-align="center" width="100%" fig-alt="xkcd comic #793, \"Physicists\": a physicist interrupts another field's researcher to offer a simple model of their problem."}
 
 ::: {style="text-align: center; color: #555;"}
-[xkcd #793 "Physicists"](https://xkcd.com/793/) · [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
+[xkcd #793 "Physicists"](https://xkcd.com/793/) &middot; [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
 :::
 :::
 
@@ -68,9 +68,9 @@ The course meets every Friday of the semester except holidays, from **August 28 
 
 | Date | Tentative Topic / Focus | Major Due Dates |
 |---|---|---|
-| Aug. 28 | Course introduction; résumés | - |
-| Sept. 4 | Résumé review and revision workshop | **[Campus Scavenger Hunt](assignments/deliverables/scavenger-hunt.qmd) due** |
-| Sept. 11 | Time management and study strategies | **[Résumé](assignments/deliverables/resume.qmd) due** |
+| Aug. 28 | Course introduction; resumes | - |
+| Sept. 4 | Resume review and revision workshop | **[Campus Scavenger Hunt](assignments/deliverables/scavenger-hunt.qmd) due** |
+| Sept. 11 | Time management and study strategies | **[Resume](assignments/deliverables/resume.qmd) due** |
 | Sept. 14-15 | **Fall 2026 All Majors Career Fair** | - |
 | Sept. 18 | Degree plan; study abroad | - |
 | Sept. 25 | Montgomery Machining Mall tour | **[Degree Map](assignments/deliverables/degree-map.qmd) due** |
@@ -91,9 +91,9 @@ There are no exams in this course. Your grade is based on participation and atte
 | Course Component | Points | Weight |
 |---|---|---|
 | Participation, short assignments, and attendance | 250 | 25% |
-| [Team Project](assignments/team-project.qmd) | 250 | 25% |
-| [Academic Planning](assignments/academic-planning.qmd) | 250 | 25% |
-| [Career Readiness](assignments/career-readiness.qmd) | 250 | 25% |
+| Team Project | 250 | 25% |
+| Academic Planning | 250 | 25% |
+| Career Readiness | 250 | 25% |
 | **Total** | **1000** | **100%** |
 
 ### Assignment Descriptions
@@ -149,7 +149,7 @@ Review the [full syllabus](course-files/syllabus.qmd), note the class meeting ti
 
 ## Copyright
 
-© 2026 Andrew J. Steinmetz. Course materials are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.
+&copy; 2026 Andrew J. Steinmetz. Course materials are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material for any purpose, provided you give appropriate credit to the original author and indicate if changes were made.
 
 ### AI Disclosure
 

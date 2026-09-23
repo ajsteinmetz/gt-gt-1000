@@ -1,6 +1,6 @@
 ---
 title: "Homework in LaTeX"
-subtitle: "Due: October 16 by 11:59 PM ET · 5% of course grade"
+subtitle: "Due: October 16 by 11:59 PM ET &middot; 5% of course grade"
 ---
 
 ## Purpose

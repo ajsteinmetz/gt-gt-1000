@@ -1,6 +1,6 @@
 ---
 title: "Campus Scavenger Hunt"
-subtitle: "Due: September 4 by 11:59 PM ET · 4% of course grade"
+subtitle: "Due: September 4 by 11:59 PM ET &middot; 4% of course grade"
 ---
 
 ## Purpose
@@ -9,7 +9,7 @@ The fastest way to learn this campus is to walk it. This gets you across Georgia
 
 ## What to Submit
 
-- **Form a group of 2–3 students.** Groups are formed in class on August 28. Everyone must be in a group.
+- **Form a group of 2&ndash;3 students.** Groups are formed in class on August 28. Everyone must be in a group.
 - **Visit all eight locations** listed below.
 - **Take a group selfie at each location.** Every member of the group must appear in every photo.
 - **One student uploads all photos** of the group's activities to Canvas; preferably as jpg or png files.

@@ -1,25 +1,25 @@
 ---
-title: "Résumé"
-subtitle: "Due: September 11 by 11:59 PM ET · 10% of course grade"
+title: "Resume"
+subtitle: "Due: September 11 by 11:59 PM ET &middot; 10% of course grade"
 ---
 
 ## Purpose
 
-Résumés have a long history going back to at least Leonardo da Vinci, [who wrote a letter](https://artsandculture.google.com/asset/atlantic-codex-codex-atlanticus-f-1082recto-leonardo-da-vinci/EAFjs2sqiBInqg?hl=en) to Ludovico il Moro, Duke of Milan, [summarizing his many talents](https://bookhaven.stanford.edu/2015/11/leonardo-da-vinci-on-how-to-write-a-c-v/) c. 1483–1485.
+Resumes have a long history going back to at least Leonardo da Vinci, [who wrote a letter](https://artsandculture.google.com/asset/atlantic-codex-codex-atlanticus-f-1082recto-leonardo-da-vinci/EAFjs2sqiBInqg?hl=en) to Ludovico il Moro, Duke of Milan, [summarizing his many talents](https://bookhaven.stanford.edu/2015/11/leonardo-da-vinci-on-how-to-write-a-c-v/) c. 1483&ndash;1485.
 
-The **Fall 2026 All Majors Career Fair** is September 14–15, three days after this deadline. The point of this deliverable is that you walk into it with a polished, one-page résumé in hand rather than assembling one the night before.
+The **Fall 2026 All Majors Career Fair** is September 14&ndash;15, three days after this deadline. The point of this deliverable is that you walk into it with a polished, one-page resume in hand rather than assembling one the night before.
 
-We covered what goes on a résumé in [Lecture 1](../../lectures/lecture-01.qmd), and we workshop drafts in class on **September 4** (bring a draft that day, even a rough one).
+We covered what goes on a resume in [Lecture 1](../../lectures/lecture-01.qmd), and we workshop drafts in class on **September 4** (bring a draft that day, even a rough one).
 
 ## What to Submit
 
-- A **one-page résumé**, submitted as a **PDF** to Canvas by September 11 at 11:59 PM ET.
+- A **one-page resume**, submitted as a **PDF** to Canvas by September 11 at 11:59 PM ET.
 - Name the file `Lastname-Firstname-Resume.pdf`.
-- Submit a PDF, not a Word document — formatting shifts between machines and a PDF does not.
+- Submit a PDF, not a Word document &mdash; formatting shifts between machines and a PDF does not.
 
 ## Expectations
 
-**Sections.** A résumé is typically organized into sections: contact information, education, experience, skills, projects and leadership, awards and honors. Not every résumé looks the same; the order and emphasis depend on your background.
+**Sections.** A resume is typically organized into sections: contact information, education, experience, skills, projects and leadership, awards and honors. Not every resume looks the same; the order and emphasis depend on your background.
 
 **Education.** List your most recent institution first. Your high school can stay on for now and comes off once you have Tech coursework to replace it. Relevant coursework and high school honors are fair game this year while experience is thin.
 
@@ -33,7 +33,7 @@ We covered what goes on a résumé in [Lecture 1](../../lectures/lecture-01.qmd)
 
 ## Submission Checklist
 
-- My résumé is one page.
+- My resume is one page.
 - My contact information is at the top and correct.
 - The formatting is consistent -- fonts, sizes, dates, and alignment.
 - I have reviewed the document for clarity, formatting, spelling, and grammar.
@@ -41,4 +41,4 @@ We covered what goes on a résumé in [Lecture 1](../../lectures/lecture-01.qmd)
 
 ## Helpful Resources
 
-- [Career Center résumé guidance](https://career.gatech.edu/resumes/)
+- [Career Center resume guidance](https://career.gatech.edu/resumes/)

@@ -1,6 +1,6 @@
 ---
 title: "Advising Meeting & Spring 2027 Plan"
-subtitle: "Due: October 30 by 11:59 PM ET · 6% of course grade"
+subtitle: "Due: October 30 by 11:59 PM ET &middot; 6% of course grade"
 ---
 
 ## Purpose

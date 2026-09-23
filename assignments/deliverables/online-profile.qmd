@@ -1,6 +1,6 @@
 ---
 title: "Online Profile"
-subtitle: "Due: October 23 by 11:59 PM ET · 7.5% of course grade"
+subtitle: "Due: October 23 by 11:59 PM ET &middot; 7.5% of course grade"
 ---
 
 ## Purpose
@@ -39,7 +39,7 @@ Your profile should present you clearly and professionally. As a first-year stud
 
 - **A professional photo.** Clear, smiling, and with an uncluttered background.
 - **A headline** that says who you are and what you are interested in, such as "Physics first-year at Georgia Tech interested in quantum materials," rather than just "Student."
-- **A summary.** A short paragraph is fine. You may draw on sections of your [résumé](resume.qmd) rather than writing a long bio.
+- **A summary.** A short paragraph is fine. You may draw on sections of your [resume](resume.qmd) rather than writing a long bio.
 - **Education** listing Georgia Tech and your degree program.
 - **Experience, projects, and activities.** Jobs, volunteering, clubs, research, and projects you are proud of, including strong high school projects.
 - **Skills** you actually have, such as programming languages, lab techniques, or software.
@@ -65,4 +65,4 @@ If you do not wish to create or maintain a LinkedIn profile, you may instead sub
 - [GT 1000 textbook: LinkedIn, Thank You Notes, and More](https://sites.gatech.edu/gt1000-textbook/linkedin-thank-you-notes-and-more/)
 - [LinkedIn Help: Save a profile as a PDF](https://www.linkedin.com/help/linkedin/answer/a541960)
 - [Georgia Tech Career Center](https://career.gatech.edu/)
-- [Résumé assignment](resume.qmd)
+- [Resume assignment](resume.qmd)

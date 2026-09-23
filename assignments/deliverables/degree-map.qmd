@@ -1,6 +1,6 @@
 ---
 title: "Degree Map"
-subtitle: "Due: September 25 by 11:59 PM ET · 10% of course grade"
+subtitle: "Due: September 25 by 11:59 PM ET &middot; 10% of course grade"
 ---
 
 ## Purpose

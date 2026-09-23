@@ -1,6 +1,6 @@
 ---
 title: "Building a Degree Plan"
-subtitle: "GT 1000 · Lecture 4"
+subtitle: "GT 1000 &middot; Lecture 4"
 author: "Andrew J. Steinmetz"
 date: "September 18, 2026"
 format:
@@ -8,7 +8,7 @@ format:
     theme: [default, gatech-revealjs.css]
     slide-number: c/t
     transition: none
-    footer: "GT 1000 · Fall 2026 · Section D03 · Georgia Institute of Technology"
+    footer: "GT 1000 &middot; Fall 2026 &middot; Section D03 &middot; Georgia Institute of Technology"
     width: 1200
     height: 750
     auto-stretch: false
@@ -27,9 +27,9 @@ format:
 
 | What | When | Points |
 |---|---|---|
-| [Degree Map](../assignments/deliverables/degree-map.qmd) -- PDF to Canvas, `Lastname-Firstname-Degree-Map.pdf` | Sept. 25, 11:59 PM ET | 100 (10%) · Academic Planning |
+| [Degree Map](../assignments/deliverables/degree-map.qmd) -- PDF to Canvas, `Lastname-Firstname-Degree-Map.pdf` | Sept. 25, 11:59 PM ET | 100 (10%) &middot; Academic Planning |
 | Team project kickoff | Oct. 2, in class | -- |
-| [Advising Meeting & Spring 2027 Plan](../assignments/deliverables/advising-spring-plan.qmd) | Oct. 30, 11:59 PM ET | 60 (6%) · Academic Planning |
+| [Advising Meeting & Spring 2027 Plan](../assignments/deliverables/advising-spring-plan.qmd) | Oct. 30, 11:59 PM ET | 60 (6%) &middot; Academic Planning |
 
 ::: {.highlight-box}
 Today's work **is** the Degree Map.
@@ -64,7 +64,7 @@ The School of Physics' [4-year plan](https://ballantyne.physics.gatech.edu/FourY
 | Spring 2027 | ENGL 1102, MATH 1552, PHYS 2231, CS 1301, APPH 1040 | 17 | 32 |
 | Summer 2027 | *Study abroad? Internship?* | -- | 32 |
 | ... | ... | ... | ... |
-| Spring 2030 | PHYS 4605, electives | 14 | $\geq$ 122 |
+| Spring 2030 | PHYS 4605, electives | 14 | &ge; 122 |
 
 ---
 
@@ -129,9 +129,9 @@ You need a **2.0 GPA** across all 3000- and 4000-level PHYS classes. Pass/fail o
 Your map is really a set of **chains**. Build the chains first, then fill in around them.
 
 ::: {.nonincremental}
-- **Math:** MATH 1551 $\to$ 1552 $\to$ 2551 $\to$ 2552
-- **Intro physics:** PHYS 2231 $\to$ 2232 $\to$ 2303 / 2304
-- **Upper level:** intro physics + math $\to$ 3000-level $\to$ 4000-level
+- **Math:** MATH 1551 &rarr; 1552 &rarr; 2551 &rarr; 2552
+- **Intro physics:** PHYS 2231 &rarr; 2232 &rarr; 2303 / 2304
+- **Upper level:** intro physics + math &rarr; 3000-level &rarr; 4000-level
 :::
 
 When in doubt, check [Oscar](https://oscar.gatech.edu/).
@@ -198,7 +198,7 @@ good fit for students who want to build things in lab.
 Search programs in [ATLAS](https://atlas.gatech.edu/_portal/program-discovery). If US Citizen, make sure you have a [Passport](https://ea.oie.gatech.edu/apply-us-passport).
 
 ::: {.highlight-box}
-**Coming up:** [Education Abroad 101: Faculty-Led Programs](https://ea.oie.gatech.edu/event/2026/09/22/education-abroad-101-faculty-led-programs), Tue., Sept. 22 · [Education Abroad Fair](https://ea.oie.gatech.edu/event/2026/10/20/education-abroad-fair), Tue., Oct. 20
+**Coming up:** [Education Abroad 101: Faculty-Led Programs](https://ea.oie.gatech.edu/event/2026/09/22/education-abroad-101-faculty-led-programs), Tue., Sept. 22 &middot; [Education Abroad Fair](https://ea.oie.gatech.edu/event/2026/10/20/education-abroad-fair), Tue., Oct. 20
 :::
 
 ::: notes
@@ -245,7 +245,7 @@ transfer credit and "still needed" blocks appear.
 
 ## Before you submit
 
-Due **Sept. 25, 11:59 PM ET** · [Degree Map assignment](../assignments/deliverables/degree-map.qmd)
+Due **Sept. 25, 11:59 PM ET** &middot; [Degree Map assignment](../assignments/deliverables/degree-map.qmd)
 
 ::: {.nonincremental}
 - Every semester through your expected graduation.
@@ -253,7 +253,7 @@ Due **Sept. 25, 11:59 PM ET** · [Degree Map assignment](../assignments/delivera
 - Transfer credit listed with what each one satisfies.
 - Minor courses, if any.
 - Where study abroad, research, an internship, or a co-op could fit.
-- Credit hours per semester, a running total, and $\geq 122$ at the end.
+- Credit hours per semester, a running total, and &ge; 122 at the end.
 - One PDF named `Lastname-Firstname-Degree-Map.pdf`.
 :::
 

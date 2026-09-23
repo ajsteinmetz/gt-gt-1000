@@ -1,6 +1,6 @@
 ---
 title: "Team Project Contract"
-subtitle: "Due: October 9 by 11:59 PM ET · 5% of course grade"
+subtitle: "Due: October 9 by 11:59 PM ET &middot; 5% of course grade"
 ---
 
 <!-- TODO: add the team project topic and team sizes once finalized (see team-project.qmd),

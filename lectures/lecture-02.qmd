@@ -1,6 +1,6 @@
 ---
-title: "Résumé Review & Revision Workshop"
-subtitle: "GT 1000 · Lecture 2"
+title: "Resume Review & Revision Workshop"
+subtitle: "GT 1000 &middot; Lecture 2"
 author: "Andrew J. Steinmetz"
 date: "September 4, 2026"
 format:
@@ -8,7 +8,7 @@ format:
     theme: [default, gatech-revealjs.css]
     slide-number: c/t
     transition: none
-    footer: "GT 1000 · Fall 2026 · Section D03 · Georgia Institute of Technology"
+    footer: "GT 1000 &middot; Fall 2026 &middot; Section D03 &middot; Georgia Institute of Technology"
     width: 1200
     height: 750
     auto-stretch: false
@@ -18,10 +18,10 @@ format:
 
 | What | When | Points |
 |---|---|---|
-| [Campus Scavenger Hunt](../assignments/deliverables/scavenger-hunt.qmd) — photos to Canvas | **Tonight**, Sept. 4, 11:59 PM ET | 40 (4%) · Academic Planning |
-| [Résumé](../assignments/deliverables/resume.qmd) — PDF to Canvas, `Lastname-Firstname-Resume.pdf` | Sept. 11, 11:59 PM ET | 100 (10%) · Career Readiness |
-| GT Career Center résumé reviews | Sept. 8 in person · Sept. 9–10 virtual | — |
-| **Fall 2026 All Majors Career Fair** | Sept. 14–15 | — |
+| [Campus Scavenger Hunt](../assignments/deliverables/scavenger-hunt.qmd) &mdash; photos to Canvas | **Tonight**, Sept. 4, 11:59 PM ET | 40 (4%) &middot; Academic Planning |
+| [Resume](../assignments/deliverables/resume.qmd) &mdash; PDF to Canvas, `Lastname-Firstname-Resume.pdf` | Sept. 11, 11:59 PM ET | 100 (10%) &middot; Career Readiness |
+| GT Career Center resume reviews | Sept. 8 in person &middot; Sept. 9&ndash;10 virtual | &mdash; |
+| **Fall 2026 All Majors Career Fair** | Sept. 14&ndash;15 | &mdash; |
 
 ::: {.highlight-box}
 **The Scavenger Hunt is due tonight.** One person per group uploads all the photos.
@@ -29,7 +29,7 @@ format:
 
 ::: notes
 Ask for a show of hands: whose group has already submitted? Anyone still without a group needs to
-be sorted out before they leave today. Remind them the résumé deadline sits three days before the
+be sorted out before they leave today. Remind them the resume deadline sits three days before the
 career fair by design.
 :::
 

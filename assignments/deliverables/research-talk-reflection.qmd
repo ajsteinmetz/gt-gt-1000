@@ -1,6 +1,6 @@
 ---
 title: "Research Talk Reflection"
-subtitle: "Open assignment: due any time by December 4 at 11:59 PM ET · 7.5% of course grade"
+subtitle: "Open assignment: due any time by December 4 at 11:59 PM ET &middot; 7.5% of course grade"
 ---
 
 <!-- TODO: set a length guideline for the written sections. -->

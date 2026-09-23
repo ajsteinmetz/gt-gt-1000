@@ -1,6 +1,6 @@
 ---
 title: "Team Project Slides"
-subtitle: "Due: November 6 by 11:59 PM ET · 10% of course grade"
+subtitle: "Due: November 6 by 11:59 PM ET &middot; 10% of course grade"
 ---
 
 <!-- TODO: add the project topic, presentation length, slide-count limits, and the

@@ -1,6 +1,6 @@
 ---
-title: "Course Overview & Résumés"
-subtitle: "GT 1000 · Lecture 1"
+title: "Course Overview & Resumes"
+subtitle: "GT 1000 &middot; Lecture 1"
 author: "Andrew J. Steinmetz"
 date: "August 28, 2026"
 format:
@@ -8,7 +8,7 @@ format:
     theme: [default, gatech-revealjs.css]
     slide-number: c/t
     transition: none
-    footer: "GT 1000 · Fall 2026 · Section D03 · Georgia Institute of Technology"
+    footer: "GT 1000 &middot; Fall 2026 &middot; Section D03 &middot; Georgia Institute of Technology"
     width: 1200
     height: 750
     auto-stretch: false
@@ -20,7 +20,7 @@ format:
 ::: {.column width="65%"}
 **Dr. Andrew J. Steinmetz**
 
-School of Physics · Georgia Institute of Technology
+School of Physics &middot; Georgia Institute of Technology
 
 | | |
 |---|---|
@@ -68,7 +68,7 @@ This is a discussion-based course. Come ready to participate and to work in smal
 ![](https://imgs.xkcd.com/comics/qualifications_2x.png){fig-align="center" width="100%"}
 
 ::: {.cite-note}
-[xkcd #2756 "Qualifications"](https://xkcd.com/2756/) · [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
+[xkcd #2756 "Qualifications"](https://xkcd.com/2756/) &middot; [CC BY-NC 2.5](https://creativecommons.org/licenses/by-nc/2.5/)
 :::
 
 :::
@@ -99,7 +99,7 @@ By the end of this course, you will be able to:
 | Career Readiness | Multiple deliverables | 25% |
 
 ::: {.callout-note}
-All four components are weighted equally and there are no exams in this course. The first Career Readiness deliverable is your **résumé, due September 11**.
+All four components are weighted equally and there are no exams in this course. The first Career Readiness deliverable is your **resume, due September 11**.
 :::
 
 
@@ -141,7 +141,7 @@ import numpy as np
 
 matplotlib.rcParams.update({'font.family': 'sans-serif'})
 
-years  = ['2020–21', '2021–22', '2022–23', '2023–24', '2024–25']
+years  = ['2020\u201321', '2021\u201322', '2022\u201323', '2023\u201324', '2024\u201325']
 x      = np.arange(len(years))
 width  = 0.25
 
@@ -191,22 +191,22 @@ Career Center events (https://calendar.gatech.edu/):
 
 ## The Career Fair Is Seventeen Days Away
 
-The **Fall 2026 All Majors Career Fair** is September 14–15 at Georgia Tech.
+The **Fall 2026 All Majors Career Fair** is September 14&ndash;15 at Georgia Tech.
 
 - [Georgia Tech Career Fair](https://careerfair.gatech.edu/)
 - [Georgia Tech Interviewing Resources](https://career.gatech.edu/interviewing/)
 
-Your **résumé is due September 11** before the fair begins.
+Your **resume is due September 11** before the fair begins.
 
 ::: {.highlight-box}
-**Today's goal:** covering what goes on a résumé and how to start writing one if you haven't done so already.
+**Today's goal:** covering what goes on a resume and how to start writing one if you haven't done so already.
 :::
 
 ---
 
-## Part III: Résumés
+## Part III: Resumes
 
-A résumé is typically organized into six sections:
+A resume is typically organized into six sections:
 
 1. **Contact information**
 2. **Education**
@@ -215,32 +215,32 @@ A résumé is typically organized into six sections:
 5. **Projects and leadership**
 6. Awards and honors *(optional)*
 
-Not every résumé looks the same. The order and emphasis depend on your background and the opportunity.
+Not every resume looks the same. The order and emphasis depend on your background and the opportunity.
 
 ---
 
-## Résumé vs. Academic CV
+## Resume vs. Academic CV
 
-| | Résumé | 
+| | Resume | 
 |---|---| 
-| **Length** | 1–2 pages | 
+| **Length** | 1&ndash;2 pages | 
 | **Purpose** | Fit for a specific role | 
 | **Used for** | Jobs, internships, most undergrad opportunities | 
 | **Customization** | Tailored to each application | 
 
-For all of you right now, a **résumé** is your concern.  For more detail, see the course guide: [Résumé vs. Academic CV](../supplemental/resume-cv.qmd)
+For all of you right now, a **resume** is your concern.  For more detail, see the course guide: [Resume vs. Academic CV](../supplemental/resume-cv.qmd)
 
 ---
 
 ## Contact Information
 
-Make this easy to find — usually at the top of the page.
+Make this easy to find &mdash; usually at the top of the page.
 
-- Full name (prominent — consider a slightly larger font)
+- Full name (prominent &mdash; consider a slightly larger font)
 - Professional email address (GT email is fine)
 - Phone number
 - LinkedIn, GitHub or portfolio URL (Optional; if you have one worth sharing)
-- City and state — no full street address needed
+- City and state &mdash; no full street address needed
 
 ::: notes
 Mention that GT email is appropriate for now but a permanent personal email is useful long-term. LinkedIn URL should be customized (linkedin.com/in/yourname) rather than the default random string.
@@ -253,9 +253,9 @@ Mention that GT email is appropriate for now but a permanent personal email is u
 - **Georgia Institute of Technology**
   - B.S. Physics / Astrophysics / Applied Physics (or joint degree)
   - Expected graduation: **May 2030** (or your actual date)
-  - GPA: you do not have a GT GPA yet — leave it off until you have a semester on the books, then include it if it is ≥ 3.0
+  - GPA: you do not have a GT GPA yet &mdash; leave it off until you have a semester on the books, then include it if it is &ge; 3.0
 - Relevant coursework (optional, and useful right now while experience is thin). Academic honors: high school honors and scholarships are fair game this year.
-- List your most recent institution first. Your high school can stay on the résumé for now, and comes off once you have Tech coursework and experience to replace it.
+- List your most recent institution first. Your high school can stay on the resume for now, and comes off once you have Tech coursework and experience to replace it.
 
 ---
 
@@ -264,9 +264,9 @@ Mention that GT email is appropriate for now but a permanent personal email is u
 The most important section for most employers. Include: **work, research, internships, co-ops, teaching assistantships**. For each entry:
 
 - Organization name and your role or title
-- Dates — month and year (e.g., May 2025 – Aug. 2025)
-- Location (city, state) — or "Remote"
-- **2–4 bullet points describing what you did and what it produced**
+- Dates &mdash; month and year (e.g., May 2025 &ndash; Aug. 2025)
+- Location (city, state) &mdash; or "Remote"
+- **2&ndash;4 bullet points describing what you did and what it produced**
 
 Research experience counts strongly for physics students: faculty advisors, national labs, REUs. In the meantime, **high school jobs, volunteering, and club roles all belong here.** 
 
@@ -294,7 +294,7 @@ Lead with a **strong action verb**. Quantify where you can.
 
 ## Skills
 
-List technical skills — the specific tools and languages you actually know.
+List technical skills &mdash; the specific tools and languages you actually know.
 
 **Programming and Software**
 Python, MATLAB, C/C++, Julia, Mathematica, LaTeX, Git, Linux/bash, etc.
@@ -313,7 +313,7 @@ Do not list generic software (Word, PowerPoint) unless the role specifically req
 
 ## Projects and Leadership
 
-Valuable if work or research experience is limited — which describes essentially all of you today.
+Valuable if work or research experience is limited &mdash; which describes essentially all of you today.
 
 **Technical projects** Computational or experimental class projects with real results. Independent projects, open-source contributions
 
@@ -330,16 +330,16 @@ Valuable if work or research experience is limited — which describes essential
 Keep it clean and professional.
 
 - **One page** for most undergraduates
-- Consistent fonts — one or two at most; no smaller than 10 pt for body text
-- Adequate white space — do not cram everything in
+- Consistent fonts &mdash; one or two at most; no smaller than 10 pt for body text
+- Adequate white space &mdash; do not cram everything in
 - Consistent alignment of dates and section headers
 - No photos, no graphics, no colored text
 - Typos and grammar errors are disqualifying. Proofread.
 
-[Georgia Tech Career Center — Résumé Guidance](https://career.gatech.edu/resumes/)
+[Georgia Tech Career Center &mdash; Resume Guidance](https://career.gatech.edu/resumes/)
 
 ::: notes
-Encourage students to use one if they are starting from scratch. The formatting rules exist because recruiters scan résumés in seconds.
+Encourage students to use one if they are starting from scratch. The formatting rules exist because recruiters scan resumes in seconds.
 :::
 
 ---
@@ -347,10 +347,10 @@ Encourage students to use one if they are starting from scratch. The formatting 
 ## Upcoming Schedule
 
 ::: {.nonincremental}
-1. **Start your résumé draft** — or revisit the one you have.
-2. **Bring it to class next Friday (September 4)** — we will workshop drafts in class.
-3. **Résumé is due: September 11 at 11:59 PM ET** — submitted as PDF to Canvas. Worth **100 points (10% of your final grade)** under Career Readiness.
-4. **Career Fair: September 14–15** — Attending counts toward your participation and short-assignment credit.
+1. **Start your resume draft** &mdash; or revisit the one you have.
+2. **Bring it to class next Friday (September 4)** &mdash; we will workshop drafts in class.
+3. **Resume is due: September 11 at 11:59 PM ET** &mdash; submitted as PDF to Canvas. Worth **100 points (10% of your final grade)** under Career Readiness.
+4. **Career Fair: September 14&ndash;15** &mdash; Attending counts toward your participation and short-assignment credit.
 :::
 
 ---
@@ -360,14 +360,14 @@ Encourage students to use one if they are starting from scratch. The formatting 
 The fastest way to learn this campus is to walk it.
 
 ::: {.nonincremental}
-- **Form a group of 2–3 students.** Find your group before you leave today.
+- **Form a group of 2&ndash;3 students.** Find your group before you leave today.
 - **Visit all eight locations** on the next slide.
 - **Take a group selfie at each one.** Everyone in the group has to be in every photo.
-- **Assemble the photos into one PDF and submit it to Canvas.** The Canvas link goes up shortly — check the course website in the meantime.
+- **Assemble the photos into one PDF and submit it to Canvas.** The Canvas link goes up shortly &mdash; check the course website in the meantime.
 :::
 
 ::: {.highlight-box}
-**Due: September 4 at 11:59 PM ET** — worth **40 points (4% of your final grade)** under Academic Planning.
+**Due: September 4 at 11:59 PM ET** &mdash; worth **40 points (4% of your final grade)** under Academic Planning.
 :::
 
 ---

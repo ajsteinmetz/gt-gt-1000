@@ -5,7 +5,7 @@ subtitle: "GT 1000: First-Year Seminar, Physics"
 
 **Fall 2026 | Section D03 | CRN #94631 | 1 credit hour**
 
-**Fridays, 12:30–1:20 PM • Swann 325 • Weekly in-person attendance required**
+**Fridays, 12:30&ndash;1:20 PM &middot; Swann 325 &middot; Weekly in-person attendance required**
 
 ## Course Description
 
@@ -66,13 +66,13 @@ Your final grade will be assigned as a letter grade according to the following s
 
 | Letter Grade | Percentage |
 |---|---|
-| A | 90–100% |
-| B | 80–89% |
-| C | 70–79% |
-| D | 60–69% |
-| F | 0–59% |
+| A | 90&ndash;100% |
+| B | 80&ndash;89% |
+| C | 70&ndash;79% |
+| D | 60&ndash;69% |
+| F | 0&ndash;59% |
 
-Final numeric grades are rounded to the nearest whole percent. For example, 83.76% becomes 84%. This course is not otherwise curved. At Georgia Tech, grades are awarded on a scale of A–F with no plus/minus grades permitted.
+Final numeric grades are rounded to the nearest whole percent. For example, 83.76% becomes 84%. This course is not otherwise curved. At Georgia Tech, grades are awarded on a scale of A&ndash;F with no plus/minus grades permitted.
 
 [Georgia Tech grading system](http://registrar.gatech.edu/info/grading-system)
 
@@ -80,9 +80,9 @@ Final numeric grades are rounded to the nearest whole percent. For example, 83.7
 
 ### Attendance
 
-This class is designed for students to become active participants, so it is vital that all students attend each class session and are fully engaged in all class activities. This means that you will need to do more than just show up at the appointed time and place — you will also need to come to class prepared to participate.
+This class is designed for students to become active participants, so it is vital that all students attend each class session and are fully engaged in all class activities. This means that you will need to do more than just show up at the appointed time and place &mdash; you will also need to come to class prepared to participate.
 
-Please attend every scheduled meeting on time. That said, if you are exhibiting any symptoms of illness (fever over 100.4 °F, coughing, nausea, etc.), please stay home to rest, seek medical attention if appropriate, and contact me as soon as possible.
+Please attend every scheduled meeting on time. That said, if you are exhibiting any symptoms of illness (fever over 100.4 &deg;F, coughing, nausea, etc.), please stay home to rest, seek medical attention if appropriate, and contact me as soon as possible.
 
 Excessive lateness and absences (three or more per semester) can negatively impact your final grade outcome. If you have extenuating circumstances, I will try to work with you to address those challenges. Please communicate early and often if you are struggling with issues that may call for accommodations.
 
