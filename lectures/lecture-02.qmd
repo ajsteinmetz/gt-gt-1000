@@ -14,7 +14,7 @@ format:
     auto-stretch: false
 ---
 
-## Due Dates
+## Due dates
 
 | What | When | Points |
 |---|---|---|
@@ -35,7 +35,7 @@ career fair by design.
 
 ---
 
-## Meanwhile, on Thursday Night
+## Meanwhile, on Thursday night
 
 :::: {.columns}
 ::: {.column width="44%"}

@@ -14,7 +14,7 @@ format:
     auto-stretch: false
 ---
 
-## Your Instructor & Team Leader
+## Your instructor & Team Leader
 
 :::: {.columns}
 ::: {.column width="65%"}
@@ -76,7 +76,7 @@ This is a discussion-based course. Come ready to participate and to work in smal
 
 ---
 
-## Syllabus - Learning Outcomes
+## Syllabus - learning outcomes
 
 By the end of this course, you will be able to:
 
@@ -89,7 +89,7 @@ By the end of this course, you will be able to:
 
 ---
 
-## Syllabus - How You Are Graded
+## Syllabus - how you are graded
 
 | Course Component | Due | Weight |
 |---|---|---|
@@ -105,7 +105,7 @@ All four components are weighted equally and there are no exams in this course. 
 
 ---
 
-## Course Policies - The Short Version
+## Course policies - the short version
 
 - **Attendance is mandatory.** Excessive lateness and absences (three or more per semester) can negatively impact your final grade. Excused absences go through the Dean of Students.
 - **No textbook.** Materials are provided through Canvas/course website.
@@ -128,7 +128,7 @@ You picked this major a few weeks ago. Here is where it goes.
 
 ---
 
-## GaTech B.S. Physics: Starting Salaries
+## GaTech B.S. Physics: starting salaries
 
 Reported initial median salaries range from $74,000 to $86,500 and are competitive or in excess of national trends reported by NACE.
 
@@ -177,7 +177,7 @@ plt.show()
 
 ---
 
-## Part II: September Career Fair Events
+## Part II: September career fair events
 
 Career Center events (https://calendar.gatech.edu/):
 
@@ -189,7 +189,7 @@ Career Center events (https://calendar.gatech.edu/):
 
 ---
 
-## The Career Fair Is Seventeen Days Away
+## The career fair is seventeen days away
 
 The **Fall 2026 All Majors Career Fair** is September 14&ndash;15 at Georgia Tech.
 
@@ -219,7 +219,7 @@ Not every resume looks the same. The order and emphasis depend on your backgroun
 
 ---
 
-## Resume vs. Academic CV
+## Resume vs. academic CV
 
 | | Resume | 
 |---|---| 
@@ -232,7 +232,7 @@ For all of you right now, a **resume** is your concern.  For more detail, see th
 
 ---
 
-## Contact Information
+## Contact information
 
 Make this easy to find &mdash; usually at the top of the page.
 
@@ -278,7 +278,7 @@ Reassure students that an empty experience section is expected in week one. Emph
 
 ---
 
-## Writing Strong Bullets
+## Writing strong bullets
 
 The most common mistake: describing duties instead of accomplishments.
 
@@ -311,7 +311,7 @@ Do not list generic software (Word, PowerPoint) unless the role specifically req
 
 ---
 
-## Projects and Leadership
+## Projects and leadership
 
 Valuable if work or research experience is limited &mdash; which describes essentially all of you today.
 
@@ -344,7 +344,7 @@ Encourage students to use one if they are starting from scratch. The formatting 
 
 ---
 
-## Upcoming Schedule
+## Upcoming schedule
 
 ::: {.nonincremental}
 1. **Start your resume draft** &mdash; or revisit the one you have.
@@ -372,7 +372,7 @@ The fastest way to learn this campus is to walk it.
 
 ---
 
-## The Eight Locations
+## The eight locations
 
 :::: {.columns}
 ::: {.column width="50%"}

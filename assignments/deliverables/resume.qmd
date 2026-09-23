@@ -35,7 +35,7 @@ We covered what goes on a resume in [Lecture 1](../../lectures/lecture-01.qmd), 
 
 - My resume is one page.
 - My contact information is at the top and correct.
-- The formatting is consistent -- fonts, sizes, dates, and alignment.
+- The formatting is consistent &ndash; fonts, sizes, dates, and alignment.
 - I have reviewed the document for clarity, formatting, spelling, and grammar.
 - I have submitted my work as a PDF named `Lastname-Firstname-Resume.pdf`.
 

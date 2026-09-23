@@ -55,7 +55,7 @@ I probably need to hear some of the stuff we're going to discuss as well.
 :::
 
 ::: {.highlight-box}
-The Fall 2026 All Majors Career Fair **is Sept. 14--15**.
+The Fall 2026 All Majors Career Fair **is Sept. 14&ndash;15**.
 :::
 
 ---
@@ -65,7 +65,7 @@ The Fall 2026 All Majors Career Fair **is Sept. 14--15**.
 High school scheduled your time for you. College does not.
 
 ::: {.nonincremental}
-- Roughly **15 hours** of class per week -- and about **30** of work outside it.
+- Roughly **15 hours** of class per week &ndash; and about **30** of work outside it.
 - Nobody takes attendance in most of your classes.
 - Nobody checks whether you did the reading.
 - Nobody is helping you manage your sleeping or eating.
@@ -142,7 +142,7 @@ What do you use? Paper, phone, online calendar, nothing? The tool does not matte
 
 ---
 
-## Lists and calendars -- example
+## Lists and calendars &ndash; example
 
 ![](figs/fluff/schedule_example.png){fig-align="center" width="100%"}
 

@@ -23,12 +23,12 @@ format:
 
 ---
 
-## Due Dates
+## Due dates
 
 | What | When | Points |
 |---|---|---|
-| [Degree Map](../assignments/deliverables/degree-map.qmd) -- PDF to Canvas, `Lastname-Firstname-Degree-Map.pdf` | Sept. 25, 11:59 PM ET | 100 (10%) &middot; Academic Planning |
-| Team project kickoff | Oct. 2, in class | -- |
+| [Degree Map](../assignments/deliverables/degree-map.qmd) &ndash; PDF to Canvas, `Lastname-Firstname-Degree-Map.pdf` | Sept. 25, 11:59 PM ET | 100 (10%) &middot; Academic Planning |
+| Team project kickoff | Oct. 2, in class | &ndash; |
 | [Advising Meeting & Spring 2027 Plan](../assignments/deliverables/advising-spring-plan.qmd) | Oct. 30, 11:59 PM ET | 60 (6%) &middot; Academic Planning |
 
 ::: {.highlight-box}
@@ -62,7 +62,7 @@ The School of Physics' [4-year plan](https://ballantyne.physics.gatech.edu/FourY
 |---|---|---|---|
 | Fall 2026 | ENGL 1101, MATH 1551, MATH 1553, CHEM 1310, GT 1000 | 15 | 15 |
 | Spring 2027 | ENGL 1102, MATH 1552, PHYS 2231, CS 1301, APPH 1040 | 17 | 32 |
-| Summer 2027 | *Study abroad? Internship?* | -- | 32 |
+| Summer 2027 | *Study abroad? Internship?* | &ndash; | 32 |
 | ... | ... | ... | ... |
 | Spring 2030 | PHYS 4605, electives | 14 | &ge; 122 |
 
@@ -191,7 +191,7 @@ good fit for students who want to build things in lab.
 
 ::: {.nonincremental}
 - **Oct. 12:** [Georgia Tech Europe, Spring 2027](https://atlas.gatech.edu/_portal/tds-program-brochure?programid=10215). First-years can apply; admission is conditional on your first-semester GPA (2.5 minimum).
-- **Dec. 1 -- Feb. 15:** most **Summer 2027** programs. This is the most realistic option for first-years.
+- **Dec. 1 &ndash; Feb. 15:** most **Summer 2027** programs. This is the most realistic option for first-years.
 - **Feb. 1, 2027:** most exchange programs for Fall 2027 / the academic year.
 :::
 
