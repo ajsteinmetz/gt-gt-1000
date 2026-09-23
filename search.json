@@ -18,14 +18,14 @@
     "href": "supplemental/technical-writing.html#start-with-audience-and-purpose",
     "title": "Technical and Professional Writing",
     "section": "2 Start with Audience and Purpose",
-    "text": "2 Start with Audience and Purpose\nBefore writing, identify two things:\n\nWho is the reader?\nWhat should the document accomplish?\n\n\n\n\n\n\n\n\n\nDocument\nLikely Reader\nPrimary Purpose\n\n\n\n\nRésumé\nEmployer, recruiter, hiring manager, research supervisor\nShow that your background fits a specific role.\n\n\nOnline professional profile\nEmployers, alumni, collaborators, graduate programs, professional contacts\nPresent a concise and credible professional identity.\n\n\nResearch proposal\nFellowship reviewers, faculty, research mentors\nPersuade the reader that a research question is important, feasible, and worth supporting.\n\n\nPersonal statement\nGraduate admissions committee, faculty group, research supervisor\nExplain your preparation, goals, and fit for a specific academic opportunity.\n\n\nCover letter\nEmployer or hiring committee\nShow why your experience and interests match a specific job posting.\n\n\n\nA document that is technically polished but not shaped toward its actual audience will usually be less effective than a slightly simpler document that is highly specific and well targeted.\nAn example mismatch would be a B.S. Physics student applying to a data analysis, engineering, or technical role who writes a résumé like a graduate-school application, emphasizing abstract intellectual interests and course topics while underemphasizing concrete skills, projects, software and instrumentation, teamwork, and deliverables."
+    "text": "2 Start with Audience and Purpose\nBefore writing, identify two things:\n\nWho is the reader?\nWhat should the document accomplish?\n\n\n\n\n\n\n\n\n\nDocument\nLikely Reader\nPrimary Purpose\n\n\n\n\nResume\nEmployer, recruiter, hiring manager, research supervisor\nShow that your background fits a specific role.\n\n\nOnline professional profile\nEmployers, alumni, collaborators, graduate programs, professional contacts\nPresent a concise and credible professional identity.\n\n\nResearch proposal\nFellowship reviewers, faculty, research mentors\nPersuade the reader that a research question is important, feasible, and worth supporting.\n\n\nPersonal statement\nGraduate admissions committee, faculty group, research supervisor\nExplain your preparation, goals, and fit for a specific academic opportunity.\n\n\nCover letter\nEmployer or hiring committee\nShow why your experience and interests match a specific job posting.\n\n\n\nA document that is technically polished but not shaped toward its actual audience will usually be less effective than a slightly simpler document that is highly specific and well targeted.\nAn example mismatch would be a B.S. Physics student applying to a data analysis, engineering, or technical role who writes a resume like a graduate-school application, emphasizing abstract intellectual interests and course topics while underemphasizing concrete skills, projects, software and instrumentation, teamwork, and deliverables."
   },
   {
     "objectID": "supplemental/technical-writing.html#writing-style-clear-specific-and-direct",
     "href": "supplemental/technical-writing.html#writing-style-clear-specific-and-direct",
     "title": "Technical and Professional Writing",
     "section": "3 Writing Style: Clear, Specific, and Direct",
-    "text": "3 Writing Style: Clear, Specific, and Direct\nTechnical and professional writing should favor clarity over vagueness, needless complexity, and ornament for its own sake. Use specialized vocabulary when your audience requires it, but do not use complexity to imitate expertise.\n\n3.1 Prefer Specific Claims\n\n\n\n\n\n\n\nLess Effective\nMore Effective\n\n\n\n\nI gained valuable research experience.\nI analyzed detector calibration data in Python and developed plots used in weekly group meetings.\n\n\nThis research is important.\nThis work addresses how improved vacuum diagnostics could improve pump longevity and increase vacuum stability.\n\n\nI am passionate about physics.\nMy interest in condensed-matter developed through my coursework in quantum mechanics, auditing a graduate-level solid-state class, and a summer project with Professor X modeling lattice excitations.\n\n\n\n\n\n3.2 Use Strong Verbs\nEspecially in résumés and cover letters, strong verbs help the reader understand what you did. Examples include analyzed, designed, developed, implemented, measured, modeled, presented, programmed, tested, and wrote.\n\n\n3.3 Avoid Empty Intensifiers\nWords such as very, extremely, incredibly, and highly often add less value than a concrete detail.\n\n\n\n\n\n\nTipBetter habit\n\n\n\nReplace vague emphasis with evidence, examples, or measurable detail whenever possible."
+    "text": "3 Writing Style: Clear, Specific, and Direct\nTechnical and professional writing should favor clarity over vagueness, needless complexity, and ornament for its own sake. Use specialized vocabulary when your audience requires it, but do not use complexity to imitate expertise.\n\n3.1 Prefer Specific Claims\n\n\n\n\n\n\n\nLess Effective\nMore Effective\n\n\n\n\nI gained valuable research experience.\nI analyzed detector calibration data in Python and developed plots used in weekly group meetings.\n\n\nThis research is important.\nThis work addresses how improved vacuum diagnostics could improve pump longevity and increase vacuum stability.\n\n\nI am passionate about physics.\nMy interest in condensed-matter developed through my coursework in quantum mechanics, auditing a graduate-level solid-state class, and a summer project with Professor X modeling lattice excitations.\n\n\n\n\n\n3.2 Use Strong Verbs\nEspecially in resumes and cover letters, strong verbs help the reader understand what you did. Examples include analyzed, designed, developed, implemented, measured, modeled, presented, programmed, tested, and wrote.\n\n\n3.3 Avoid Empty Intensifiers\nWords such as very, extremely, incredibly, and highly often add less value than a concrete detail.\n\n\n\n\n\n\nTipBetter habit\n\n\n\nReplace vague emphasis with evidence, examples, or measurable detail whenever possible."
   },
   {
     "objectID": "supplemental/technical-writing.html#concision-and-structure",
@@ -81,7 +81,7 @@
     "href": "supplemental/peer-feedback.html#prepare-before-you-read",
     "title": "Peer Feedback",
     "section": "3 Prepare Before You Read",
-    "text": "3 Prepare Before You Read\nMost of what separates useful feedback from useless feedback is preparation. Taking time to understand how to perform peer review will make your feedback more valuable and give you confidence in giving it (Brammer and Rees 2007).\n\n3.1 Understand Your Position\nAs a peer. You are at the same level as the author. You have no authority to demand changes. You are there to offer suggestions and recommendations, not edicts. The author decides what to do with your feedback.\nAs a reader. You may feel unqualified to evaluate another person’s writing, but you already evaluate movies, restaurants, and sports teams without being an expert in any of them. You do this because you know when something works for you as an audience member. You know when you are confused, bored, persuaded, or engaged. That is exactly the qualification you need here.\n\n\n3.2 Understand the Document\nEvery document is meant to communicate something for a specific purpose within a set of expected boundaries:\n\nRequirements. What are the absolute requirements? Did the document meet them? Consult the specific requirements of the assignment.\nPurpose. What is the document trying to accomplish? Getting a job? Demonstrating a valid research program?\nAudience. Who is this document written for? A recruiter? A graduate admissions committee?\nSubject. Does the document stay on topic? Are there sections, arguments, or details that do not serve the document’s stated purpose?\n\n\n\n\n\n\n\nNote\n\n\n\nA résumé here could go to an actual employer. A personal statement could go to an actual graduate program. Evaluate the document against the real-world audience it is intended to reach.\n\n\n\n\n3.3 Understand the Author\nThe better you understand who the author is, the more useful your feedback will be.\n\nGoals. What is the author trying to achieve with this document? A résumé aimed at research roles should be evaluated differently than one aimed at industry.\nVoice. Does the document sound like the person who wrote it? If the tone shifts abruptly or something feels borrowed, that is worth noting.\nWhat they need. Some authors need high-level structural direction; others need confirmation they are on the right track. Calibrate your feedback to what will actually help."
+    "text": "3 Prepare Before You Read\nMost of what separates useful feedback from useless feedback is preparation. Taking time to understand how to perform peer review will make your feedback more valuable and give you confidence in giving it (Brammer and Rees 2007).\n\n3.1 Understand Your Position\nAs a peer. You are at the same level as the author. You have no authority to demand changes. You are there to offer suggestions and recommendations, not edicts. The author decides what to do with your feedback.\nAs a reader. You may feel unqualified to evaluate another person’s writing, but you already evaluate movies, restaurants, and sports teams without being an expert in any of them. You do this because you know when something works for you as an audience member. You know when you are confused, bored, persuaded, or engaged. That is exactly the qualification you need here.\n\n\n3.2 Understand the Document\nEvery document is meant to communicate something for a specific purpose within a set of expected boundaries:\n\nRequirements. What are the absolute requirements? Did the document meet them? Consult the specific requirements of the assignment.\nPurpose. What is the document trying to accomplish? Getting a job? Demonstrating a valid research program?\nAudience. Who is this document written for? A recruiter? A graduate admissions committee?\nSubject. Does the document stay on topic? Are there sections, arguments, or details that do not serve the document’s stated purpose?\n\n\n\n\n\n\n\nNote\n\n\n\nA resume here could go to an actual employer. A personal statement could go to an actual graduate program. Evaluate the document against the real-world audience it is intended to reach.\n\n\n\n\n3.3 Understand the Author\nThe better you understand who the author is, the more useful your feedback will be.\n\nGoals. What is the author trying to achieve with this document? A resume aimed at research roles should be evaluated differently than one aimed at industry.\nVoice. Does the document sound like the person who wrote it? If the tone shifts abruptly or something feels borrowed, that is worth noting.\nWhat they need. Some authors need high-level structural direction; others need confirmation they are on the right track. Calibrate your feedback to what will actually help."
   },
   {
     "objectID": "supplemental/peer-feedback.html#providing-feedback",
@@ -144,7 +144,7 @@
     "href": "lectures/lecture-03.html#time-management-1",
     "title": "Time Management",
     "section": "Time management",
-    "text": "Time management\nFull disclosure: I didn’t start this slide deck until last night.\nI probably need to hear some of the stuff we’re going to discuss as well.\n\nReminder: Your résumé is due tonight, Sept. 11, 11:59 PM ET.\n\n\nThe Fall 2026 All Majors Career Fair is Sept. 14–15."
+    "text": "Time management\nFull disclosure: I didn’t start this slide deck until last night.\nI probably need to hear some of the stuff we’re going to discuss as well.\n\nReminder: Your resume is due tonight, Sept. 11, 11:59 PM ET.\n\n\nThe Fall 2026 All Majors Career Fair is Sept. 14–15."
   },
   {
     "objectID": "lectures/lecture-03.html#the-real-freshman-15",
@@ -212,154 +212,154 @@
   {
     "objectID": "lectures/lecture-01.html#your-instructor-team-leader",
     "href": "lectures/lecture-01.html#your-instructor-team-leader",
-    "title": "Course Overview & Résumés",
-    "section": "Your Instructor & Team Leader",
-    "text": "Your Instructor & Team Leader\n\n\nDr. Andrew J. Steinmetz\nSchool of Physics · Georgia Institute of Technology\n\n\n\nEmail\najsteinmetz@gatech.edu\n\n\nOffice hours\nBy appointment (link)\n\n\nOffice\nHowey W204\n\n\n\nElouan Crews\nYour Team Leader\n\n\n\nEmail\necrews8@gatech.edu\n\n\n\n\n\n\n\n\n\n\nhttps://www.linkedin.com/in/ajsteinmetz/"
+    "title": "Course Overview & Resumes",
+    "section": "Your instructor & Team Leader",
+    "text": "Your instructor & Team Leader\n\n\nDr. Andrew J. Steinmetz\nSchool of Physics · Georgia Institute of Technology\n\n\n\nEmail\najsteinmetz@gatech.edu\n\n\nOffice hours\nBy appointment (link)\n\n\nOffice\nHowey W204\n\n\n\nElouan Crews\nYour Team Leader\n\n\n\nEmail\necrews8@gatech.edu\n\n\n\n\n\n\n\n\n\n\nhttps://www.linkedin.com/in/ajsteinmetz/"
   },
   {
     "objectID": "lectures/lecture-01.html#welcome-to-gt-1000",
     "href": "lectures/lecture-01.html#welcome-to-gt-1000",
-    "title": "Course Overview & Résumés",
+    "title": "Course Overview & Resumes",
     "section": "Welcome to GT 1000",
     "text": "Welcome to GT 1000\n\n\nThis seminar is here to help you make a successful transition to college by getting you better acquainted with the academic and social environments at Georgia Tech and explore what it actually means to be a physicist.\nThis is a discussion-based course. Come ready to participate and to work in small groups.\nCourse websites:\n\nhttps://canvas.gatech.edu/\nhttps://ajsteinmetz.github.io/gt-gt-1000/\n\n\n\n\n\n\n\n\nxkcd #2756 “Qualifications” · CC BY-NC 2.5"
   },
   {
     "objectID": "lectures/lecture-01.html#syllabus---learning-outcomes",
     "href": "lectures/lecture-01.html#syllabus---learning-outcomes",
-    "title": "Course Overview & Résumés",
-    "section": "Syllabus - Learning Outcomes",
-    "text": "Syllabus - Learning Outcomes\nBy the end of this course, you will be able to:\n\nDevelop self-awareness and self-knowledge, particularly as it relates to your academic interests and professional goals.\nDescribe your path to graduation and identify opportunities for academic and professional enrichment with the assistance of a faculty member or advisor.\nDemonstrate the ability to lead and productively participate in collaborative projects.\nBe aware of what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels."
+    "title": "Course Overview & Resumes",
+    "section": "Syllabus - learning outcomes",
+    "text": "Syllabus - learning outcomes\nBy the end of this course, you will be able to:\n\nDevelop self-awareness and self-knowledge, particularly as it relates to your academic interests and professional goals.\nDescribe your path to graduation and identify opportunities for academic and professional enrichment with the assistance of a faculty member or advisor.\nDemonstrate the ability to lead and productively participate in collaborative projects.\nBe aware of what it means to be a physicist and explore opportunities for physicists at the undergraduate, graduate, and career levels."
   },
   {
     "objectID": "lectures/lecture-01.html#syllabus---how-you-are-graded",
     "href": "lectures/lecture-01.html#syllabus---how-you-are-graded",
-    "title": "Course Overview & Résumés",
-    "section": "Syllabus - How You Are Graded",
-    "text": "Syllabus - How You Are Graded\n\n\n\nCourse Component\nDue\nWeight\n\n\n\n\nParticipation, short assignments, and attendance\nWeekly\n25%\n\n\nTeam Project\nTBD\n25%\n\n\nAcademic Planning\nMultiple deliverables\n25%\n\n\nCareer Readiness\nMultiple deliverables\n25%\n\n\n\n\n\n\n\n\n\nNote\n\n\nAll four components are weighted equally and there are no exams in this course. The first Career Readiness deliverable is your résumé, due September 11."
+    "title": "Course Overview & Resumes",
+    "section": "Syllabus - how you are graded",
+    "text": "Syllabus - how you are graded\n\n\n\nCourse Component\nDue\nWeight\n\n\n\n\nParticipation, short assignments, and attendance\nWeekly\n25%\n\n\nTeam Project\nTBD\n25%\n\n\nAcademic Planning\nMultiple deliverables\n25%\n\n\nCareer Readiness\nMultiple deliverables\n25%\n\n\n\n\n\n\n\n\n\nNote\n\n\nAll four components are weighted equally and there are no exams in this course. The first Career Readiness deliverable is your resume, due September 11."
   },
   {
     "objectID": "lectures/lecture-01.html#course-policies---the-short-version",
     "href": "lectures/lecture-01.html#course-policies---the-short-version",
-    "title": "Course Overview & Résumés",
-    "section": "Course Policies - The Short Version",
-    "text": "Course Policies - The Short Version\n\nAttendance is mandatory. Excessive lateness and absences (three or more per semester) can negatively impact your final grade. Excused absences go through the Dean of Students.\nNo textbook. Materials are provided through Canvas/course website.\nNo exams.\nThe use of generative AI is strongly discouraged. Brainstorming with it is fine, but per the Honor Code no work produced via AI may be submitted as your own.\nLate work is not accepted. All assignments are open the entire semester, so plan ahead.\nWhen in doubt, ask. Email or office hours."
+    "title": "Course Overview & Resumes",
+    "section": "Course policies - the short version",
+    "text": "Course policies - the short version\n\nAttendance is mandatory. Excessive lateness and absences (three or more per semester) can negatively impact your final grade. Excused absences go through the Dean of Students.\nNo textbook. Materials are provided through Canvas/course website.\nNo exams.\nThe use of generative AI is strongly discouraged. Brainstorming with it is fine, but per the Honor Code no work produced via AI may be submitted as your own.\nLate work is not accepted. All assignments are open the entire semester, so plan ahead.\nWhen in doubt, ask. Email or office hours."
   },
   {
     "objectID": "lectures/lecture-01.html#part-i-what-do-i-do-with-my-degree",
     "href": "lectures/lecture-01.html#part-i-what-do-i-do-with-my-degree",
-    "title": "Course Overview & Résumés",
+    "title": "Course Overview & Resumes",
     "section": "Part I: What do I do with my degree?",
     "text": "Part I: What do I do with my degree?\nYou picked this major a few weeks ago. Here is where it goes.\n\n\n\n\n\n\n(Mulvey and Pold 2025)"
   },
   {
     "objectID": "lectures/lecture-01.html#gatech-b.s.-physics-starting-salaries",
     "href": "lectures/lecture-01.html#gatech-b.s.-physics-starting-salaries",
-    "title": "Course Overview & Résumés",
-    "section": "GaTech B.S. Physics: Starting Salaries",
-    "text": "GaTech B.S. Physics: Starting Salaries\nReported initial median salaries range from $74,000 to $86,500 and are competitive or in excess of national trends reported by NACE.\n\n\n\n\n\n\n\n\n\n\n(National Association of Colleges and Employers 2021-2026, 2022-2025; Georgia Institute of Technology Office of Academic Effectiveness 2021-2025)"
+    "title": "Course Overview & Resumes",
+    "section": "GaTech B.S. Physics: starting salaries",
+    "text": "GaTech B.S. Physics: starting salaries\nReported initial median salaries range from $74,000 to $86,500 and are competitive or in excess of national trends reported by NACE.\n\n\n\n\n\n\n\n\n\n\n(National Association of Colleges and Employers 2021-2026, 2022-2025; Georgia Institute of Technology Office of Academic Effectiveness 2021-2025)"
   },
   {
     "objectID": "lectures/lecture-01.html#part-ii-september-career-fair-events",
     "href": "lectures/lecture-01.html#part-ii-september-career-fair-events",
-    "title": "Course Overview & Résumés",
-    "section": "Part II: September Career Fair Events",
-    "text": "Part II: September Career Fair Events\nCareer Center events (https://calendar.gatech.edu/):\n\nSept. 8: GT Career Center: In-Person Resume Reviews\nSept. 9: GT Career Center: Virtual Resume Reviews\nSept. 10: GT Career Center: Virtual Resume Reviews\nSept. 14: Fall 2026 All Majors Career Fair\nSept. 15: Fall 2026 All Majors Career Fair"
+    "title": "Course Overview & Resumes",
+    "section": "Part II: September career fair events",
+    "text": "Part II: September career fair events\nCareer Center events (https://calendar.gatech.edu/):\n\nSept. 8: GT Career Center: In-Person Resume Reviews\nSept. 9: GT Career Center: Virtual Resume Reviews\nSept. 10: GT Career Center: Virtual Resume Reviews\nSept. 14: Fall 2026 All Majors Career Fair\nSept. 15: Fall 2026 All Majors Career Fair"
   },
   {
     "objectID": "lectures/lecture-01.html#the-career-fair-is-seventeen-days-away",
     "href": "lectures/lecture-01.html#the-career-fair-is-seventeen-days-away",
-    "title": "Course Overview & Résumés",
-    "section": "The Career Fair Is Seventeen Days Away",
-    "text": "The Career Fair Is Seventeen Days Away\nThe Fall 2026 All Majors Career Fair is September 14–15 at Georgia Tech.\n\nGeorgia Tech Career Fair\nGeorgia Tech Interviewing Resources\n\nYour résumé is due September 11 before the fair begins.\n\nToday’s goal: covering what goes on a résumé and how to start writing one if you haven’t done so already."
+    "title": "Course Overview & Resumes",
+    "section": "The career fair is seventeen days away",
+    "text": "The career fair is seventeen days away\nThe Fall 2026 All Majors Career Fair is September 14–15 at Georgia Tech.\n\nGeorgia Tech Career Fair\nGeorgia Tech Interviewing Resources\n\nYour resume is due September 11 before the fair begins.\n\nToday’s goal: covering what goes on a resume and how to start writing one if you haven’t done so already."
   },
   {
-    "objectID": "lectures/lecture-01.html#part-iii-résumés",
-    "href": "lectures/lecture-01.html#part-iii-résumés",
-    "title": "Course Overview & Résumés",
-    "section": "Part III: Résumés",
-    "text": "Part III: Résumés\nA résumé is typically organized into six sections:\n\nContact information\nEducation\nExperience\nSkills\nProjects and leadership\nAwards and honors (optional)\n\nNot every résumé looks the same. The order and emphasis depend on your background and the opportunity."
+    "objectID": "lectures/lecture-01.html#part-iii-resumes",
+    "href": "lectures/lecture-01.html#part-iii-resumes",
+    "title": "Course Overview & Resumes",
+    "section": "Part III: Resumes",
+    "text": "Part III: Resumes\nA resume is typically organized into six sections:\n\nContact information\nEducation\nExperience\nSkills\nProjects and leadership\nAwards and honors (optional)\n\nNot every resume looks the same. The order and emphasis depend on your background and the opportunity."
   },
   {
-    "objectID": "lectures/lecture-01.html#résumé-vs.-academic-cv",
-    "href": "lectures/lecture-01.html#résumé-vs.-academic-cv",
-    "title": "Course Overview & Résumés",
-    "section": "Résumé vs. Academic CV",
-    "text": "Résumé vs. Academic CV\n\n\n\n\nRésumé\n\n\n\n\nLength\n1–2 pages\n\n\nPurpose\nFit for a specific role\n\n\nUsed for\nJobs, internships, most undergrad opportunities\n\n\nCustomization\nTailored to each application\n\n\n\nFor all of you right now, a résumé is your concern. For more detail, see the course guide: Résumé vs. Academic CV"
+    "objectID": "lectures/lecture-01.html#resume-vs.-academic-cv",
+    "href": "lectures/lecture-01.html#resume-vs.-academic-cv",
+    "title": "Course Overview & Resumes",
+    "section": "Resume vs. academic CV",
+    "text": "Resume vs. academic CV\n\n\n\n\nResume\n\n\n\n\nLength\n1–2 pages\n\n\nPurpose\nFit for a specific role\n\n\nUsed for\nJobs, internships, most undergrad opportunities\n\n\nCustomization\nTailored to each application\n\n\n\nFor all of you right now, a resume is your concern. For more detail, see the course guide: Resume vs. Academic CV"
   },
   {
     "objectID": "lectures/lecture-01.html#contact-information",
     "href": "lectures/lecture-01.html#contact-information",
-    "title": "Course Overview & Résumés",
-    "section": "Contact Information",
-    "text": "Contact Information\nMake this easy to find — usually at the top of the page.\n\nFull name (prominent — consider a slightly larger font)\nProfessional email address (GT email is fine)\nPhone number\nLinkedIn, GitHub or portfolio URL (Optional; if you have one worth sharing)\nCity and state — no full street address needed\n\n\nMention that GT email is appropriate for now but a permanent personal email is useful long-term. LinkedIn URL should be customized (linkedin.com/in/yourname) rather than the default random string."
+    "title": "Course Overview & Resumes",
+    "section": "Contact information",
+    "text": "Contact information\nMake this easy to find — usually at the top of the page.\n\nFull name (prominent — consider a slightly larger font)\nProfessional email address (GT email is fine)\nPhone number\nLinkedIn, GitHub or portfolio URL (Optional; if you have one worth sharing)\nCity and state — no full street address needed\n\n\nMention that GT email is appropriate for now but a permanent personal email is useful long-term. LinkedIn URL should be customized (linkedin.com/in/yourname) rather than the default random string."
   },
   {
     "objectID": "lectures/lecture-01.html#education",
     "href": "lectures/lecture-01.html#education",
-    "title": "Course Overview & Résumés",
+    "title": "Course Overview & Resumes",
     "section": "Education",
-    "text": "Education\n\nGeorgia Institute of Technology\n\nB.S. Physics / Astrophysics / Applied Physics (or joint degree)\nExpected graduation: May 2030 (or your actual date)\nGPA: you do not have a GT GPA yet — leave it off until you have a semester on the books, then include it if it is ≥ 3.0\n\nRelevant coursework (optional, and useful right now while experience is thin). Academic honors: high school honors and scholarships are fair game this year.\nList your most recent institution first. Your high school can stay on the résumé for now, and comes off once you have Tech coursework and experience to replace it."
+    "text": "Education\n\nGeorgia Institute of Technology\n\nB.S. Physics / Astrophysics / Applied Physics (or joint degree)\nExpected graduation: May 2030 (or your actual date)\nGPA: you do not have a GT GPA yet — leave it off until you have a semester on the books, then include it if it is ≥ 3.0\n\nRelevant coursework (optional, and useful right now while experience is thin). Academic honors: high school honors and scholarships are fair game this year.\nList your most recent institution first. Your high school can stay on the resume for now, and comes off once you have Tech coursework and experience to replace it."
   },
   {
     "objectID": "lectures/lecture-01.html#experience",
     "href": "lectures/lecture-01.html#experience",
-    "title": "Course Overview & Résumés",
+    "title": "Course Overview & Resumes",
     "section": "Experience",
     "text": "Experience\nThe most important section for most employers. Include: work, research, internships, co-ops, teaching assistantships. For each entry:\n\nOrganization name and your role or title\nDates — month and year (e.g., May 2025 – Aug. 2025)\nLocation (city, state) — or “Remote”\n2–4 bullet points describing what you did and what it produced\n\nResearch experience counts strongly for physics students: faculty advisors, national labs, REUs. In the meantime, high school jobs, volunteering, and club roles all belong here.\nSee https://experiential.learning.gatech.edu/urop/pura-salary/\n\nReassure students that an empty experience section is expected in week one. Emphasize that even a one-semester research role is worth including if it involved real technical work."
   },
   {
     "objectID": "lectures/lecture-01.html#writing-strong-bullets",
     "href": "lectures/lecture-01.html#writing-strong-bullets",
-    "title": "Course Overview & Résumés",
-    "section": "Writing Strong Bullets",
-    "text": "Writing Strong Bullets\nThe most common mistake: describing duties instead of accomplishments.\n\n\n\n\n\n\n\nWeak\nStrong\n\n\n\n\nHelped with research in the lab\nAnalyzed detector calibration data in Python; results incorporated into weekly group reports\n\n\nResponsible for data analysis\nDeveloped signal-processing pipeline in MATLAB, reducing analysis time by 40%\n\n\nWorked on simulations\nImplemented Monte Carlo simulation of particle trajectories in C++; validated against published results\n\n\n\nLead with a strong action verb. Quantify where you can."
+    "title": "Course Overview & Resumes",
+    "section": "Writing strong bullets",
+    "text": "Writing strong bullets\nThe most common mistake: describing duties instead of accomplishments.\n\n\n\n\n\n\n\nWeak\nStrong\n\n\n\n\nHelped with research in the lab\nAnalyzed detector calibration data in Python; results incorporated into weekly group reports\n\n\nResponsible for data analysis\nDeveloped signal-processing pipeline in MATLAB, reducing analysis time by 40%\n\n\nWorked on simulations\nImplemented Monte Carlo simulation of particle trajectories in C++; validated against published results\n\n\n\nLead with a strong action verb. Quantify where you can."
   },
   {
     "objectID": "lectures/lecture-01.html#skills",
     "href": "lectures/lecture-01.html#skills",
-    "title": "Course Overview & Résumés",
+    "title": "Course Overview & Resumes",
     "section": "Skills",
     "text": "Skills\nList technical skills — the specific tools and languages you actually know.\nProgramming and Software Python, MATLAB, C/C++, Julia, Mathematica, LaTeX, Git, Linux/bash, etc.\nLaboratory and Instrumentation List specific instruments, techniques, or equipment relevant to your work\nOther Data analysis, scientific writing, numerical methods\n\nDo not list generic software (Word, PowerPoint) unless the role specifically requires it."
   },
   {
     "objectID": "lectures/lecture-01.html#projects-and-leadership",
     "href": "lectures/lecture-01.html#projects-and-leadership",
-    "title": "Course Overview & Résumés",
-    "section": "Projects and Leadership",
-    "text": "Projects and Leadership\nValuable if work or research experience is limited — which describes essentially all of you today.\nTechnical projects Computational or experimental class projects with real results. Independent projects, open-source contributions\nLeadership and service Club officers, SPS (Society of Physics Students), outreach programs. Teaching or peer tutoring roles\n\nHow you fill this section over the next two semesters: join SPS, and start looking at UROP for undergraduate research. First-years are eligible."
+    "title": "Course Overview & Resumes",
+    "section": "Projects and leadership",
+    "text": "Projects and leadership\nValuable if work or research experience is limited — which describes essentially all of you today.\nTechnical projects Computational or experimental class projects with real results. Independent projects, open-source contributions\nLeadership and service Club officers, SPS (Society of Physics Students), outreach programs. Teaching or peer tutoring roles\n\nHow you fill this section over the next two semesters: join SPS, and start looking at UROP for undergraduate research. First-years are eligible."
   },
   {
     "objectID": "lectures/lecture-01.html#formatting",
     "href": "lectures/lecture-01.html#formatting",
-    "title": "Course Overview & Résumés",
+    "title": "Course Overview & Resumes",
     "section": "Formatting",
-    "text": "Formatting\nKeep it clean and professional.\n\nOne page for most undergraduates\nConsistent fonts — one or two at most; no smaller than 10 pt for body text\nAdequate white space — do not cram everything in\nConsistent alignment of dates and section headers\nNo photos, no graphics, no colored text\nTypos and grammar errors are disqualifying. Proofread.\n\nGeorgia Tech Career Center — Résumé Guidance\n\nEncourage students to use one if they are starting from scratch. The formatting rules exist because recruiters scan résumés in seconds."
+    "text": "Formatting\nKeep it clean and professional.\n\nOne page for most undergraduates\nConsistent fonts — one or two at most; no smaller than 10 pt for body text\nAdequate white space — do not cram everything in\nConsistent alignment of dates and section headers\nNo photos, no graphics, no colored text\nTypos and grammar errors are disqualifying. Proofread.\n\nGeorgia Tech Career Center — Resume Guidance\n\nEncourage students to use one if they are starting from scratch. The formatting rules exist because recruiters scan resumes in seconds."
   },
   {
     "objectID": "lectures/lecture-01.html#upcoming-schedule",
     "href": "lectures/lecture-01.html#upcoming-schedule",
-    "title": "Course Overview & Résumés",
-    "section": "Upcoming Schedule",
-    "text": "Upcoming Schedule\n\nStart your résumé draft — or revisit the one you have.\nBring it to class next Friday (September 4) — we will workshop drafts in class.\nRésumé is due: September 11 at 11:59 PM ET — submitted as PDF to Canvas. Worth 100 points (10% of your final grade) under Career Readiness.\nCareer Fair: September 14–15 — Attending counts toward your participation and short-assignment credit."
+    "title": "Course Overview & Resumes",
+    "section": "Upcoming schedule",
+    "text": "Upcoming schedule\n\nStart your resume draft — or revisit the one you have.\nBring it to class next Friday (September 4) — we will workshop drafts in class.\nResume is due: September 11 at 11:59 PM ET — submitted as PDF to Canvas. Worth 100 points (10% of your final grade) under Career Readiness.\nCareer Fair: September 14–15 — Attending counts toward your participation and short-assignment credit."
   },
   {
     "objectID": "lectures/lecture-01.html#part-iv-campus-scavenger-hunt",
     "href": "lectures/lecture-01.html#part-iv-campus-scavenger-hunt",
-    "title": "Course Overview & Résumés",
+    "title": "Course Overview & Resumes",
     "section": "Part IV: Campus Scavenger Hunt",
     "text": "Part IV: Campus Scavenger Hunt\nThe fastest way to learn this campus is to walk it.\n\nForm a group of 2–3 students. Find your group before you leave today.\nVisit all eight locations on the next slide.\nTake a group selfie at each one. Everyone in the group has to be in every photo.\nAssemble the photos into one PDF and submit it to Canvas. The Canvas link goes up shortly — check the course website in the meantime.\n\n\nDue: September 4 at 11:59 PM ET — worth 40 points (4% of your final grade) under Academic Planning."
   },
   {
     "objectID": "lectures/lecture-01.html#the-eight-locations",
     "href": "lectures/lecture-01.html#the-eight-locations",
-    "title": "Course Overview & Résumés",
-    "section": "The Eight Locations",
-    "text": "The Eight Locations\n\n\n\nTech Tower\nEinstein Statue\nKessler Campanile - “the Shaft” the John Lewis Center\nRamblin’ Wreck - at the GT Convention Center\n\n\n\nCampus Recreation Center\nFlowers Invention Studio\nHowey Physics Building - my office, W-204\nClough Commons rooftop\n\n\n\nGive students a few minutes at the end of class to form their groups so nobody is left scrambling afterward. Confirm the Canvas submission deadline before showing this slide."
+    "title": "Course Overview & Resumes",
+    "section": "The eight locations",
+    "text": "The eight locations\n\n\n\nTech Tower\nEinstein Statue\nKessler Campanile - “the Shaft” the John Lewis Center\nRamblin’ Wreck - at the GT Convention Center\n\n\n\nCampus Recreation Center\nFlowers Invention Studio\nHowey Physics Building - my office, W-204\nClough Commons rooftop\n\n\n\nGive students a few minutes at the end of class to form their groups so nobody is left scrambling afterward. Confirm the Canvas submission deadline before showing this slide."
   },
   {
     "objectID": "lectures/lecture-01.html#references",
     "href": "lectures/lecture-01.html#references",
-    "title": "Course Overview & Résumés",
+    "title": "Course Overview & Resumes",
     "section": "References",
     "text": "References\n\n\nGeorgia Institute of Technology Office of Academic Effectiveness. 2021-2025. Career and Salary Survey. Georgia Institute of Technology. https://www.oae.gatech.edu/.\n\n\nMulvey, Patrick, and Jack Pold. 2025. Physics Bachelors Initial Employment: Academic Years 2020–21 and 2021–22. American Institute of Physics Statistical Research Center. https://doi.org/10.1063/sr.aa204240a3.\n\n\nNational Association of Colleges and Employers. 2021-2026. Salary Survey: Winter Report. National Association of Colleges and Employers. https://www.naceweb.org/research/.\n\n\nNational Association of Colleges and Employers. 2022-2025. Salary Survey: Summer Report. National Association of Colleges and Employers. https://www.naceweb.org/research/."
   },
@@ -368,7 +368,7 @@
     "href": "index.html",
     "title": "Welcome Page",
     "section": "",
-    "text": "Fall 2026 | Section D03 | CRN #94631 | 1 credit hour\nFridays, 12:30–1:20 PM • Swann 325 • Weekly in-person attendance required"
+    "text": "Fall 2026 | Section D03 | CRN #94631 | 1 credit hour\nFridays, 12:30–1:20 PM · Swann 325 · Weekly in-person attendance required"
   },
   {
     "objectID": "index.html#welcome",
@@ -396,7 +396,7 @@
     "href": "index.html#course-schedule",
     "title": "Welcome Page",
     "section": "4 Course Schedule",
-    "text": "4 Course Schedule\nThe course meets every Friday of the semester except holidays, from August 28 through December 4. The schedule below may be adjusted as needed throughout the semester. Physics@Tech talk dates are tentative.\n\n\n\nDate\nTentative Topic / Focus\nMajor Due Dates\n\n\n\n\nAug. 28\nCourse introduction; résumés\n-\n\n\nSept. 4\nRésumé review and revision workshop\nCampus Scavenger Hunt due\n\n\nSept. 11\nTime management and study strategies\nRésumé due\n\n\nSept. 14-15\nFall 2026 All Majors Career Fair\n-\n\n\nSept. 18\nDegree plan; study abroad\n-\n\n\nSept. 25\nTeam project kickoff\nDegree Map due\n\n\nOct. 2\nMontgomery Machining Mall tour\nTeam Project Contract due\n\n\nOct. 9\nLaTeX/Overleaf\n-\n\n\nOct. 16\nPhysics@Tech talk 1 (tentative); online presence\nHomework in LaTeX due\n\n\nOct. 23\nPhysics@Tech talk 2 (tentative); advising\nOnline Profile due\n\n\nOct. 30\nPhysics@Tech talk 3 (tentative); science ethics\nAdvising Meeting & Spring 2027 Plan due\n\n\nNov. 6\nStudent presentations I\nTeam 1-2 Project Slides due\n\n\nNov. 13\nStudent presentations II\nTeam 3-4 Project Slides due\n\n\nNov. 20\nUndergraduate research\n-\n\n\nDec. 4\nCourse wrap-up and reflection\nResearch Talk Reflection due (open assignment; submit any time before)"
+    "text": "4 Course Schedule\nThe course meets every Friday of the semester except holidays, from August 28 through December 4. The schedule below may be adjusted as needed throughout the semester. Physics@Tech talk dates are tentative.\n\n\n\nDate\nTentative Topic / Focus\nMajor Due Dates\n\n\n\n\nAug. 28\nCourse introduction; resumes\n-\n\n\nSept. 4\nResume review and revision workshop\nCampus Scavenger Hunt due\n\n\nSept. 11\nTime management and study strategies\nResume due\n\n\nSept. 14-15\nFall 2026 All Majors Career Fair\n-\n\n\nSept. 18\nDegree plan; study abroad\n-\n\n\nSept. 25\nMontgomery Machining Mall tour\nDegree Map due\n\n\nOct. 2\nTeam project kickoff\n-\n\n\nOct. 9\nLaTeX/Overleaf\nTeam Project Contract due\n\n\nOct. 16\nPhysics@Tech talk 1 (tentative); online presence\nHomework in LaTeX due\n\n\nOct. 23\nPhysics@Tech talk 2 (tentative); advising\nOnline Profile due\n\n\nOct. 30\nPhysics@Tech talk 3 (tentative); science ethics\nAdvising Meeting & Spring 2027 Plan due\n\n\nNov. 6\nStudent presentations I\nTeam 1-2 Project Slides due\n\n\nNov. 13\nStudent presentations II\nTeam 3-4 Project Slides due\n\n\nNov. 20\nUndergraduate research\n-\n\n\nDec. 4\nCourse wrap-up and reflection\nResearch Talk Reflection due (open assignment; submit any time before)"
   },
   {
     "objectID": "index.html#assignments-and-grading",
@@ -445,7 +445,7 @@
     "href": "assignments/team-project.html#what-to-submit",
     "title": "Team Project",
     "section": "2 What to Submit",
-    "text": "2 What to Submit\n\n\n\nDeliverable\nDue\nPoints\n\n\n\n\n\nTeam Project Contract\nOct. 2\n50\nOpen assignment\n\n\nTeam Project Slides\nIn class, Nov. 6 or Nov. 13\n100\nOpen assignment\n\n\nTeam Project Presentation\nIn class, Nov. 6 or Nov. 13\n100\n—\n\n\nTotal\n\n250\n\n\n\n\n\nAll teams submit slides by November 6, including teams presenting on November 13.\nThe file must be submitted as a PDF.\nUpload the PDF directly to this Canvas assignment by the deadline."
+    "text": "2 What to Submit\n\n\n\nDeliverable\nDue\nPoints\n\n\n\n\n\nTeam Project Contract\nOct. 9\n50\nOpen assignment\n\n\nTeam Project Slides\nIn class, Nov. 6 or Nov. 13\n100\nOpen assignment\n\n\nTeam Project Presentation\nIn class, Nov. 6 or Nov. 13\n100\n—\n\n\nTotal\n\n250\n\n\n\n\n\nAll teams submit slides by November 6, including teams presenting on November 13.\nThe file must be submitted as a PDF.\nUpload the PDF directly to this Canvas assignment by the deadline."
   },
   {
     "objectID": "assignments/team-project.html#expectations",
@@ -473,14 +473,14 @@
     "href": "assignments/deliverables/team-project-contract.html",
     "title": "Team Project Contract",
     "section": "",
-    "text": "Most group projects that go wrong do so for predictable reasons: no one agreed on who does what, when the team meets, or what happens when someone stops responding. A team contract settles those questions at the start, while everyone still gets along.\nYour team will write and sign a contract for the Team Project. Teams are formed at the project kickoff in class on September 25."
+    "text": "Most group projects that go wrong do so for predictable reasons: no one agreed on who does what, when the team meets, or what happens when someone stops responding. A team contract settles those questions at the start, while everyone still gets along.\nYour team will write and sign a contract for the Team Project. Teams are formed at the project kickoff in class on October 2."
   },
   {
     "objectID": "assignments/deliverables/team-project-contract.html#purpose",
     "href": "assignments/deliverables/team-project-contract.html#purpose",
     "title": "Team Project Contract",
     "section": "",
-    "text": "Most group projects that go wrong do so for predictable reasons: no one agreed on who does what, when the team meets, or what happens when someone stops responding. A team contract settles those questions at the start, while everyone still gets along.\nYour team will write and sign a contract for the Team Project. Teams are formed at the project kickoff in class on September 25."
+    "text": "Most group projects that go wrong do so for predictable reasons: no one agreed on who does what, when the team meets, or what happens when someone stops responding. A team contract settles those questions at the start, while everyone still gets along.\nYour team will write and sign a contract for the Team Project. Teams are formed at the project kickoff in class on October 2."
   },
   {
     "objectID": "assignments/deliverables/team-project-contract.html#what-to-submit",
@@ -513,44 +513,44 @@
   {
     "objectID": "assignments/deliverables/resume.html",
     "href": "assignments/deliverables/resume.html",
-    "title": "Résumé",
+    "title": "Resume",
     "section": "",
-    "text": "Résumés have a long history going back to at least Leonardo da Vinci, who wrote a letter to Ludovico il Moro, Duke of Milan, summarizing his many talents c. 1483–1485.\nThe Fall 2026 All Majors Career Fair is September 14–15, three days after this deadline. The point of this deliverable is that you walk into it with a polished, one-page résumé in hand rather than assembling one the night before.\nWe covered what goes on a résumé in Lecture 1, and we workshop drafts in class on September 4 (bring a draft that day, even a rough one)."
+    "text": "Resumes have a long history going back to at least Leonardo da Vinci, who wrote a letter to Ludovico il Moro, Duke of Milan, summarizing his many talents c. 1483–1485.\nThe Fall 2026 All Majors Career Fair is September 14–15, three days after this deadline. The point of this deliverable is that you walk into it with a polished, one-page resume in hand rather than assembling one the night before.\nWe covered what goes on a resume in Lecture 1, and we workshop drafts in class on September 4 (bring a draft that day, even a rough one)."
   },
   {
     "objectID": "assignments/deliverables/resume.html#purpose",
     "href": "assignments/deliverables/resume.html#purpose",
-    "title": "Résumé",
+    "title": "Resume",
     "section": "",
-    "text": "Résumés have a long history going back to at least Leonardo da Vinci, who wrote a letter to Ludovico il Moro, Duke of Milan, summarizing his many talents c. 1483–1485.\nThe Fall 2026 All Majors Career Fair is September 14–15, three days after this deadline. The point of this deliverable is that you walk into it with a polished, one-page résumé in hand rather than assembling one the night before.\nWe covered what goes on a résumé in Lecture 1, and we workshop drafts in class on September 4 (bring a draft that day, even a rough one)."
+    "text": "Resumes have a long history going back to at least Leonardo da Vinci, who wrote a letter to Ludovico il Moro, Duke of Milan, summarizing his many talents c. 1483–1485.\nThe Fall 2026 All Majors Career Fair is September 14–15, three days after this deadline. The point of this deliverable is that you walk into it with a polished, one-page resume in hand rather than assembling one the night before.\nWe covered what goes on a resume in Lecture 1, and we workshop drafts in class on September 4 (bring a draft that day, even a rough one)."
   },
   {
     "objectID": "assignments/deliverables/resume.html#what-to-submit",
     "href": "assignments/deliverables/resume.html#what-to-submit",
-    "title": "Résumé",
+    "title": "Resume",
     "section": "2 What to Submit",
-    "text": "2 What to Submit\n\nA one-page résumé, submitted as a PDF to Canvas by September 11 at 11:59 PM ET.\nName the file Lastname-Firstname-Resume.pdf.\nSubmit a PDF, not a Word document — formatting shifts between machines and a PDF does not."
+    "text": "2 What to Submit\n\nA one-page resume, submitted as a PDF to Canvas by September 11 at 11:59 PM ET.\nName the file Lastname-Firstname-Resume.pdf.\nSubmit a PDF, not a Word document — formatting shifts between machines and a PDF does not."
   },
   {
     "objectID": "assignments/deliverables/resume.html#expectations",
     "href": "assignments/deliverables/resume.html#expectations",
-    "title": "Résumé",
+    "title": "Resume",
     "section": "3 Expectations",
-    "text": "3 Expectations\nSections. A résumé is typically organized into sections: contact information, education, experience, skills, projects and leadership, awards and honors. Not every résumé looks the same; the order and emphasis depend on your background.\nEducation. List your most recent institution first. Your high school can stay on for now and comes off once you have Tech coursework to replace it. Relevant coursework and high school honors are fair game this year while experience is thin.\nExperience. High school jobs, volunteering, and club roles all belong here. For each entry give the organization, your role, dates (month and year), location, and two to four bullets.\nSkills. List the specific tools and languages you actually know: spoken and written languages, programming languages, laboratory instrumentation, techniques, specialized software.\nFormatting. One page. One or two fonts at most, nothing smaller than 10 pt for body text. Consistent alignment of dates and section headers, adequate white space, no photos, no graphics, no colored text.\nProofreading. Typos and grammar errors are disqualifying to a recruiter and here. Read it out loud before you submit, and have someone else read it too."
+    "text": "3 Expectations\nSections. A resume is typically organized into sections: contact information, education, experience, skills, projects and leadership, awards and honors. Not every resume looks the same; the order and emphasis depend on your background.\nEducation. List your most recent institution first. Your high school can stay on for now and comes off once you have Tech coursework to replace it. Relevant coursework and high school honors are fair game this year while experience is thin.\nExperience. High school jobs, volunteering, and club roles all belong here. For each entry give the organization, your role, dates (month and year), location, and two to four bullets.\nSkills. List the specific tools and languages you actually know: spoken and written languages, programming languages, laboratory instrumentation, techniques, specialized software.\nFormatting. One page. One or two fonts at most, nothing smaller than 10 pt for body text. Consistent alignment of dates and section headers, adequate white space, no photos, no graphics, no colored text.\nProofreading. Typos and grammar errors are disqualifying to a recruiter and here. Read it out loud before you submit, and have someone else read it too."
   },
   {
     "objectID": "assignments/deliverables/resume.html#submission-checklist",
     "href": "assignments/deliverables/resume.html#submission-checklist",
-    "title": "Résumé",
+    "title": "Resume",
     "section": "4 Submission Checklist",
-    "text": "4 Submission Checklist\n\nMy résumé is one page.\nMy contact information is at the top and correct.\nThe formatting is consistent – fonts, sizes, dates, and alignment.\nI have reviewed the document for clarity, formatting, spelling, and grammar.\nI have submitted my work as a PDF named Lastname-Firstname-Resume.pdf."
+    "text": "4 Submission Checklist\n\nMy resume is one page.\nMy contact information is at the top and correct.\nThe formatting is consistent – fonts, sizes, dates, and alignment.\nI have reviewed the document for clarity, formatting, spelling, and grammar.\nI have submitted my work as a PDF named Lastname-Firstname-Resume.pdf."
   },
   {
     "objectID": "assignments/deliverables/resume.html#helpful-resources",
     "href": "assignments/deliverables/resume.html#helpful-resources",
-    "title": "Résumé",
+    "title": "Resume",
     "section": "5 Helpful Resources",
-    "text": "5 Helpful Resources\n\nCareer Center résumé guidance"
+    "text": "5 Helpful Resources\n\nCareer Center resume guidance"
   },
   {
     "objectID": "assignments/deliverables/online-profile.html",
@@ -578,7 +578,7 @@
     "href": "assignments/deliverables/online-profile.html#expectations",
     "title": "Online Profile",
     "section": "3 Expectations",
-    "text": "3 Expectations\nYour profile should present you clearly and professionally. As a first-year student, you are not expected to have a long work history. A strong profile will generally include:\n\nA professional photo. Clear, smiling, and with an uncluttered background.\nA headline that says who you are and what you are interested in, such as “Physics first-year at Georgia Tech interested in quantum materials,” rather than just “Student.”\nA summary. A short paragraph is fine. You may draw on sections of your résumé rather than writing a long bio.\nEducation listing Georgia Tech and your degree program.\nExperience, projects, and activities. Jobs, volunteering, clubs, research, and projects you are proud of, including strong high school projects.\nSkills you actually have, such as programming languages, lab techniques, or software.\nA custom profile URL (linkedin.com/in/yourname) rather than the default string of numbers.\n\nAvoid overused buzzwords like “motivated,” “driven,” and “problem solver.” Show those qualities through what you have done instead.\n\n\n\n\n\n\nTipAlternatives to LinkedIn\n\n\n\nIf you do not wish to create or maintain a LinkedIn profile, you may instead submit the supplementary professional materials described above for credit."
+    "text": "3 Expectations\nYour profile should present you clearly and professionally. As a first-year student, you are not expected to have a long work history. A strong profile will generally include:\n\nA professional photo. Clear, smiling, and with an uncluttered background.\nA headline that says who you are and what you are interested in, such as “Physics first-year at Georgia Tech interested in quantum materials,” rather than just “Student.”\nA summary. A short paragraph is fine. You may draw on sections of your resume rather than writing a long bio.\nEducation listing Georgia Tech and your degree program.\nExperience, projects, and activities. Jobs, volunteering, clubs, research, and projects you are proud of, including strong high school projects.\nSkills you actually have, such as programming languages, lab techniques, or software.\nA custom profile URL (linkedin.com/in/yourname) rather than the default string of numbers.\n\nAvoid overused buzzwords like “motivated,” “driven,” and “problem solver.” Show those qualities through what you have done instead.\n\n\n\n\n\n\nTipAlternatives to LinkedIn\n\n\n\nIf you do not wish to create or maintain a LinkedIn profile, you may instead submit the supplementary professional materials described above for credit."
   },
   {
     "objectID": "assignments/deliverables/online-profile.html#submission-checklist",
@@ -592,7 +592,7 @@
     "href": "assignments/deliverables/online-profile.html#helpful-resources",
     "title": "Online Profile",
     "section": "5 Helpful Resources",
-    "text": "5 Helpful Resources\n\nGT 1000 textbook: LinkedIn, Thank You Notes, and More\nLinkedIn Help: Save a profile as a PDF\nGeorgia Tech Career Center\nRésumé assignment"
+    "text": "5 Helpful Resources\n\nGT 1000 textbook: LinkedIn, Thank You Notes, and More\nLinkedIn Help: Save a profile as a PDF\nGeorgia Tech Career Center\nResume assignment"
   },
   {
     "objectID": "assignments/deliverables/degree-map.html",
@@ -641,14 +641,14 @@
     "href": "assignments/career-readiness.html#deliverables",
     "title": "Career Readiness",
     "section": "1 Deliverables",
-    "text": "1 Deliverables\n\n\n\nDeliverable\nDue\nPoints\n\n\n\n\n\nRésumé\nSept. 11\n100\nOpen assignment\n\n\nOnline Profile\nOct. 23\n75\nOpen assignment\n\n\nResearch Talk Reflection\nDec. 4\n75\nOpen assignment\n\n\nTotal\n\n250"
+    "text": "1 Deliverables\n\n\n\nDeliverable\nDue\nPoints\n\n\n\n\n\nResume\nSept. 11\n100\nOpen assignment\n\n\nOnline Profile\nOct. 23\n75\nOpen assignment\n\n\nResearch Talk Reflection\nDec. 4\n75\nOpen assignment\n\n\nTotal\n\n250"
   },
   {
     "objectID": "assignments/career-readiness.html#helpful-resources",
     "href": "assignments/career-readiness.html#helpful-resources",
     "title": "Career Readiness",
     "section": "2 Helpful Resources",
-    "text": "2 Helpful Resources\n\nGeorgia Tech Career Center\nCareer Center résumé guidance\nFall 2026 All Majors Career Fair\nGeorgia Tech interviewing resources\nRésumé vs. Academic CV\nLecture 1 slides — Résumés\nUndergraduate research (UROP)"
+    "text": "2 Helpful Resources\n\nGeorgia Tech Career Center\nCareer Center resume guidance\nFall 2026 All Majors Career Fair\nGeorgia Tech interviewing resources\nResume vs. Academic CV\nLecture 1 slides — Resumes\nUndergraduate research (UROP)"
   },
   {
     "objectID": "assignments/academic-planning.html",
@@ -872,7 +872,7 @@
     "href": "course-files/syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Fall 2026 | Section D03 | CRN #94631 | 1 credit hour\nFridays, 12:30–1:20 PM • Swann 325 • Weekly in-person attendance required"
+    "text": "Fall 2026 | Section D03 | CRN #94631 | 1 credit hour\nFridays, 12:30–1:20 PM · Swann 325 · Weekly in-person attendance required"
   },
   {
     "objectID": "course-files/syllabus.html#course-description",
@@ -914,21 +914,21 @@
     "href": "lectures/index.html",
     "title": "Lectures",
     "section": "",
-    "text": "Fall 2026\n\n\n\n#\nDate\nTopic\nSlides\n\n\n\n\n1\nAug. 28\nCourse Overview & Résumés\nOpen slides\n\n\n2\nSept. 4\nRésumé Review & Revision Workshop\nOpen slides\n\n\n3\nSept. 11\nTime Management\nOpen slides\n\n\n4\nSept. 18\nBuilding a Degree Plan\nOpen slides"
+    "text": "Fall 2026\n\n\n\n#\nDate\nTopic\nSlides\n\n\n\n\n1\nAug. 28\nCourse Overview & Resumes\nOpen slides\n\n\n2\nSept. 4\nResume Review & Revision Workshop\nOpen slides\n\n\n3\nSept. 11\nTime Management\nOpen slides\n\n\n4\nSept. 18\nBuilding a Degree Plan\nOpen slides"
   },
   {
     "objectID": "lectures/lecture-02.html#due-dates",
     "href": "lectures/lecture-02.html#due-dates",
-    "title": "Résumé Review & Revision Workshop",
-    "section": "Due Dates",
-    "text": "Due Dates\n\n\n\nWhat\nWhen\nPoints\n\n\n\n\nCampus Scavenger Hunt — photos to Canvas\nTonight, Sept. 4, 11:59 PM ET\n40 (4%) · Academic Planning\n\n\nRésumé — PDF to Canvas, Lastname-Firstname-Resume.pdf\nSept. 11, 11:59 PM ET\n100 (10%) · Career Readiness\n\n\nGT Career Center résumé reviews\nSept. 8 in person · Sept. 9–10 virtual\n—\n\n\nFall 2026 All Majors Career Fair\nSept. 14–15\n—\n\n\n\n\nThe Scavenger Hunt is due tonight. One person per group uploads all the photos.\n\n\nAsk for a show of hands: whose group has already submitted? Anyone still without a group needs to be sorted out before they leave today. Remind them the résumé deadline sits three days before the career fair by design."
+    "title": "Resume Review & Revision Workshop",
+    "section": "Due dates",
+    "text": "Due dates\n\n\n\nWhat\nWhen\nPoints\n\n\n\n\nCampus Scavenger Hunt — photos to Canvas\nTonight, Sept. 4, 11:59 PM ET\n40 (4%) · Academic Planning\n\n\nResume — PDF to Canvas, Lastname-Firstname-Resume.pdf\nSept. 11, 11:59 PM ET\n100 (10%) · Career Readiness\n\n\nGT Career Center resume reviews\nSept. 8 in person · Sept. 9–10 virtual\n—\n\n\nFall 2026 All Majors Career Fair\nSept. 14–15\n—\n\n\n\n\nThe Scavenger Hunt is due tonight. One person per group uploads all the photos.\n\n\nAsk for a show of hands: whose group has already submitted? Anyone still without a group needs to be sorted out before they leave today. Remind them the resume deadline sits three days before the career fair by design."
   },
   {
     "objectID": "lectures/lecture-02.html#meanwhile-on-thursday-night",
     "href": "lectures/lecture-02.html#meanwhile-on-thursday-night",
-    "title": "Résumé Review & Revision Workshop",
-    "section": "Meanwhile, on Thursday Night",
-    "text": "Meanwhile, on Thursday Night"
+    "title": "Resume Review & Revision Workshop",
+    "section": "Meanwhile, on Thursday night",
+    "text": "Meanwhile, on Thursday night"
   },
   {
     "objectID": "lectures/lecture-04.html#front-matter",
@@ -941,8 +941,8 @@
     "objectID": "lectures/lecture-04.html#due-dates",
     "href": "lectures/lecture-04.html#due-dates",
     "title": "Building a Degree Plan",
-    "section": "Due Dates",
-    "text": "Due Dates\n\n\n\nWhat\nWhen\nPoints\n\n\n\n\nDegree Map – PDF to Canvas, Lastname-Firstname-Degree-Map.pdf\nSept. 25, 11:59 PM ET\n100 (10%) · Academic Planning\n\n\nTeam project kickoff\nSept. 25, in class\n–\n\n\nAdvising Meeting & Spring 2027 Plan\nOct. 30, 11:59 PM ET\n60 (6%) · Academic Planning\n\n\n\n\nToday’s work is the Degree Map."
+    "section": "Due dates",
+    "text": "Due dates\n\n\n\nWhat\nWhen\nPoints\n\n\n\n\nDegree Map – PDF to Canvas, Lastname-Firstname-Degree-Map.pdf\nSept. 25, 11:59 PM ET\n100 (10%) · Academic Planning\n\n\nTeam project kickoff\nOct. 2, in class\n–\n\n\nAdvising Meeting & Spring 2027 Plan\nOct. 30, 11:59 PM ET\n60 (6%) · Academic Planning\n\n\n\n\nToday’s work is the Degree Map."
   },
   {
     "objectID": "lectures/lecture-04.html#why-plan-now",
@@ -956,7 +956,7 @@
     "href": "lectures/lecture-04.html#what-is-a-degree-map",
     "title": "Building a Degree Plan",
     "section": "What is a degree map?",
-    "text": "What is a degree map?\nThe School of Physics’ 4-year plan with no transfer credit starts like this:\n\n\n\n\n\n\n\n\n\nSemester\nCourses\nHours\nRunning total\n\n\n\n\nFall 2026\nENGL 1101, MATH 1551, MATH 1553, CHEM 1310, GT 1000\n15\n15\n\n\nSpring 2027\nENGL 1102, MATH 1552, PHYS 2231, CS 1301, APPH 1040\n17\n32\n\n\nSummer 2027\nStudy abroad? Internship?\n–\n32\n\n\n…\n…\n…\n…\n\n\nSpring 2030\nPHYS 4605, electives\n14\n\\(\\geq\\) 122"
+    "text": "What is a degree map?\nThe School of Physics’ 4-year plan with no transfer credit starts like this:\n\n\n\n\n\n\n\n\n\nSemester\nCourses\nHours\nRunning total\n\n\n\n\nFall 2026\nENGL 1101, MATH 1551, MATH 1553, CHEM 1310, GT 1000\n15\n15\n\n\nSpring 2027\nENGL 1102, MATH 1552, PHYS 2231, CS 1301, APPH 1040\n17\n32\n\n\nSummer 2027\nStudy abroad? Internship?\n–\n32\n\n\n…\n…\n…\n…\n\n\nSpring 2030\nPHYS 4605, electives\n14\n≥ 122"
   },
   {
     "objectID": "lectures/lecture-04.html#anatomy-of-the-physics-b.s.",
@@ -977,7 +977,7 @@
     "href": "lectures/lecture-04.html#prerequisites-set-the-order",
     "title": "Building a Degree Plan",
     "section": "Prerequisites set the order",
-    "text": "Prerequisites set the order\nYour map is really a set of chains. Build the chains first, then fill in around them.\n\nMath: MATH 1551 \\(\\to\\) 1552 \\(\\to\\) 2551 \\(\\to\\) 2552\nIntro physics: PHYS 2231 \\(\\to\\) 2232 \\(\\to\\) 2303 / 2304\nUpper level: intro physics + math \\(\\to\\) 3000-level \\(\\to\\) 4000-level\n\nWhen in doubt, check Oscar.\nExample: PHYS 3143 Quantum Mechanics I requires (PHYS 2213 or 2304) and MATH 2551 and MATH 2552 (or equivalent).\n\nThe 3143 prerequisites are from the School of Physics requirements page (Quantum minor section). In the 4-year plan, MATH 2552 and PHYS 2304 are both spring of year 2, so QM I lands in fall of year 3. Taking 2211/2212 instead of 2231/2232 moves two hours to physics/technical electives. Consider drawing the chain on the board. Check which upper-level courses are offered only once a year."
+    "text": "Prerequisites set the order\nYour map is really a set of chains. Build the chains first, then fill in around them.\n\nMath: MATH 1551 → 1552 → 2551 → 2552\nIntro physics: PHYS 2231 → 2232 → 2303 / 2304\nUpper level: intro physics + math → 3000-level → 4000-level\n\nWhen in doubt, check Oscar.\nExample: PHYS 3143 Quantum Mechanics I requires (PHYS 2213 or 2304) and MATH 2551 and MATH 2552 (or equivalent).\n\nThe 3143 prerequisites are from the School of Physics requirements page (Quantum minor section). In the 4-year plan, MATH 2552 and PHYS 2304 are both spring of year 2, so QM I lands in fall of year 3. Taking 2211/2212 instead of 2231/2232 moves two hours to physics/technical electives. Consider drawing the chain on the board. Check which upper-level courses are offered only once a year."
   },
   {
     "objectID": "lectures/lecture-04.html#transfer-credit-counts",
@@ -991,7 +991,7 @@
     "href": "lectures/lecture-04.html#room-for-more",
     "title": "Building a Degree Plan",
     "section": "Room for more",
-    "text": "Room for more\nYour free and technical electives are where the degree becomes yours.\n\n\n\n\n\n\n\nOption\nHow it fits\n\n\n\n\nMinor or certificate\nPhysics’ minors are 15 hours; up to 6 can double-count toward your major\n\n\nUndergraduate research\nPHYS 2699 / 4699, at most 9 hours toward the degree (Astrophysics: at most 3 hours of 4699 as an elective)\n\n\nInternship\nOne semester or a summer, full- or part-time\n\n\nCo-op\nAlternating semesters of full-time work and full-time classes\n\n\nStudy abroad\nA summer program or a full semester away\n\n\n\n\nThe School offers minors in Physics (non-physics majors only), Astrophysics (open to Physics and Applied Physics majors), and Quantum Sciences and Technology (open to all). Research gets its own lecture on Nov. 20. The Montgomery Machining Mall tour on Oct. 2 is also a good fit for students who want to build things in lab."
+    "text": "Room for more\nYour free and technical electives are where the degree becomes yours.\n\n\n\n\n\n\n\nOption\nHow it fits\n\n\n\n\nMinor or certificate\nPhysics’ minors are 15 hours; up to 6 can double-count toward your major\n\n\nUndergraduate research\nPHYS 2699 / 4699, at most 9 hours toward the degree (Astrophysics: at most 3 hours of 4699 as an elective)\n\n\nInternship\nOne semester or a summer, full- or part-time\n\n\nCo-op\nAlternating semesters of full-time work and full-time classes\n\n\nStudy abroad\nA summer program or a full semester away\n\n\n\n\nThe School offers minors in Physics (non-physics majors only), Astrophysics (open to Physics and Applied Physics majors), and Quantum Sciences and Technology (open to all). Research gets its own lecture on Nov. 20. The Montgomery Machining Mall tour on Sept. 25 is also a good fit for students who want to build things in lab."
   },
   {
     "objectID": "lectures/lecture-04.html#study-abroad-the-deadlines-are-earlier-than-you-think",
@@ -1019,55 +1019,55 @@
     "href": "lectures/lecture-04.html#before-you-submit",
     "title": "Building a Degree Plan",
     "section": "Before you submit",
-    "text": "Before you submit\nDue Sept. 25, 11:59 PM ET · Degree Map assignment\n\nEvery semester through your expected graduation.\nEvery required course appears, and prerequisites come first.\nTransfer credit listed with what each one satisfies.\nMinor courses, if any.\nWhere study abroad, research, an internship, or a co-op could fit.\nCredit hours per semester, a running total, and \\(\\geq 122\\) at the end.\nOne PDF named Lastname-Firstname-Degree-Map.pdf.\n\n\nThis map is also the starting point for the advising meeting assignment due Oct. 30, so a careful job now saves work later."
+    "text": "Before you submit\nDue Sept. 25, 11:59 PM ET · Degree Map assignment\n\nEvery semester through your expected graduation.\nEvery required course appears, and prerequisites come first.\nTransfer credit listed with what each one satisfies.\nMinor courses, if any.\nWhere study abroad, research, an internship, or a co-op could fit.\nCredit hours per semester, a running total, and ≥ 122 at the end.\nOne PDF named Lastname-Firstname-Degree-Map.pdf.\n\n\nThis map is also the starting point for the advising meeting assignment due Oct. 30, so a careful job now saves work later."
   },
   {
     "objectID": "supplemental/resume-cv.html",
     "href": "supplemental/resume-cv.html",
-    "title": "Résumé vs. Academic CV",
+    "title": "Resume vs. Academic CV",
     "section": "",
-    "text": "A résumé is a concise, targeted document that highlights the experiences and qualifications most relevant to a particular opportunity. It is the standard document for most internships, industry jobs, research technician positions, and many early-career applications.\nAn academic curriculum vitae, usually called a CV, is a longer and more comprehensive record of academic, research, teaching, and professional accomplishments. It grows over time and is commonly used for graduate school, academic research positions, postdoctoral applications, faculty positions, grant applications, and promotion or review processes.\n\n\n\n\n\n\nImportant\n\n\n\nMost undergraduates will need a strong résumé well before they need a true academic CV. An academic CV is often first developed during graduate school, when publications, talks, research outputs, teaching roles, and professional service begin to accumulate."
+    "text": "A resume is a concise, targeted document that highlights the experiences and qualifications most relevant to a particular opportunity. It is the standard document for most internships, industry jobs, research technician positions, and many early-career applications.\nAn academic curriculum vitae, usually called a CV, is a longer and more comprehensive record of academic, research, teaching, and professional accomplishments. It grows over time and is commonly used for graduate school, academic research positions, postdoctoral applications, faculty positions, grant applications, and promotion or review processes.\n\n\n\n\n\n\nImportant\n\n\n\nMost undergraduates will need a strong resume well before they need a true academic CV. An academic CV is often first developed during graduate school, when publications, talks, research outputs, teaching roles, and professional service begin to accumulate."
   },
   {
     "objectID": "supplemental/resume-cv.html#the-short-version",
     "href": "supplemental/resume-cv.html#the-short-version",
-    "title": "Résumé vs. Academic CV",
+    "title": "Resume vs. Academic CV",
     "section": "",
-    "text": "A résumé is a concise, targeted document that highlights the experiences and qualifications most relevant to a particular opportunity. It is the standard document for most internships, industry jobs, research technician positions, and many early-career applications.\nAn academic curriculum vitae, usually called a CV, is a longer and more comprehensive record of academic, research, teaching, and professional accomplishments. It grows over time and is commonly used for graduate school, academic research positions, postdoctoral applications, faculty positions, grant applications, and promotion or review processes.\n\n\n\n\n\n\nImportant\n\n\n\nMost undergraduates will need a strong résumé well before they need a true academic CV. An academic CV is often first developed during graduate school, when publications, talks, research outputs, teaching roles, and professional service begin to accumulate."
+    "text": "A resume is a concise, targeted document that highlights the experiences and qualifications most relevant to a particular opportunity. It is the standard document for most internships, industry jobs, research technician positions, and many early-career applications.\nAn academic curriculum vitae, usually called a CV, is a longer and more comprehensive record of academic, research, teaching, and professional accomplishments. It grows over time and is commonly used for graduate school, academic research positions, postdoctoral applications, faculty positions, grant applications, and promotion or review processes.\n\n\n\n\n\n\nImportant\n\n\n\nMost undergraduates will need a strong resume well before they need a true academic CV. An academic CV is often first developed during graduate school, when publications, talks, research outputs, teaching roles, and professional service begin to accumulate."
   },
   {
     "objectID": "supplemental/resume-cv.html#when-should-you-use-each",
     "href": "supplemental/resume-cv.html#when-should-you-use-each",
-    "title": "Résumé vs. Academic CV",
+    "title": "Resume vs. Academic CV",
     "section": "2 When Should You Use Each?",
-    "text": "2 When Should You Use Each?\n\n\n\n\n\n\n\n\nSituation\nUsually Use\nWhy\n\n\n\n\nInternship or industry job application\nRésumé\nEmployers typically want a concise, tailored summary of relevant skills and experience.\n\n\nCareer fair or networking conversation\nRésumé\nA short document is easier to scan quickly and use in conversation.\n\n\nUndergraduate research position\nUsually résumé\nA résumé is typically sufficient unless the program specifically asks for a CV.\n\n\nGraduate school application\nRésumé or CV\nFollow the program instructions. Research-intensive programs may request a CV.\n\n\nGraduate fellowship, academic research role, or postdoctoral application\nAcademic CV\nThese applications often need a fuller record of research, publications, presentations, and honors.\n\n\nFaculty jobs, academic promotion, grant applications\nAcademic CV\nThe CV serves as a comprehensive professional record."
+    "text": "2 When Should You Use Each?\n\n\n\n\n\n\n\n\nSituation\nUsually Use\nWhy\n\n\n\n\nInternship or industry job application\nResume\nEmployers typically want a concise, tailored summary of relevant skills and experience.\n\n\nCareer fair or networking conversation\nResume\nA short document is easier to scan quickly and use in conversation.\n\n\nUndergraduate research position\nUsually resume\nA resume is typically sufficient unless the program specifically asks for a CV.\n\n\nGraduate school application\nResume or CV\nFollow the program instructions. Research-intensive programs may request a CV.\n\n\nGraduate fellowship, academic research role, or postdoctoral application\nAcademic CV\nThese applications often need a fuller record of research, publications, presentations, and honors.\n\n\nFaculty jobs, academic promotion, grant applications\nAcademic CV\nThe CV serves as a comprehensive professional record."
   },
   {
     "objectID": "supplemental/resume-cv.html#key-differences",
     "href": "supplemental/resume-cv.html#key-differences",
-    "title": "Résumé vs. Academic CV",
+    "title": "Resume vs. Academic CV",
     "section": "3 Key Differences",
-    "text": "3 Key Differences\n\n\n\n\n\n\n\n\nFeature\nRésumé\nAcademic CV\n\n\n\n\nTypical length\nOften 1 page for undergraduates; sometimes 2 pages with substantial experience\nNo fixed limit; grows with academic experience\n\n\nPurpose\nMarket your fit for a specific role\nDocument your full academic and professional record\n\n\nCustomization\nHighly tailored to the job, internship, or opportunity\nUsually updated over time, but less radically tailored\n\n\nStyle\nSelective, concise, skill-oriented\nComprehensive, chronological, detailed\n\n\nCommon content\nEducation, skills, experience, projects, leadership, selected awards\nEducation, appointments, publications, talks, teaching, grants, awards, mentoring, service, outreach, professional memberships\n\n\nMain question answered\n“Why are you a strong candidate for this position?”\n“What is the full scope of your academic and professional record?”"
+    "text": "3 Key Differences\n\n\n\n\n\n\n\n\nFeature\nResume\nAcademic CV\n\n\n\n\nTypical length\nOften 1 page for undergraduates; sometimes 2 pages with substantial experience\nNo fixed limit; grows with academic experience\n\n\nPurpose\nMarket your fit for a specific role\nDocument your full academic and professional record\n\n\nCustomization\nHighly tailored to the job, internship, or opportunity\nUsually updated over time, but less radically tailored\n\n\nStyle\nSelective, concise, skill-oriented\nComprehensive, chronological, detailed\n\n\nCommon content\nEducation, skills, experience, projects, leadership, selected awards\nEducation, appointments, publications, talks, teaching, grants, awards, mentoring, service, outreach, professional memberships\n\n\nMain question answered\n“Why are you a strong candidate for this position?”\n“What is the full scope of your academic and professional record?”"
   },
   {
-    "objectID": "supplemental/resume-cv.html#what-belongs-on-a-résumé",
-    "href": "supplemental/resume-cv.html#what-belongs-on-a-résumé",
-    "title": "Résumé vs. Academic CV",
-    "section": "4 What Belongs on a Résumé?",
-    "text": "4 What Belongs on a Résumé?\nA résumé should be selective. You do not need to list everything you have ever done. Instead, choose the experiences most relevant to the opportunity you are pursuing.\n\n4.1 Common Résumé Sections\n\nContact information\nEducation\nRelevant work, research, or internship experience\nProjects or technical experience\nSkills, especially software, laboratory, computational, or language skills\nLeadership, service, or activities, when relevant\nSelected honors or awards, if useful\n\n\n\n\n\n\n\nNoteBuilding your first résumé\n\n\n\nMost, if not all, undergraduates should be working from a résumé rather than an academic CV. The goal is to prepare a polished professional document that can be used for jobs, internships, research opportunities, career fairs, or related applications."
+    "objectID": "supplemental/resume-cv.html#what-belongs-on-a-resume",
+    "href": "supplemental/resume-cv.html#what-belongs-on-a-resume",
+    "title": "Resume vs. Academic CV",
+    "section": "4 What Belongs on a Resume?",
+    "text": "4 What Belongs on a Resume?\nA resume should be selective. You do not need to list everything you have ever done. Instead, choose the experiences most relevant to the opportunity you are pursuing.\n\n4.1 Common Resume Sections\n\nContact information\nEducation\nRelevant work, research, or internship experience\nProjects or technical experience\nSkills, especially software, laboratory, computational, or language skills\nLeadership, service, or activities, when relevant\nSelected honors or awards, if useful\n\n\n\n\n\n\n\nNoteBuilding your first resume\n\n\n\nMost, if not all, undergraduates should be working from a resume rather than an academic CV. The goal is to prepare a polished professional document that can be used for jobs, internships, research opportunities, career fairs, or related applications."
   },
   {
     "objectID": "supplemental/resume-cv.html#what-belongs-on-an-academic-cv",
     "href": "supplemental/resume-cv.html#what-belongs-on-an-academic-cv",
-    "title": "Résumé vs. Academic CV",
+    "title": "Resume vs. Academic CV",
     "section": "5 What Belongs on an Academic CV?",
-    "text": "5 What Belongs on an Academic CV?\nAn academic CV is much broader than a résumé. Academic CVs vary considerably in style and length, but they commonly document a wide range of academic contributions.\n\n5.1 Common Academic CV Sections\n\nContact information and professional title\nEducation, often including dissertation or advisor information\nAcademic employment or appointments\nResearch interests or areas of specialization\nPublications, sometimes separated into peer-reviewed articles, book chapters, reports, and works in progress\nConference presentations, invited talks, and seminars\nGrants, fellowships, awards, and honors\nTeaching experience, often with courses, terms, enrollment, or instructional roles\nMentoring and student supervision\nProfessional service, such as reviewing, organizing conferences, committee work, and society involvement\nInstitutional service and public outreach"
+    "text": "5 What Belongs on an Academic CV?\nAn academic CV is much broader than a resume. Academic CVs vary considerably in style and length, but they commonly document a wide range of academic contributions.\n\n5.1 Common Academic CV Sections\n\nContact information and professional title\nEducation, often including dissertation or advisor information\nAcademic employment or appointments\nResearch interests or areas of specialization\nPublications, sometimes separated into peer-reviewed articles, book chapters, reports, and works in progress\nConference presentations, invited talks, and seminars\nGrants, fellowships, awards, and honors\nTeaching experience, often with courses, terms, enrollment, or instructional roles\nMentoring and student supervision\nProfessional service, such as reviewing, organizing conferences, committee work, and society involvement\nInstitutional service and public outreach"
   },
   {
     "objectID": "supplemental/resume-cv.html#practical-guidance-for-students",
     "href": "supplemental/resume-cv.html#practical-guidance-for-students",
-    "title": "Résumé vs. Academic CV",
+    "title": "Resume vs. Academic CV",
     "section": "6 Practical Guidance for Students",
-    "text": "6 Practical Guidance for Students\n\nStart with a résumé. Every student should be able to produce a polished résumé for jobs, internships, research roles, and networking.\nBegin a CV only when it becomes useful. This often happens during graduate school, or earlier if you begin applying for research-intensive programs that specifically request one.\nFollow the instructions of the opportunity. If an application asks for a résumé, submit a résumé. If it asks for a CV, submit a CV.\nDo not simply rename one document. A résumé and CV serve different purposes and should be structured accordingly.\nMaintain a master record. Even if you are submitting a one-page résumé, keep a private running list of all research projects, presentations, awards, teaching roles, and service. That record can later become the basis of an academic CV.\n\n\n\n\n\n\n\nTip\n\n\n\nFor most first-year students, the immediate priority is learning to produce a strong résumé. Understanding the academic CV now will help you recognize when and how to build one later."
+    "text": "6 Practical Guidance for Students\n\nStart with a resume. Every student should be able to produce a polished resume for jobs, internships, research roles, and networking.\nBegin a CV only when it becomes useful. This often happens during graduate school, or earlier if you begin applying for research-intensive programs that specifically request one.\nFollow the instructions of the opportunity. If an application asks for a resume, submit a resume. If it asks for a CV, submit a CV.\nDo not simply rename one document. A resume and CV serve different purposes and should be structured accordingly.\nMaintain a master record. Even if you are submitting a one-page resume, keep a private running list of all research projects, presentations, awards, teaching roles, and service. That record can later become the basis of an academic CV.\n\n\n\n\n\n\n\nTip\n\n\n\nFor most first-year students, the immediate priority is learning to produce a strong resume. Understanding the academic CV now will help you recognize when and how to build one later."
   }
 ]
