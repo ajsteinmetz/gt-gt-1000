@@ -8,8 +8,8 @@ subtitle: "GT 1000: First-Year Seminar, Physics"
 | # | Date | Topic | Slides |
 |---|---|---|---|
 | 1 | Aug. 28 | Course Overview & Resumes | [Open slides](lecture-01.qmd){target="_blank"} |
-| 2 | Sept. 4 | Resume Review & Revision Workshop | [Open slides](lecture-02.qmd){target="_blank"} |
+| 2 | Sept. 4 | Resume Review & Revision Workshop; guest speaker | [Open slides](lecture-02.qmd){target="_blank"} |
 | 3 | Sept. 11 | Time Management | [Open slides](lecture-03.qmd){target="_blank"} |
-| 4 | Sept. 18 | Building a Degree Plan | [Open slides](lecture-04.qmd){target="_blank"} |
+| 4 | Sept. 18 | Building a Degree Plan; guest speaker | [Open slides](lecture-04.qmd){target="_blank"} |
 | 5 | Sept. 25 | Montgomery Machining Mall Tour | &mdash; |
-| 6 | Oct. 2 | Team Project Kickoff | [Open slides](lecture-06.qmd){target="_blank"} |
+| 6 | Oct. 2 | Team Project Kickoff; guest speaker | [Open slides](lecture-06.qmd){target="_blank"} |
