@@ -15,26 +15,14 @@ format:
 
 ---
 
-## Front matter
-
-- How was the Montgomery Machining Mall tour? What would you build?
-- Keep your Degree Map handy for the advising meeting (due Oct. 30).
-
----
-
 ## Due dates
 
 | What | When | Points |
 |---|---|---|
 | [Team Project Contract](../assignments/deliverables/team-project-contract.qmd) | Oct. 9, 11:59 PM ET | 50 (5%) &middot; Team Project |
 | [Homework in LaTeX](../assignments/deliverables/latex-homework.qmd) | Oct. 16, 11:59 PM ET | 50 (5%) &middot; Academic Planning |
-| [Online Profile](../assignments/deliverables/online-profile.qmd) + Team Leader check-in | Oct. 23 | 75 (7.5%) &middot; Career Readiness |
-| [Team Project Slides](../assignments/deliverables/team-project-slides.qmd) (all teams) | Nov. 6, 11:59 PM ET | 100 (10%) &middot; Team Project |
-| Team Project Presentation | Nov. 6 or Nov. 13 | 100 (10%) &middot; Team Project |
-
-::: {.highlight-box}
-By the end of class today you will have a **team**, a **tentative track**, and a **first meeting** on the calendar.
-:::
+| [Online Profile](../assignments/deliverables/online-profile.qmd) | Oct. 23, 11:59 PM ET | 75 (7.5%) &middot; Career Readiness |
+| [Team Project Slides](../assignments/deliverables/team-project-slides.qmd) and Presentation | Slides Nov. 6; talk Nov. 6 or Nov. 13 | 100 + 100 (20%) &middot; Team Project |
 
 ---
 
@@ -54,24 +42,10 @@ You can't do this project from your desk. The evidence of what you did (your pho
 ::: notes
 Full details are on the Team Project page: ../assignments/team-project.qmd. This project supports the
 course learning outcome on leading and participating in collaborative projects. It also previews the
-undergraduate research lecture on Nov. 20.
+undergraduate research lecture on Nov. 20. Why a team: research groups divide the work, and most
+hard problems in group projects are people problems (who does what, when you meet, what happens
+when someone goes quiet). Better to practice that now.
 :::
-
----
-
-## Why do this as a team?
-
-Physics is a team sport.
-
-::: {.nonincremental}
-- Research groups divide work: someone builds, someone analyzes, someone writes, someone talks to collaborators.
-- Most of the hard problems in a group project are **people** problems: who does what, when you meet, what happens when someone goes quiet.
-- You will practice solving those now, when the stakes are 25% of a one-credit course.
-:::
-
----
-
-## Part I: The two tracks {.section-slide background-color="#003057"}
 
 ---
 
@@ -94,24 +68,12 @@ Find a research group, visit, and interview the people who do the work.
 Groups outside the School of Physics need a short explanation of the physics connection in the
 contract, and my approval. The talk covers the research question, how the group answers it, the
 people and their paths, and how a first-year can get involved.
-:::
 
----
-
-## Finding a group
-
-::: {.nonincremental}
-1. Browse the [School of Physics research pages](https://physics.gatech.edu/research) and faculty profiles.
-2. Look at recent seminar and colloquium speakers on the [events calendar](https://physics.gatech.edu/events).
-3. Ask upper-year students, your Team Leader, and the professors teaching your classes.
-4. Pick a first choice and **one or two backups**. All of them go in your contract.
-5. Before you email, read the group's website and one accessible article, news story, or talk.
-:::
-
-::: notes
-The Physics\@Tech talks on Oct. 16, 23, and 30 (tentative) are also a way to meet faculty.
-Encourage teams to spread out across research areas so the four presentations are not all on the
-same topic.
+Finding a group: School of Physics research pages and faculty profiles, recent seminar and
+colloquium speakers on the events calendar, upper-year students, the Team Leader, and the
+professors teaching their classes. Read the group's website and one accessible article before
+emailing. The Physics\@Tech talks on Oct. 16, 23, and 30 (tentative) are another way to meet
+faculty. Encourage teams to spread out across research areas.
 :::
 
 ---
@@ -167,56 +129,9 @@ Or propose your own in your contract. Free phone apps such as [phyphox](https://
 
 ::: notes
 Apparatus can be built at the Montgomery Machining Mall or the Invention Studio. Safety: public
-spaces only, follow building rules for roofs and stairwells, never drop anything where people walk.
+spaces only, follow building rules for roofs and stairwells, never drop anything where people walk. The two appendix slides (Tech Tower barometer example,
+whether two methods agree) are for Track B teams to come back to.
 :::
-
----
-
-## Example: how tall is Tech Tower?
-
-Air pressure drops as you go up, because there is less air above you:
-
-$$\Delta P = \rho_{\text{air}} \, g \, \Delta h \quad\Rightarrow\quad \Delta h = \frac{\Delta P}{\rho_{\text{air}} \, g}$$
-
-With $\rho_{\text{air}} \approx 1.2~\text{kg/m}^3$, that is about **12 Pa (0.12 hPa) per meter**. Phone barometers can resolve changes this small.
-
-::: {.nonincremental}
-- Repeat the measurement several times. How much do the results scatter?
-- What else changes the pressure while you walk up the stairs? (Weather? Air conditioning?)
-- Then measure the height a **second, independent** way and compare.
-:::
-
-::: notes
-1.2 kg/m^3 times 9.8 m/s^2 is about 11.8 Pa per meter. Air density depends on temperature and
-humidity, which is a good source-of-error discussion. Don't give the actual height of the tower;
-that's what they're measuring.
-:::
-
----
-
-## Do your two methods agree?
-
-Report each result as a value with an uncertainty: $h = 30 \pm 2~\text{m}$.
-
-::: {.nonincremental}
-- **Uncertainty** comes from repeating the measurement and looking at the spread, and from the limits of your instruments.
-- Two results **agree** if their difference is about the size of their combined uncertainty or smaller.
-- If they **don't** agree, that is not a failure. It is the most interesting part of your talk: what did one method miss?
-:::
-
-::: {.highlight-box}
-A careful "our methods disagree, and here is why" beats a suspiciously perfect match.
-:::
-
-::: notes
-The 30 +/- 2 m is a made-up example of the format, not the real height. Rule of thumb for the
-"combined uncertainty": add the two uncertainties in quadrature. They will see this formally in
-PHYS 2211/2231 lab.
-:::
-
----
-
-## Part II: How it gets graded {.section-slide background-color="#003057"}
 
 ---
 
@@ -256,39 +171,18 @@ The Verification Form is still being written; it will be posted on the Team Proj
 
 ---
 
-## The presentation
+## Presenting as a team
 
 ::: {.nonincremental}
-- **15 minutes:** about 12 minutes talking, 3 minutes of questions. We will keep time.
-- **Everyone presents,** roughly equally. Plan the hand-offs.
-- **Questions** can go to any team member about any part of the project.
-- **10&ndash;15 content slides,** plus title, references, and the Verification Form.
-- **All slides are due Nov. 6,** even if you present on Nov. 13.
+- **15 minutes:** about 12 talking, 3 for questions. **Everyone presents;** questions can go to anyone.
+- **10&ndash;15 content slides,** plus title, references, and the Verification Form. **All slides are due Nov. 6.**
+- **Rehearse together,** out loud, with a timer, and give each other specific feedback [@gt1000_group].
+- **Raise problems early.** Talk to the teammate first, then the Team Leader or me, **before** the deadline.
 :::
 
 | Slides (100) | Presentation (100) |
 |---|---|
 | Content 30 &middot; Evidence 30 &middot; Organization 15 &middot; Design 15 &middot; Sources 10 | Delivery 30 &middot; Teamwork 20 &middot; Questions 20 &middot; Timing 15 &middot; Check-in 15 |
-
----
-
-## Part III: Working as a team {.section-slide background-color="#003057"}
-
----
-
-## What strong teams do
-
-From the GT 1000 textbook [@gt1000_group]:
-
-::: {.nonincremental}
-- **Meet in person** to plan, at least once.
-- **Assign clear roles,** and check everyone is comfortable with theirs.
-- **Keep talking** between meetings (GroupMe, Teams).
-- **Rehearse together,** out loud, so hand-offs are smooth and gaps show up.
-- **Give each other specific feedback.** You share the grade.
-- **Have a backup plan** for a dead laptop or a sick teammate.
-- **Raise problems early.** If someone goes quiet, talk to them, then to the Team Leader or me **before** the deadline.
-:::
 
 ---
 
@@ -345,7 +239,7 @@ should move to a backup.
 ::: {.nonincremental}
 1. Form a team of four and pick a team name.
 2. Swap GT emails and set up a group chat.
-3. Choose a **tentative track**. Track A: list three candidate groups. Track B: pick an experiment and sketch both methods.
+3. Choose a **tentative track**. Track A: list three candidate groups from the [School of Physics research pages](https://physics.gatech.edu/research). Track B: pick an experiment and sketch both methods.
 4. Assign primary roles.
 5. Put your first in-person meeting on the calendar.
 :::
@@ -366,4 +260,48 @@ Collect team names and tracks on the way out (Team Leader) to set the presentati
 ## References
 
 ::: {#refs}
+:::
+
+---
+
+## Appendix: how tall is Tech Tower?
+
+Air pressure drops as you go up, because there is less air above you:
+
+$$\Delta P = \rho_{\text{air}} \, g \, \Delta h \quad\Rightarrow\quad \Delta h = \frac{\Delta P}{\rho_{\text{air}} \, g}$$
+
+With $\rho_{\text{air}} \approx 1.2~\text{kg/m}^3$, that is about **12 Pa (0.12 hPa) per meter**. Phone barometers can resolve changes this small.
+
+::: {.nonincremental}
+- Repeat the measurement several times. How much do the results scatter?
+- What else changes the pressure while you walk up the stairs? (Weather? Air conditioning?)
+- Then measure the height a **second, independent** way and compare.
+:::
+
+::: notes
+1.2 kg/m^3 times 9.8 m/s^2 is about 11.8 Pa per meter. Air density depends on temperature and
+humidity, which is a good source-of-error discussion. Don't give the actual height of the tower;
+that's what they're measuring.
+:::
+
+---
+
+## Appendix: do your two methods agree?
+
+Report each result as a value with an uncertainty: $h = 30 \pm 2~\text{m}$.
+
+::: {.nonincremental}
+- **Uncertainty** comes from repeating the measurement and looking at the spread, and from the limits of your instruments.
+- Two results **agree** if their difference is about the size of their combined uncertainty or smaller.
+- If they **don't** agree, that is not a failure. It is the most interesting part of your talk: what did one method miss?
+:::
+
+::: {.highlight-box}
+A careful "our methods disagree, and here is why" beats a suspiciously perfect match.
+:::
+
+::: notes
+The 30 +/- 2 m is a made-up example of the format, not the real height. Rule of thumb for the
+"combined uncertainty": add the two uncertainties in quadrature. They will see this formally in
+PHYS 2211/2231 lab.
 :::
