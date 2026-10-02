@@ -28,6 +28,7 @@ website:
           - supplemental/resume-cv.qmd
           - supplemental/technical-writing.qmd
           - supplemental/peer-feedback.qmd
+          - supplemental/team-contract.qmd
       - text: "Lectures"
         href: lectures/index.qmd
 

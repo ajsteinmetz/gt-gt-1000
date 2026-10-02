@@ -6,11 +6,20 @@ subtitle: "25% of course grade &middot; 250 points"
 <!-- TODO: add the Canvas assignment links once the course shell exists, and link the
      one-page Verification Form once it is written (see course-files/). -->
 
-## Purpose
-
 Physics is something people *do*: they build apparatus, take data, argue about what it means, and explain it to others. In this project, your team of four goes out and does some of that first-hand, then teaches the class what you found in a 15-minute presentation.
 
 You can't do this project from your desk. You will either visit a research group and interview the people in it, or take your own measurements around campus. The point is the experience, so the evidence of that experience (your photos, your data, your conversations) is the core of what you present.
+
+Unless a deliverable says otherwise, submit your work to Canvas as a **PDF** by **11:59 PM ET** on the due date. All teams submit slides by **November 6**, including teams presenting on November 13.
+
+## Deliverables
+
+| Deliverable | Due | Points | |
+|---|---|---|---|
+| Team Project Contract | Oct. 9 | 50 | [Open assignment](deliverables/team-project-contract.qmd) |
+| Team Project Slides | Nov. 6 | 100 | [Open assignment](deliverables/team-project-slides.qmd) |
+| Team Project Presentation | In class, Nov. 6 or Nov. 13 | 100 | &ndash; |
+| **Total** | | **250** | |
 
 ## Choose a Track
 
@@ -74,7 +83,7 @@ Your presentation should cover the question, both methods, your results with unc
 
 ## Roles
 
-Every team member has a primary role and **every member presents**. Roles divide the work; they do not excuse anyone from the rest of it.
+Every team member has a primary role and **every member presents**. Roles divide the work, but do not mean you shouldn't help one another.
 
 | Track A: Inside a Physics Lab | Track B: Measure Tech |
 |---|---|
@@ -107,19 +116,6 @@ The use of generative AI is strongly discouraged in this course, and it can't do
 | Nov. 6 | All slides due; Teams 1&ndash;2 present |
 | Nov. 13 | Teams 3&ndash;4 present |
 
-## What to Submit
-
-| Deliverable | Due | Points | |
-|---|---|---|---|
-| Team Project Contract | Oct. 9 | 50 | [Open assignment](deliverables/team-project-contract.qmd) |
-| Team Project Slides | In class, Nov. 6 or Nov. 13 | 100 | [Open assignment](deliverables/team-project-slides.qmd) |
-| Team Project Presentation | In class, Nov. 6 or Nov. 13 | 100 | [Open assignment](deliverables/team-project-slides.qmd) |
-| **Total** | | **250** | |
-
-- All teams submit slides by **November 6**, including teams presenting on November 13.
-- The file must be submitted as a PDF.
-- Upload the PDF directly to this Canvas assignment by the deadline.
-
 ## Expectations
 
 - **Start now.** Five weeks goes quickly, especially when you depend on someone else's calendar.
@@ -138,4 +134,5 @@ The use of generative AI is strongly discouraged in this course, and it can't do
 - [phyphox](https://phyphox.org/) (free phone sensor app for experiments)
 - [Invention Studio](https://inventionstudio.gatech.edu/)
 - [Naugle CommLab](https://commlab.gatech.edu/) (one-on-one help with presentations)
+- [Team Contracts](../supplemental/team-contract.qmd) (what goes in your contract)
 - [Peer Feedback](../supplemental/peer-feedback.qmd) (for giving each other useful feedback at rehearsal)

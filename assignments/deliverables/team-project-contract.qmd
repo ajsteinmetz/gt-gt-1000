@@ -7,9 +7,7 @@ subtitle: "Due: October 9 by 11:59 PM ET &middot; 5% of course grade"
 
 ## Purpose
 
-Most group projects that go wrong do so for predictable reasons: no one agreed on who does what, when the team meets, or what happens when someone stops responding. A team contract settles those questions at the start, while everyone still gets along.
-
-Your team of four will write and sign a contract for the [Team Project](../team-project.qmd). Teams are formed at the project kickoff in class on **October 2**.
+Your team of four will write and sign a contract for the [Team Project](../team-project.qmd). A contract settles who does what, when you meet, and what happens when someone stops responding, at the start, while everyone still gets along. Teams are formed at the project kickoff in class on **October 2**.
 
 ## What to Submit
 
@@ -18,27 +16,28 @@ Your team of four will write and sign a contract for the [Team Project](../team-
 
 ## Expectations
 
-Your contract should address each of the following:
+Your contract must address every section described in the [Team Contracts](../../supplemental/team-contract.qmd) guide:
 
-- **Team members and contact information.** Names and GT email addresses.
-- **Track and topic.** Which [track](../team-project.qmd#choose-a-track) your team chose, and:
-  - **Track A (Inside a Physics Lab):** your first-choice research group and professor, plus one or two backups, and whether you have contacted them yet. For a group outside the School of Physics, explain in two or three sentences how its work relates to physics.
-  - **Track B (Measure Tech):** the quantity you will measure and your two methods. If you are proposing an experiment that is not on the menu, describe it so it can be approved.
-- **Roles and tasks.** Each member's primary role (Track A: Liaison, Interview Lead, Science Lead, Media and Deck Lead; Track B: Project Manager, Lead Experimentalist, Data Analyst, Communications Lead) and what else each person is responsible for, including their section of the presentation. Everyone should do a fair share of the work.
-- **Meetings.** When and where the team will meet, including at least one in-person planning meeting and at least one full rehearsal before presenting.
-- **Communication.** The channel the team will use (e.g., GroupMe or Teams) and how quickly members are expected to respond.
-- **Internal deadlines.** Target dates for your lab visit and interview (Track A) or data collection, including the session the Team Leader will observe (Track B); your check-in with the Team Leader by **October 23**; and drafts and a final version ahead of the **November 6** slide deadline.
-- **Backup plan.** How the team will cover for technology failures or a member who is sick on presentation day.
-- **Conflict resolution.** What the team will do if a member stops communicating or contributing. The first step is talking with that member; if that does not resolve it, contact the Team Leader or instructor **before** the assignment is due.
-- **Signatures** of every team member, with the date.
+- Team members and contact information
+- Track and topic
+- Roles and tasks
+- Meetings
+- Communication
+- Internal deadlines
+- Backup plan
+- Conflict resolution
+- Signatures
+
+Be specific. The guide has examples of vague and specific commitments.
 
 ## Submission Checklist
 
-- Every section above is addressed.
+- Every section in the [Team Contracts](../../supplemental/team-contract.qmd) guide is addressed.
 - Every team member has signed and dated the contract.
 - The contract is submitted as a single PDF.
 
 ## Helpful Resources
 
+- [Team Contracts](../../supplemental/team-contract.qmd) (what goes in the contract)
 - [GT 1000 textbook: Group Presentations](https://sites.gatech.edu/gt1000-textbook/communication-skills/group-presentations/)
 - [Team Project overview](../team-project.qmd)
