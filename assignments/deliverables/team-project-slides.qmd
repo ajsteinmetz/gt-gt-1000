@@ -3,14 +3,30 @@ title: "Team Project Slides"
 subtitle: "Due: November 6 by 11:59 PM ET &middot; 10% of course grade"
 ---
 
-<!-- TODO: add the project topic, presentation length, slide-count limits, and the
-     grading rubric for both the slides and the in-class presentation. -->
+<!-- TODO: link the Verification Form once it is written (see course-files/). -->
 
 ## Purpose
 
-Your team will present its [Team Project](../team-project.qmd) to the class. This assignment is the slide deck. The in-class presentation itself is graded separately (100 points) on **November 6 or November 13**.
+Your team will present its [Team Project](../team-project.qmd) to the class. This assignment is the slide deck. The in-class presentation itself is graded separately (100 points) on **November 6 or November 13**; its rubric is below.
 
 Being a strong presenter is a skill you will use throughout your academic and professional career, whether you are defending a thesis, pitching an idea, or presenting research at a conference.
+
+## The Presentation
+
+- **Length: 15 minutes per team**, about 12 minutes of presentation and 3 minutes of questions. We will hold you to time, so rehearse with a timer.
+- **Every team member presents**, for roughly equal time. Plan your hand-offs.
+- **Questions** come from the class, the Team Leader, and the instructor, and may be directed to any team member.
+- Aim for about **10&ndash;15 content slides**, plus a title slide, a references slide, and the Verification Form slide.
+
+A typical structure:
+
+| Track A: Inside a Physics Lab | Track B: Measure Tech |
+|---|---|
+| The research question and why it matters | The question and why it is interesting |
+| How the group answers it: apparatus, methods, or models | Method 1 and Method 2: how you did them |
+| What you saw and learned on your visit | Your results, with uncertainties |
+| The people: their paths into physics | Do your methods agree? Why or why not? |
+| How a first-year can get involved | What went wrong, and what you would change |
 
 ## What to Submit
 
@@ -18,29 +34,53 @@ Being a strong presenter is a skill you will use throughout your academic and pr
 - **All teams submit by November 6**, including teams presenting on November 13.
 - One team member uploads the PDF to Canvas. Every member is responsible for confirming that it was submitted.
 
-TBD: presentation length and any slide limits.
-
 ## Expectations
 
 **Analyze.** Understand the assignment and your audience: your classmates. Define terms they may not know.
 
-**Research.** Use reliable sources and cite them on a final slide.
+**Show your experience.** Your deck must include the evidence described in the [Team Project](../team-project.qmd#evidence-of-your-work): your own dated photos or video of your team doing the work, and a photo or scan of the signed Verification Form as the last slide.
+
+**Research.** Use reliable sources and cite them on a references slide. Label any image that is not your own with its source.
 
 **Plan.** Give the presentation a clear beginning, middle, and end. Every slide should support the main point.
 
-**Design.** Keep text short; slides support what you say rather than repeat it. Use figures and images where they explain something better than words.
+**Design.** Keep text short; slides support what you say rather than repeat it. Use figures and images where they explain something better than words. For Track B, show your data in a plot with labeled axes and units.
 
 **Practice together.** Rehearse the full presentation as a team, out loud, at least once. This is how you catch gaps, redundancies, and rough hand-offs between speakers.
 
 **Present.** Every team member presents. Speak to the audience, make eye contact, and **never read your slides**.
 
-TBD: grading rubric.
+## Rubric
+
+### Slides (100 points)
+
+| Criterion | Points |
+|---|---|
+| **Content.** The question, approach, and findings are clear and accurate, and explained at the level of a first-year physics student. | 30 |
+| **Evidence of first-hand work.** Your own dated photos or video of the team doing the work, and the signed Verification Form. | 30 |
+| **Organization.** Clear beginning, middle, and end; each slide supports the main point. | 15 |
+| **Design.** Readable text, little of it; figures and plots that are labeled and explain something. | 15 |
+| **Sources.** Background and outside images are cited on a references slide. | 10 |
+| **Total** | **100** |
+
+### Presentation (100 points)
+
+| Criterion | Points |
+|---|---|
+| **Delivery.** Speakers talk to the audience, make eye contact, and do not read the slides. | 30 |
+| **Teamwork.** Every member presents a fair share; hand-offs are smooth. | 20 |
+| **Questions.** Any team member can answer questions about any part of the project. | 20 |
+| **Timing.** The presentation fits in the 15-minute slot. | 15 |
+| **Process.** The team completed its check-in with the Team Leader by October 23. | 15 |
+| **Total** | **100** |
 
 ## Submission Checklist
 
-- The deck has a title slide with the team name and all members' names.
-- Sources are cited on a final slide.
-- The team has rehearsed the full presentation together.
+- The deck has a title slide with the team name, the track, and all members' names.
+- The deck includes our own dated photos or video of the team doing the work.
+- The last slide is a photo or scan of the signed Verification Form.
+- Sources are cited on a references slide.
+- The team has rehearsed the full presentation together, with a timer.
 - The deck is submitted as a single PDF by November 6.
 
 ## Helpful Resources

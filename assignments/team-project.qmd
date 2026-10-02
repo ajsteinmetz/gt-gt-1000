@@ -3,14 +3,109 @@ title: "Team Project"
 subtitle: "25% of course grade &middot; 250 points"
 ---
 
-<!-- TODO: write this assignment. Replace every TBD below and add the Canvas
-     assignment link once the course shell exists. -->
+<!-- TODO: add the Canvas assignment links once the course shell exists, and link the
+     one-page Verification Form once it is written (see course-files/). -->
 
 ## Purpose
 
-TBD.
+Physics is something people *do*: they build apparatus, take data, argue about what it means, and explain it to others. In this project, your team of four goes out and does some of that first-hand, then teaches the class what you found in a 15-minute presentation.
 
-This project supports the course learning outcome that students *demonstrate the ability to lead and productively participate in collaborative projects*.
+You can't do this project from your desk. You will either visit a research group and interview the people in it, or take your own measurements around campus. The point is the experience, so the evidence of that experience (your photos, your data, your conversations) is the core of what you present.
+
+## Choose a Track
+
+Your team picks **one** track and names it in the [Team Project Contract](deliverables/team-project-contract.qmd).
+
+:::: {.columns}
+
+::: {.column width="45%"}
+**Track A: Inside a Physics Lab**
+
+Find a research group and a professor willing to host your team, visit, and interview the people who do the work.
+
+- Learn what question the group is trying to answer and how they go about it.
+- Meet the PI and, if possible, a grad student, postdoc, or undergraduate researcher.
+- Find out how a first-year student could get involved.
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+**Track B: Measure Tech**
+
+Use the campus as your laboratory. Measure one physical quantity **two independent ways**, then compare the results.
+
+- Take your own data with phones and simple equipment.
+- Estimate your uncertainties.
+- Decide whether your two methods agree, and explain why or why not.
+:::
+
+::::
+
+## Track A: Inside a Physics Lab
+
+**Finding a group is your team's job.** Start right away; professors are busy and may take a week to reply.
+
+- **Where to look.** Groups in the School of Physics are preferred. Browse the [School of Physics research pages](https://physics.gatech.edu/research), faculty profiles, and the seminar talks on the [events calendar](https://physics.gatech.edu/events). Groups outside the School of Physics (another Georgia Tech school, or outside Georgia Tech) are accepted if the work relates to physics. Explain the connection in your contract; the instructor approves it.
+- **Reaching out.** Read the group's website and at least one accessible article, news story, or talk about their work. Then send a short, professional email: who you are, why this group, what you are asking for (a visit and a 30-minute interview), and two or three times your team is free. List a first-choice group and one or two backups in your contract.
+- **The visit.** For an experimental group, tour the lab and see the apparatus; if you can, watch or help with a measurement. For a theoretical or computational group, **attending a research group meeting** takes the place of the lab visit.
+- **The interview.** Interview the PI and, if possible, a grad student, postdoc, or undergraduate researcher. Prepare questions in advance: about the science, about what goes wrong, and about how each person got there.
+- **Afterward.** Send a thank-you email within a day or two.
+
+Your presentation should cover the research question and why it matters, how the group answers it, the people and their paths, and how a first-year student can get involved (for example, through [UROP](https://urop.gatech.edu/)).
+
+## Track B: Measure Tech
+
+Choose one experiment from the menu below, or propose your own in your contract for approval. The free [phyphox](https://phyphox.org/) app turns your phone into a lab instrument (barometer, accelerometer, acoustic stopwatch, and more). Other apps include [Sensors Toolbox](https://play.google.com/store/apps/details?id=com.exatools.sensors), or [Physics Toolbox Sensor Suite](https://play.google.com/store/apps/details?id=com.chrystianvieyra.physicstoolboxsuite). 
+
+| Experiment | Method 1 | Method 2 |
+|---|---|---|
+| Height of Tech Tower (or Howey) | Phone barometer at the bottom and top | Shadows and trigonometry, or a pendulum hung from the top |
+| Local gravitational acceleration *g* | Long pendulum in a stairwell | Timing a dropped object with an acoustic stopwatch |
+| Radius of the Earth | "Two sunsets": watch the sunset from the ground, go up a tall building, and time the second sunset | Angle of the horizon below level from a rooftop |
+| Speed of sound | Echo off a large building wall | Two phones timing a sound over a measured distance |
+
+- **Take real data.** Repeat each measurement enough times to estimate its uncertainty. Record raw numbers, times, and conditions as you go.
+- **Build what you need.** You may make simple apparatus at the [Montgomery Machining Mall](https://www.me.gatech.edu/montgomery-machining-mall) or the [Invention Studio](https://inventionstudio.gatech.edu/).
+- **Be safe.** Use public spaces you are allowed to be in, follow building rules for roofs and stairwells, and never drop anything where people walk below.
+
+Your presentation should cover the question, both methods, your results with uncertainties, whether they agree, and what you would do differently.
+
+## Roles
+
+Every team member has a primary role and **every member presents**. Roles divide the work; they do not excuse anyone from the rest of it.
+
+| Track A: Inside a Physics Lab | Track B: Measure Tech |
+|---|---|
+| **Liaison** &mdash; outreach emails, scheduling, the thank-you note | **Project Manager** &mdash; schedule, internal deadlines, keeps the team on track |
+| **Interview Lead** &mdash; prepares and leads the interview questions | **Lead Experimentalist** &mdash; designs and runs the measurements |
+| **Science Lead** &mdash; background reading; explains the physics to the class | **Data Analyst** &mdash; uncertainties, plots, comparison of methods |
+| **Media and Deck Lead** &mdash; photos, slide design, final deck | **Communications Lead** &mdash; photos and video, slide design, final deck |
+
+## Evidence of Your Work
+
+Because this project is about first-hand experience, your presentation must show it.
+
+1. **Your own photos or video**, dated, of your team doing the work: in the lab or group meeting (Track A) or taking data (Track B). Ask before photographing anyone or anything in a lab.
+2. **A signed Verification Form.** The professor or lab host signs it after your visit (Track A). The Team Leader signs it after watching one of your data-collection sessions (Track B), so schedule that session with the Team Leader in advance. Include a photo or scan of the signed form as the last slide of your deck.
+3. **A check-in with the Team Leader by October 23.** Show your photos, interview notes or raw data, and progress against the contract.
+
+::: {.callout-important}
+## Generative AI
+The use of generative AI is strongly discouraged in this course, and it can't do this project for you. Your talk is built on your own visit, conversations, and data. Anything you present as your experience must actually be your experience.
+:::
+
+## Timeline
+
+| Date | Milestone |
+|---|---|
+| Oct. 2 | Project kickoff; teams formed. Track A teams start contacting groups. |
+| Oct. 9 | [Team Project Contract](deliverables/team-project-contract.qmd) due |
+| Oct. 12&ndash;30 | Visits and interviews (Track A) or data collection (Track B) |
+| Oct. 23 | Check-in with the Team Leader completed |
+| Nov. 6 | All slides due; Teams 1&ndash;2 present |
+| Nov. 13 | Teams 3&ndash;4 present |
 
 ## What to Submit
 
@@ -18,7 +113,7 @@ This project supports the course learning outcome that students *demonstrate the
 |---|---|---|---|
 | Team Project Contract | Oct. 9 | 50 | [Open assignment](deliverables/team-project-contract.qmd) |
 | Team Project Slides | In class, Nov. 6 or Nov. 13 | 100 | [Open assignment](deliverables/team-project-slides.qmd) |
-| Team Project Presentation | In class, Nov. 6 or Nov. 13 | 100 | &mdash; |
+| Team Project Presentation | In class, Nov. 6 or Nov. 13 | 100 | [Open assignment](deliverables/team-project-slides.qmd) |
 | **Total** | | **250** | |
 
 - All teams submit slides by **November 6**, including teams presenting on November 13.
@@ -27,13 +122,20 @@ This project supports the course learning outcome that students *demonstrate the
 
 ## Expectations
 
-TBD.
+- **Start now.** Five weeks goes quickly, especially when you depend on someone else's calendar.
+- **Meet in person.** Hold at least one in-person planning meeting and at least one full rehearsal before you present.
+- **Share the work.** Each member does a fair share and presents a fair share. If a teammate stops communicating, talk with them first, then contact the Team Leader or instructor **before** the deadline, not after.
+- **Be professional.** You represent this course and the School of Physics when you contact a professor or work in a shared space. Be on time, prepared, and thankful.
+- **Teach your classmates.** Your audience is first-year physics students. Define terms, and use your own photos and plots to explain what you saw.
+- **Cite your sources.** Background reading and any figures that are not your own are cited on a final references slide.
 
 ## Helpful Resources
 
-- TBD.
-
-## Submission Checklist
-
-- I have reviewed the document for clarity, formatting, spelling, and grammar.
-- I have submitted my work as a PDF.
+- [GT 1000 textbook: Group Presentations](https://sites.gatech.edu/gt1000-textbook/communication-skills/group-presentations/)
+- [GT 1000 textbook: Creating Effective Presentations](https://sites.gatech.edu/gt1000-textbook/communication-skills/creating-effective-presentations/)
+- [School of Physics research](https://physics.gatech.edu/research) and [events calendar](https://physics.gatech.edu/events)
+- [Undergraduate Research Opportunities Program (UROP)](https://urop.gatech.edu/)
+- [phyphox](https://phyphox.org/) (free phone sensor app for experiments)
+- [Invention Studio](https://inventionstudio.gatech.edu/)
+- [Naugle CommLab](https://commlab.gatech.edu/) (one-on-one help with presentations)
+- [Peer Feedback](../supplemental/peer-feedback.qmd) (for giving each other useful feedback at rehearsal)

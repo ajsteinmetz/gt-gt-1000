@@ -1,0 +1,369 @@
+---
+title: "Team Project Kickoff"
+subtitle: "GT 1000 &middot; Lecture 6"
+author: "Andrew J. Steinmetz"
+date: "October 2, 2026"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    footer: "GT 1000 &middot; Fall 2026 &middot; Section D03 &middot; Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+
+---
+
+## Front matter
+
+- How was the Montgomery Machining Mall tour? What would you build?
+- Keep your Degree Map handy for the advising meeting (due Oct. 30).
+
+---
+
+## Due dates
+
+| What | When | Points |
+|---|---|---|
+| [Team Project Contract](../assignments/deliverables/team-project-contract.qmd) | Oct. 9, 11:59 PM ET | 50 (5%) &middot; Team Project |
+| [Homework in LaTeX](../assignments/deliverables/latex-homework.qmd) | Oct. 16, 11:59 PM ET | 50 (5%) &middot; Academic Planning |
+| [Online Profile](../assignments/deliverables/online-profile.qmd) + Team Leader check-in | Oct. 23 | 75 (7.5%) &middot; Career Readiness |
+| [Team Project Slides](../assignments/deliverables/team-project-slides.qmd) (all teams) | Nov. 6, 11:59 PM ET | 100 (10%) &middot; Team Project |
+| Team Project Presentation | Nov. 6 or Nov. 13 | 100 (10%) &middot; Team Project |
+
+::: {.highlight-box}
+By the end of class today you will have a **team**, a **tentative track**, and a **first meeting** on the calendar.
+:::
+
+---
+
+## The project in one slide
+
+::: {.nonincremental}
+- **Teams of four.** You form them today.
+- **Pick a track.** Visit a research group (Track A) or take your own measurements (Track B).
+- **Do it first-hand.** Over the next four weeks.
+- **Teach the class.** A 15-minute presentation on Nov. 6 or Nov. 13.
+:::
+
+::: {.highlight-box}
+You can't do this project from your desk. The evidence of what you did (your photos, your data, your conversations) is the core of your talk.
+:::
+
+::: notes
+Full details are on the Team Project page: ../assignments/team-project.qmd. This project supports the
+course learning outcome on leading and participating in collaborative projects. It also previews the
+undergraduate research lecture on Nov. 20.
+:::
+
+---
+
+## Why do this as a team?
+
+Physics is a team sport.
+
+::: {.nonincremental}
+- Research groups divide work: someone builds, someone analyzes, someone writes, someone talks to collaborators.
+- Most of the hard problems in a group project are **people** problems: who does what, when you meet, what happens when someone goes quiet.
+- You will practice solving those now, when the stakes are 25% of a one-credit course.
+:::
+
+---
+
+## Part I: The two tracks {.section-slide background-color="#003057"}
+
+---
+
+## Track A: Inside a Physics Lab
+
+Find a research group, visit, and interview the people who do the work.
+
+::: {.nonincremental}
+- **Where:** School of Physics preferred. Elsewhere is fine if the work relates to physics.
+- **Experimental group:** tour the lab; watch a measurement if you can.
+- **Theory or computation:** attend a **research group meeting** instead.
+- **Interview** the PI and, if possible, a grad student or undergraduate researcher.
+:::
+
+::: {.highlight-box}
+**Finding a group is your team's job.** Start emailing this week; professors can take a week to reply.
+:::
+
+::: notes
+Groups outside the School of Physics need a short explanation of the physics connection in the
+contract, and my approval. The talk covers the research question, how the group answers it, the
+people and their paths, and how a first-year can get involved.
+:::
+
+---
+
+## Finding a group
+
+::: {.nonincremental}
+1. Browse the [School of Physics research pages](https://physics.gatech.edu/research) and faculty profiles.
+2. Look at recent seminar and colloquium speakers on the [events calendar](https://physics.gatech.edu/events).
+3. Ask upper-year students, your Team Leader, and the professors teaching your classes.
+4. Pick a first choice and **one or two backups**. All of them go in your contract.
+5. Before you email, read the group's website and one accessible article, news story, or talk.
+:::
+
+::: notes
+The Physics\@Tech talks on Oct. 16, 23, and 30 (tentative) are also a way to meet faculty.
+Encourage teams to spread out across research areas so the four presentations are not all on the
+same topic.
+:::
+
+---
+
+## Writing the email
+
+:::: {.columns}
+::: {.column width="55%"}
+::: {style="font-size: 0.7em; border: 1px solid #B3A369; padding: 0.6em 0.9em;"}
+**Subject:** GT 1000 first-years: request to visit your lab
+
+Dear Professor Lastname,
+
+We are four first-year Physics majors in GT 1000. For a class project, we would like to learn how your group studies *[topic]*. We read *[article or news story]* and were curious about *[one specific thing]*.
+
+Could we visit the lab (or sit in on a group meeting) and interview you for about 30 minutes? We are free *[two or three times]* between Oct. 12 and Oct. 30.
+
+Thank you for considering it,<br>
+*[Names]*
+:::
+:::
+::: {.column width="45%"}
+::: {.nonincremental}
+- **Short.** Fits on a phone screen.
+- **Specific.** Shows you read something.
+- **Easy to say yes to.** Clear ask, clear times.
+- **Professional.** GT email, no slang.
+- **Follow up** politely after about a week.
+- **Thank them** within a day or two of the visit.
+:::
+:::
+::::
+
+::: notes
+This is the same skill as emailing a professor about undergraduate research later. Point out that
+the Liaison sends the email but the whole team should read it first.
+:::
+
+---
+
+## Track B: Measure Tech
+
+Measure one physical quantity **two independent ways**, then compare.
+
+| Experiment | Method 1 | Method 2 |
+|---|---|---|
+| Height of Tech Tower (or Howey) | Phone barometer, bottom vs. top | Shadows and trigonometry, or a pendulum |
+| Local *g* | Long pendulum in a stairwell | Timed drop with an acoustic stopwatch |
+| Radius of the Earth | "Two sunsets": ground, then up a tall building | Angle of the horizon from a rooftop |
+| Speed of sound | Echo off a large building wall | Two phones over a measured distance |
+
+Or propose your own in your contract. Free phone apps such as [phyphox](https://phyphox.org/) turn your phone into a lab instrument [@staacks2018].
+
+::: notes
+Apparatus can be built at the Montgomery Machining Mall or the Invention Studio. Safety: public
+spaces only, follow building rules for roofs and stairwells, never drop anything where people walk.
+:::
+
+---
+
+## Example: how tall is Tech Tower?
+
+Air pressure drops as you go up, because there is less air above you:
+
+$$\Delta P = \rho_{\text{air}} \, g \, \Delta h \quad\Rightarrow\quad \Delta h = \frac{\Delta P}{\rho_{\text{air}} \, g}$$
+
+With $\rho_{\text{air}} \approx 1.2~\text{kg/m}^3$, that is about **12 Pa (0.12 hPa) per meter**. Phone barometers can resolve changes this small.
+
+::: {.nonincremental}
+- Repeat the measurement several times. How much do the results scatter?
+- What else changes the pressure while you walk up the stairs? (Weather? Air conditioning?)
+- Then measure the height a **second, independent** way and compare.
+:::
+
+::: notes
+1.2 kg/m^3 times 9.8 m/s^2 is about 11.8 Pa per meter. Air density depends on temperature and
+humidity, which is a good source-of-error discussion. Don't give the actual height of the tower;
+that's what they're measuring.
+:::
+
+---
+
+## Do your two methods agree?
+
+Report each result as a value with an uncertainty: $h = 30 \pm 2~\text{m}$.
+
+::: {.nonincremental}
+- **Uncertainty** comes from repeating the measurement and looking at the spread, and from the limits of your instruments.
+- Two results **agree** if their difference is about the size of their combined uncertainty or smaller.
+- If they **don't** agree, that is not a failure. It is the most interesting part of your talk: what did one method miss?
+:::
+
+::: {.highlight-box}
+A careful "our methods disagree, and here is why" beats a suspiciously perfect match.
+:::
+
+::: notes
+The 30 +/- 2 m is a made-up example of the format, not the real height. Rule of thumb for the
+"combined uncertainty": add the two uncertainties in quadrature. They will see this formally in
+PHYS 2211/2231 lab.
+:::
+
+---
+
+## Part II: How it gets graded {.section-slide background-color="#003057"}
+
+---
+
+## Roles
+
+Every member has a primary role, and **every member presents**.
+
+| Track A: Inside a Physics Lab | Track B: Measure Tech |
+|---|---|
+| **Liaison** &mdash; outreach, scheduling, thank-you note | **Project Manager** &mdash; schedule, internal deadlines |
+| **Interview Lead** &mdash; prepares and leads the questions | **Lead Experimentalist** &mdash; designs and runs measurements |
+| **Science Lead** &mdash; background; explains the physics | **Data Analyst** &mdash; uncertainties, plots, comparison |
+| **Media and Deck Lead** &mdash; photos, slides | **Communications Lead** &mdash; photos, video, slides |
+
+::: {.highlight-box}
+Roles divide the work. They do not excuse anyone from the rest of it.
+:::
+
+---
+
+## Evidence of your work
+
+::: {.nonincremental}
+1. **Your own dated photos or video** of your team doing the work. Ask before photographing people or equipment in a lab.
+2. **A signed Verification Form:** from your lab host (Track A), or from the Team Leader after watching one data-collection session (Track B). It goes on the last slide.
+3. **A check-in with the Team Leader by Oct. 23:** photos, notes or raw data, and progress against your contract.
+:::
+
+::: {.highlight-box}
+Generative AI is strongly discouraged in this course, and it can't visit a lab or take your data. Anything you present as your experience must actually be your experience.
+:::
+
+::: notes
+Track B teams: schedule the observed session with Elouan early; one Team Leader, several teams.
+The Verification Form is still being written; it will be posted on the Team Project page.
+:::
+
+---
+
+## The presentation
+
+::: {.nonincremental}
+- **15 minutes:** about 12 minutes talking, 3 minutes of questions. We will keep time.
+- **Everyone presents,** roughly equally. Plan the hand-offs.
+- **Questions** can go to any team member about any part of the project.
+- **10&ndash;15 content slides,** plus title, references, and the Verification Form.
+- **All slides are due Nov. 6,** even if you present on Nov. 13.
+:::
+
+| Slides (100) | Presentation (100) |
+|---|---|
+| Content 30 &middot; Evidence 30 &middot; Organization 15 &middot; Design 15 &middot; Sources 10 | Delivery 30 &middot; Teamwork 20 &middot; Questions 20 &middot; Timing 15 &middot; Check-in 15 |
+
+---
+
+## Part III: Working as a team {.section-slide background-color="#003057"}
+
+---
+
+## What strong teams do
+
+From the GT 1000 textbook [@gt1000_group]:
+
+::: {.nonincremental}
+- **Meet in person** to plan, at least once.
+- **Assign clear roles,** and check everyone is comfortable with theirs.
+- **Keep talking** between meetings (GroupMe, Teams).
+- **Rehearse together,** out loud, so hand-offs are smooth and gaps show up.
+- **Give each other specific feedback.** You share the grade.
+- **Have a backup plan** for a dead laptop or a sick teammate.
+- **Raise problems early.** If someone goes quiet, talk to them, then to the Team Leader or me **before** the deadline.
+:::
+
+---
+
+## The Team Project Contract
+
+Due **Oct. 9, 11:59 PM ET** &middot; [Team Project Contract](../assignments/deliverables/team-project-contract.qmd)
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.nonincremental}
+- Names and GT emails
+- Track and topic (Track A: first choice + backups; Track B: quantity + two methods)
+- Roles and tasks
+- Meetings, including a rehearsal
+:::
+:::
+::: {.column width="50%"}
+::: {.nonincremental}
+- Communication channel and response time
+- Internal deadlines, including the Oct. 23 check-in
+- Backup plan
+- Conflict resolution
+- Everyone's signature and date
+:::
+:::
+::::
+
+::: {.highlight-box}
+A contract settles who does what **now**, while everyone still gets along.
+:::
+
+---
+
+## Timeline
+
+| Date | Milestone |
+|---|---|
+| **Oct. 2** | Today: teams formed. Track A teams start emailing. |
+| **Oct. 9** | Contract due |
+| Oct. 12&ndash;30 | Visits and interviews, or data collection |
+| **Oct. 23** | Team Leader check-in done |
+| **Nov. 6** | All slides due; Teams 1&ndash;2 present |
+| **Nov. 13** | Teams 3&ndash;4 present |
+
+::: notes
+Five weeks total. Track A teams that haven't heard back from their first choice by about Oct. 12
+should move to a backup.
+:::
+
+---
+
+## Today: form your team
+
+::: {.nonincremental}
+1. Form a team of four and pick a team name.
+2. Swap GT emails and set up a group chat.
+3. Choose a **tentative track**. Track A: list three candidate groups. Track B: pick an experiment and sketch both methods.
+4. Assign primary roles.
+5. Put your first in-person meeting on the calendar.
+:::
+
+::: {.highlight-box}
+Before you leave: tell the Team Leader your team name, members, and tentative track.
+:::
+
+::: notes
+Decide before class whether teams self-select or are assigned. Try to end up with no more than two
+teams on the same Track B experiment, and steer Track A teams toward different research areas.
+Collect team names and tracks on the way out (Team Leader) to set the presentation order (Teams
+1-2 on Nov. 6, Teams 3-4 on Nov. 13).
+:::
+
+---
+
+## References
+
+::: {#refs}
+:::
