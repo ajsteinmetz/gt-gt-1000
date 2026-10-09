@@ -1,0 +1,320 @@
+---
+title: "LaTeX and Overleaf"
+subtitle: "GT 1000 &middot; Lecture 7"
+author: "Andrew J. Steinmetz"
+date: "October 9, 2026"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    footer: "GT 1000 &middot; Fall 2026 &middot; Section D03 &middot; Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+
+---
+
+## Due dates
+
+| What | When | Points |
+|---|---|---|
+| [Team Project Contract](../assignments/deliverables/team-project-contract.qmd) | **Tonight**, Oct. 9, 11:59 PM ET | 50 (5%) &middot; Team Project |
+| [Homework in LaTeX](../assignments/deliverables/latex-homework.qmd) &mdash; `Lastname-Firstname-LaTeX.pdf` and `.tex` | Oct. 16, 11:59 PM ET | 50 (5%) &middot; Academic Planning |
+| [Online Profile](../assignments/deliverables/online-profile.qmd) | Oct. 23, 11:59 PM ET | 75 (7.5%) &middot; Career Readiness |
+| [Advising Meeting & Spring 2027 Plan](../assignments/deliverables/advising-spring-plan.qmd) | Oct. 30, 11:59 PM ET | 60 (6%) &middot; Academic Planning |
+| [Team Project Slides](../assignments/deliverables/team-project-slides.qmd) and Presentation | Slides Nov. 6; talk Nov. 6 or Nov. 13 | 100 + 100 (20%) &middot; Team Project |
+
+::: notes
+Team Leader check-ins for the Team Project are also due Oct. 23. Remind teams that every member
+signs the contract before it is submitted tonight.
+:::
+
+---
+
+## What is LaTeX, and why Overleaf?
+
+:::: {.columns}
+::: {.column width="52%"}
+::: {.nonincremental}
+- **LaTeX** is plain text with markup, *compiled* into a PDF.
+- You write what you *mean*; LaTeX does the layout.
+- **Physicists use it** for equations, numbering, cross-references, and bibliographies.
+- **Overleaf** is LaTeX in your browser. Free with your GT email; nothing to install.
+:::
+:::
+::: {.column width="48%"}
+::: {style="font-size: 1.25em;"}
+```latex
+\section{Newton's second law}
+The net force is $F = ma$, so
+\begin{equation}
+  a = \frac{F}{m}.
+\end{equation}
+```
+:::
+
+::: {style="font-size: 0.7em; border: 1px solid #B3A369; padding: 0.4em 0.9em;"}
+**1&nbsp;&nbsp;Newton's second law**
+
+The net force is $F = ma$, so
+$$a = \frac{F}{m}. \tag{1}$$
+:::
+:::
+::::
+
+::: {.cite-note}
+Source: [@latexproject; @overleaf_learn30]
+:::
+
+::: notes
+The right column is source on top and output below. Point out that the section number and the
+equation number were not typed; LaTeX assigned them. Contrast with Word: what you see is what you
+get, versus what you mean is what you get. Journals (APS, arXiv), theses, and many grant proposals
+expect LaTeX. Overleaf also gives shared editing, version history, and templates (lab reports, CVs,
+theses). A local install (TeX Live or MiKTeX plus an
+editor) is an option later, but Overleaf is all they need for this course. Check before class that
+signing up with a GT email still links to Georgia Tech's institutional Overleaf account.
+:::
+
+---
+
+## Anatomy of a LaTeX document
+
+:::: {.columns}
+::: {.column width="58%"}
+::: {style="font-size: 1.15em;"}
+```latex
+\documentclass[12pt, letterpaper]{article}
+\usepackage{amsmath}   % better math
+\usepackage{graphicx}  % images
+\title{PHYS 2211, HW 5, Problem 3}
+\author{Your Name}
+\date{\today}
+
+\begin{document}
+\maketitle
+\section{Problem Statement}
+A ball is launched at speed $v_0$ and
+angle $\theta$ above level ground.
+Find its \textbf{range} $R$.
+\end{document}
+```
+:::
+:::
+::: {.column width="42%"}
+::: {.nonincremental}
+- **Preamble:** class, packages, title.
+- **Body:** what appears on the page.
+- Commands start with `\`.
+- `{}` holds arguments; `[]` holds options.
+- Environments: `\begin` &hellip; `\end`.
+- `%` starts a comment.
+:::
+:::
+::::
+
+::: {.cite-note}
+Source: [@oetiker2021]
+:::
+
+::: notes
+The preamble is everything before \begin{document}. Blank lines separate paragraphs; extra spaces
+and single line breaks are ignored. LaTeX ignores everything after a % on that line.
+:::
+
+---
+
+## Live demo: building a homework note
+
+:::: {.columns}
+::: {.column width="50%"}
+::: {.nonincremental}
+1. **New Project &rarr; Blank Project**
+2. Title, author, `\maketitle`
+3. Three `\section`s
+4. A list: `itemize`
+:::
+:::
+::: {.column width="50%"}
+::: {.nonincremental}
+5. Equations: `\label`, `\eqref`
+6. A figure with a `\caption`
+7. Break it; read the error
+8. **Download** PDF and source
+:::
+:::
+::::
+
+::: {.highlight-box}
+Open [Overleaf](https://www.overleaf.com/) and follow along. By the end, you will have a starting point for the [Homework in LaTeX](../assignments/deliverables/latex-homework.qmd) assignment.
+:::
+
+::: {.cite-note}
+Source: [@overleaf_learn30; @overleaf_images]
+:::
+
+::: notes
+Before class: build the finished demo project once, download it as a zip, and keep a PDF of it in
+case the Wi-Fi or Overleaf is down. Have a photo of a hand-drawn trajectory sketch ready to upload
+(trajectory.png).
+
+Worked problem (PHYS 2211 style): a ball is launched from level ground with speed v0 at angle
+theta. Find its range R.
+
+Step 4, list of given quantities:
+
+```latex
+\begin{itemize}
+  \item $v_0$: launch speed (m/s)
+  \item $\theta$: launch angle above the horizontal
+  \item $g = 9.8~\text{m/s}^2$: gravitational acceleration
+\end{itemize}
+```
+
+Step 5, the equation and a reference back to it:
+
+```latex
+The ball lands when $y = 0$, at $t = 2 v_0 \sin\theta / g$.
+Multiplying by the horizontal speed $v_0 \cos\theta$ gives
+\begin{equation}
+  R = \frac{v_0^2 \sin 2\theta}{g}.
+  \label{eq:range}
+\end{equation}
+Equation~\eqref{eq:range} is largest at $\theta = 45^\circ$.
+```
+
+Step 6, the figure:
+
+```latex
+\begin{figure}[h]
+  \centering
+  \includegraphics[width=0.5\textwidth]{trajectory.png}
+  \caption{Trajectory of the ball.}
+  \label{fig:traj}
+\end{figure}
+```
+
+Step 7, three breaks: (1) type "100% of the time" in a sentence; there is no error, the rest of the
+line silently disappears. Fix with a backslash before the percent sign. (2) Type v_0 outside math
+and show "Missing \$ inserted." (3) Delete a closing brace and show how the log points to the line.
+
+Interpretation section (say it, maybe type it): units are (m/s)^2 / (m/s^2) = m; R = 0 at theta = 0
+and at 90 degrees; v0 = 10 m/s at 45 degrees gives about 10.2 m, which is reasonable for a thrown
+ball.
+:::
+
+---
+
+## Writing math
+
+:::: {.columns}
+::: {.column width="50%"}
+| You type | You get |
+|---|---|
+| `x^2`, `v_0`, `x_{\max}` | $x^2$, $v_0$, $x_{\max}$ |
+| `\frac{a}{b}`, `\sqrt{2gh}` | $\frac{a}{b}$, $\sqrt{2gh}$ |
+| `\theta`, `\omega`, `\Delta E` | $\theta$, $\omega$, $\Delta E$ |
+| `\vec{F}`, `\hat{x}` | $\vec{F}$, $\hat{x}$ |
+| `\int_0^T v\,dt` | $\int_0^T v\,dt$ |
+| `\approx`, `\pm`, `\times` | $\approx$, $\pm$, $\times$ |
+| `9.8~\text{m/s}^2` | $9.8~\text{m/s}^2$ |
+:::
+::: {.column width="50%"}
+**Inline**, inside a sentence: `$...$`
+
+**Displayed and numbered:**
+
+::: {style="font-size: 1.1em;"}
+```latex
+\begin{equation}
+  R = \frac{v_0^2 \sin 2\theta}{g}
+  \label{eq:range}
+\end{equation}
+```
+:::
+
+**Refer back:** `Eq.~\eqref{eq:range}` gives "Eq. (1)", and the number updates itself.
+:::
+::::
+
+::: {.highlight-box}
+Use `equation*` or `\[...\]` for unnumbered equations.
+:::
+
+::: {.cite-note}
+Source: [@overleaf_math] &middot; Can't find a symbol? Draw it in Detexify [@detexify].
+:::
+
+::: notes
+\eqref, equation*, and \text all need \usepackage{amsmath}. Detexify lets you draw a symbol and
+gives you the command.
+:::
+
+---
+
+## When it won't compile
+
+| Message | Usual cause | Fix |
+|---|---|---|
+| `Undefined control sequence` | Typo in a command, or a missing package | Check spelling; add the `\usepackage` |
+| `Missing $ inserted` | `^`, `_`, or Greek outside math | Wrap it in `$...$` |
+| `Runaway argument` | A `{` with no matching `}` | Find and close the brace |
+| Text vanishes after `%` | `%` starts a comment | Write `\%` (also `\&`, `\$`, `\#`, `\_`) |
+| `File not found` | Image not uploaded, or the name differs | Match the file name exactly |
+
+::: {.highlight-box}
+**Recompile often.** Fix the **first** error first; the log gives you the line number.
+:::
+
+::: notes
+Overleaf's log panel links each error to its line in the editor. Errors often cascade: one missing
+brace can produce ten messages, and fixing the first one clears the rest.
+:::
+
+---
+
+## Writing up a solution
+
+:::: {.columns}
+::: {.column width="45%"}
+::: {.nonincremental}
+- Write for a reader who has not seen the assignment.
+- Define every symbol the first time it appears, with units.
+- Put words between equations. Equations are part of sentences and take punctuation.
+- Check your answer, units, size, and limiting cases.
+- Give every figure a **caption** and refer to it in text.
+:::
+:::
+::: {.column width="55%"}
+::: {style="font-size: 0.7em; border: 1px solid #B3A369; padding: 0.4em 0.9em;"}
+**Less effective**
+
+$y = v_0 \sin\theta \, t - \tfrac{1}{2} g t^2 = 0$<br>
+$t = 2 v_0 \sin\theta / g$<br>
+$R = v_0^2 \sin 2\theta / g$
+:::
+
+::: {style="font-size: 0.7em; border: 1px solid #B3A369; padding: 0.4em 0.9em; margin-top: 0.5em;"}
+**More effective**
+
+The ball lands when its height returns to zero, $v_0 \sin\theta \, t - \tfrac{1}{2} g t^2 = 0$, so its flight time is $t = 2 v_0 \sin\theta / g$. Multiplying by its horizontal speed $v_0 \cos\theta$ gives the range
+$$R = \frac{v_0^2 \sin 2\theta}{g}. \tag{1}$$
+At $\theta = 0$ the range is zero, as expected, and it is largest at $\theta = 45^\circ$.
+:::
+:::
+::::
+
+::: notes
+These are the habits behind the Problem Statement, Solution, and Interpretation sections of the
+assignment. For the homework, the problem comes from any technical course they are taking this
+semester. The solution must be their own work and follow that course's collaboration policy.
+Upload both the PDF and the .tex to Canvas.
+:::
+
+---
+
+## References
+
+::: {#refs}
+:::
