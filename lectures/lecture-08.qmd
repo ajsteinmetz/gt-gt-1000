@@ -89,19 +89,19 @@ addition for physics majors.
 :::: {.columns}
 ::: {.column width="55%"}
 ::: {.nonincremental}
-- **Personalize every invitation:** where you met and why you're connecting.
-- **Connect within a day** of meeting someone: a recruiter, a speaker, an alum.
-- Join groups such as **Georgia Tech Alumni**.
-- Put your profile URL on your **resume** and in your **email signature**.
+- **Personalize invitations:** where you met and why you're connecting.
+- Connect within a day of meeting someone: a recruiter, a speaker, an alum.
+- Join groups such as Georgia Tech clubs.
+- Put your profile URL on your resume.
 :::
 :::
 ::: {.column width="45%"}
 ::: {style="font-size: 0.7em; border: 1px solid #B3A369; padding: 0.4em 0.9em;"}
-"Hi Dr. Lee, I'm a first-year Physics major in GT 1000. I enjoyed your Physics\@Tech talk today, especially the part on detector calibration. I'd like to keep up with your group's work."
+"Hi Dr. Lastname, I'm a first-year Physics major in GT 1000. I enjoyed your talk today, especially the part on solar wind."
 :::
 
 ::: {.highlight-box}
-Today's speaker is a good first connection. Send the request tonight.
+Connect with people early and often &mdash; it's a "rolodex" of people you know professionally. Who knows when you'll find a need to message them.
 :::
 :::
 ::::
@@ -129,8 +129,6 @@ LinkedIn request, and a thank-you note after any meeting is never wasted.
 1. Your LinkedIn profile, saved with **Save to PDF**
 2. Optional URLs: website, GitHub, portfolio
 :::
-
-**No LinkedIn?** Submit the other professional materials instead.
 :::
 ::: {.column width="50%"}
 **Save to PDF** (desktop browser):
@@ -142,6 +140,8 @@ LinkedIn request, and a thank-you note after any meeting is never wasted.
 :::
 :::
 ::::
+
+**Don't want LinkedIn?** Submit the other professional materials instead.
 
 ::: {.highlight-box}
 [Online Profile](../assignments/deliverables/online-profile.qmd): due **Oct. 23, 11:59 PM ET** &middot; 75 points (7.5%) &middot; Career Readiness
