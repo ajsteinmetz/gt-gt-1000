@@ -1,5 +1,6 @@
 # Quarto build artifacts
 *.pdf
+!course-files/verification-form-latex/*.pdf
 *.html
 
 # LaTeX build artifacts

@@ -3,8 +3,6 @@ title: "Team Project Slides"
 subtitle: "Due: November 6 by 11:59 PM ET &middot; 10% of course grade"
 ---
 
-<!-- TODO: link the Verification Form once it is written (see course-files/). -->
-
 ## Purpose
 
 Your team will present its [Team Project](../team-project.qmd) to the class. This assignment is the slide deck. The in-class presentation itself is graded separately (100 points) on **November 6 or November 13**; its rubric is below.
@@ -38,7 +36,7 @@ A typical structure:
 
 **Analyze.** Understand the assignment and your audience: your classmates. Define terms they may not know.
 
-**Show your experience.** Your deck must include the evidence described in the [Team Project](../team-project.qmd#evidence-of-your-work): your own dated photos or video of your team doing the work, and a photo or scan of the signed Verification Form as the last slide.
+**Show your experience.** Your deck must include the evidence described in the [Team Project](../team-project.qmd#evidence-of-your-work): your own dated photos or video of your team doing the work, and a photo or scan of the [Verification Form](../../course-files/verification-form-latex/gt-1000-team-project-verification-form.pdf), signed in both parts, as the last slide.
 
 **Research.** Use reliable sources and cite them on a references slide. Label any image that is not your own with its source.
 
@@ -57,7 +55,7 @@ A typical structure:
 | Criterion | Points |
 |---|---|
 | **Content.** The question, approach, and findings are clear and accurate, and explained at the level of a first-year physics student. | 30 |
-| **Evidence of first-hand work.** Your own dated photos or video of the team doing the work, and the signed Verification Form. | 30 |
+| **Evidence of first-hand work.** Your own dated photos or video of the team doing the work, and the Verification Form, signed in both parts. | 30 |
 | **Organization.** Clear beginning, middle, and end; each slide supports the main point. | 15 |
 | **Design.** Readable text, little of it; figures and plots that are labeled and explain something. | 15 |
 | **Sources.** Background and outside images are cited on a references slide. | 10 |
@@ -71,14 +69,14 @@ A typical structure:
 | **Teamwork.** Every member presents a fair share; hand-offs are smooth. | 20 |
 | **Questions.** Any team member can answer questions about any part of the project. | 20 |
 | **Timing.** The presentation fits in the 15-minute slot. | 15 |
-| **Process.** The team completed its check-in with the Team Leader by October 23. | 15 |
+| **Process.** The team completed its check-in with the Team Leader by October 30 (Part 2 of the Verification Form is signed). | 15 |
 | **Total** | **100** |
 
 ## Submission Checklist
 
 - The deck has a title slide with the team name, the track, and all members' names.
 - The deck includes our own dated photos or video of the team doing the work.
-- The last slide is a photo or scan of the signed Verification Form.
+- The last slide is a photo or scan of the Verification Form, signed in both parts.
 - Sources are cited on a references slide.
 - The team has rehearsed the full presentation together, with a timer.
 - The deck is submitted as a single PDF by November 6.

@@ -26,7 +26,7 @@ format:
 | [Team Project Slides](../assignments/deliverables/team-project-slides.qmd) and Presentation | Slides Nov. 6; talk Nov. 6 or Nov. 13 | 100 + 100 (20%) &middot; Team Project |
 
 ::: notes
-Team Leader check-ins for the Team Project are also due Oct. 23. Remind teams that every member
+Team Leader check-ins for the Team Project are also due Oct. 30. Remind teams that every member
 signs the contract before it is submitted tonight.
 :::
 

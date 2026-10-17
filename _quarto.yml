@@ -4,6 +4,8 @@ project:
     - "*.qmd"
     - "!planning/"
     - "!lectures/figs/"
+  resources:
+    - course-files/verification-form-latex/gt-1000-team-project-verification-form.pdf
 
 website:
   title: "GT 1000"

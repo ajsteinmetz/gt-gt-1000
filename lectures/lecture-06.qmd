@@ -156,8 +156,8 @@ Roles divide the work. They do not excuse anyone from the rest of it.
 
 ::: {.nonincremental}
 1. **Your own dated photos or video** of your team doing the work. Ask before photographing people or equipment in a lab.
-2. **A signed Verification Form:** from your lab host (Track A), or from the Team Leader after watching one data-collection session (Track B). It goes on the last slide.
-3. **A check-in with the Team Leader by Oct. 23:** photos, notes or raw data, and progress against your contract.
+2. **A Verification Form, signed twice:** first by your lab host (Track A) or by the Team Leader after watching one data-collection session (Track B); then by the Team Leader at your check-in. It goes on the last slide.
+3. **A check-in with the Team Leader by Oct. 30:** photos, notes or raw data, and progress against your contract.
 :::
 
 ::: {.highlight-box}
@@ -166,7 +166,7 @@ Generative AI is strongly discouraged in this course, and it can't visit a lab o
 
 ::: notes
 Track B teams: schedule the observed session with Elouan early; one Team Leader, several teams.
-The Verification Form is still being written; it will be posted on the Team Project page.
+The Verification Form (PDF) is linked from the Team Project page. Part 1: host or Team Leader; Part 2: Team Leader at the Oct. 30 check-in. Either part may be signed first.
 :::
 
 ---
@@ -202,7 +202,7 @@ Due **Oct. 9, 11:59 PM ET** &middot; [Team Project Contract](../assignments/deli
 ::: {.column width="50%"}
 ::: {.nonincremental}
 - Communication channel and response time
-- Internal deadlines, including the Oct. 23 check-in
+- Internal deadlines, including the Oct. 30 check-in
 - Backup plan
 - Conflict resolution
 - Everyone's signature and date
@@ -223,7 +223,7 @@ A contract settles who does what **now**, while everyone still gets along.
 | **Oct. 2** | Today: teams formed. Track A teams start emailing. |
 | **Oct. 9** | Contract due |
 | Oct. 12&ndash;30 | Visits and interviews, or data collection |
-| **Oct. 23** | Team Leader check-in done |
+| **Oct. 30** | Team Leader check-in done |
 | **Nov. 6** | All slides due; Teams 1&ndash;2 present |
 | **Nov. 13** | Teams 3&ndash;4 present |
 

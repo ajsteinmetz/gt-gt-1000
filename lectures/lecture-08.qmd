@@ -26,7 +26,7 @@ format:
 
 ::: notes
 We share today's period with the first Physics\@Tech talk, so keep this to about 15 minutes.
-Team Leader check-ins for the Team Project are due Oct. 23, the same day as the Online Profile.
+Team Leader check-ins for the Team Project are due Oct. 30.
 :::
 
 ---

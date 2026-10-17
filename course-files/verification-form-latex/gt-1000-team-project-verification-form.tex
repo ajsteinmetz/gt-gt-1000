@@ -1,0 +1,156 @@
+\documentclass[10pt]{article}
+
+\usepackage[margin=0.75in,top=0.5in,bottom=0.5in,headsep=12pt,includehead,includefoot]{geometry}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{enumitem}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage[table]{xcolor}
+\usepackage{microtype}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+
+\setlength{\headheight}{14pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.35em}
+
+\definecolor{GTGold}{HTML}{B3A369}
+\definecolor{GTNavy}{HTML}{003057}
+\definecolor{GTLightGold}{HTML}{F9F6E5} % Diploma
+\definecolor{GTGray}{HTML}{54585A}      % Gray Matter
+\definecolor{GTLightGray}{HTML}{D6DBD4} % Pi Mile
+
+\titleformat{\section}
+  {\large\bfseries\color{GTNavy}}
+  {}{0pt}{}
+\titlespacing*{\section}{0pt}{0.5em}{0.2em}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\textcolor{black}{GT 1000}}
+\fancyhead[R]{\textcolor{black}{First-Year Seminar, Physics}}
+\fancyfoot[L]{\textcolor{black}{Georgia Institute of Technology}}
+\renewcommand{\headrulewidth}{0.2pt}
+\renewcommand{\footrulewidth}{0.2pt}
+
+% Fill-in field: bold label followed by a rule running to the end of the cell.
+\newcommand{\field}[1]{\textbf{#1}~\hrulefill{}}
+
+% Ruled writing space: #1 lines, spaced for handwriting.
+\newcounter{linecount}
+\newcommand{\lines}[1]{%
+  \par\vspace{0.1em}%
+  \setcounter{linecount}{0}%
+  \loop\ifnum\value{linecount}<#1\relax
+    \vspace{0.3in}%
+    \noindent\textcolor{GTLightGray}{\rule{\textwidth}{0.4pt}}\par
+    \stepcounter{linecount}%
+  \repeat
+}
+
+% Small italic gray cue text.
+\newcommand{\cue}[1]{{\small\itshape\color{GTGray}#1}}
+
+% Empty box to tick by hand.
+\newcommand{\checkbox}{\raisebox{-0.1em}{\large$\square$}~}
+
+% Checklist without bullets; each item starts with a box.
+\newenvironment{checklist}
+  {\begin{itemize}[label={\checkbox}, leftmargin=1.6em, itemsep=0.05em, topsep=0.2em]}
+  {\end{itemize}}
+
+% Two-column row of fill-in fields.
+\newcommand{\fieldrow}[2]{\field{#1} & \field{#2}}
+\newenvironment{fields}
+  {\tabularx{\textwidth}{@{}X@{\hspace{2em}}X@{}}}
+  {\endtabularx}
+
+\begin{document}
+
+\noindent\textcolor{GTGold}{\rule{\textwidth}{4pt}}
+\vspace{-0.2em}
+
+\begingroup
+\setlength{\fboxsep}{10pt}
+\noindent\colorbox{GTLightGold}{%
+\parbox{\dimexpr\textwidth-2\fboxsep\relax}{%
+    {\LARGE\bfseries\textcolor{GTNavy}{Team Project Verification Form}}
+}}
+\endgroup
+
+\vspace{0.6em}
+
+\begin{fields}
+\textbf{Track}~~\checkbox A: Physics Lab~~~\checkbox B: Measure Tech \\[1.3em]
+\fieldrow{Member and role}{Member and role} \\[1.3em]
+\fieldrow{Member and role}{Member and role} \\
+\end{fields}
+
+\vspace{0.3em}
+
+\noindent\textcolor{GTGold}{\rule{\textwidth}{1pt}}
+
+\vspace{2.2em}
+\section*{Part 1: Activity verification \cue{\normalsize(complete the column for your track)}}
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+{\bfseries\color{GTNavy}Track A: Inside a Physics Lab}\par
+\cue{Signed by the professor or lab host after the visit.}\par
+\vspace{0.6em}
+\field{Group/lab}\par\vspace{0.7em}
+\field{School or dept.}\par\vspace{0.7em}
+\field{Date of visit}\par
+\end{minipage}%
+\hfill
+\begin{minipage}[t]{0.48\textwidth}
+{\bfseries\color{GTNavy}Track B: Measure Tech}\par
+\cue{Signed by the Team Leader at a data session.}\par
+\vspace{0.6em}
+\field{Experiment}\par\vspace{0.7em}
+\field{Location}\par\vspace{0.7em}
+\field{Date of session}\par
+\end{minipage}
+
+\vspace{1.4em}
+\textit{I confirm that the team members named above did the activity listed above.}
+
+\vspace{0.2em}
+\begin{fields}
+\fieldrow{Name and title (print)}{Email (optional)} \\[1.5em]
+\fieldrow{Signature}{Date} \\
+\end{fields}
+
+\vspace{0.2em}
+\noindent\textcolor{GTGold}{\rule{\textwidth}{1pt}}
+
+\vspace{2.2em}
+\section*{Part 2: Team Leader check-in \cue{\normalsize(due October 30)}}
+
+\begin{multicols}{2}
+\begin{checklist}
+  \item Showed dated photos or video of the work
+  \item Showed interview notes or raw data
+  \item On track with the contract timeline
+  \item All four members attended
+\end{checklist}
+\end{multicols}
+
+\vspace{-0.8em}
+{\bfseries\color{GTNavy}Notes} \cue{(next steps, concerns, absences, changes to the contract)}
+\lines{2}
+
+\vspace{0.3em}
+\textit{I met with this team and confirm its progress as noted.}
+
+\vspace{0.2em}
+\begin{tabularx}{\textwidth}{@{}>{\hsize=1.2\hsize}X@{\hspace{1.5em}}>{\hsize=1.2\hsize}X@{\hspace{1.5em}}>{\hsize=0.6\hsize}X@{}}
+\field{Team Leader (print)} & \field{Signature} & \field{Date} \\
+\end{tabularx}
+
+\vfill
+\cue{\upshape\textbf{Students:} Parts 1 and 2 may be signed in either order. Photograph
+or scan the fully signed form and make it the last slide of your deck, due November 6.}
+
+\end{document}

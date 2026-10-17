@@ -3,8 +3,7 @@ title: "Team Project"
 subtitle: "25% of course grade &middot; 250 points"
 ---
 
-<!-- TODO: add the Canvas assignment links once the course shell exists, and link the
-     one-page Verification Form once it is written (see course-files/). -->
+<!-- TODO: add the Canvas assignment links once the course shell exists. -->
 
 Physics is something people *do*: they build apparatus, take data, argue about what it means, and explain it to others. In this project, your team of four goes out and does some of that first-hand, then teaches the class what you found in a 15-minute presentation.
 
@@ -97,8 +96,12 @@ Every team member has a primary role and **every member presents**. Roles divide
 Because this project is about first-hand experience, your presentation must show it.
 
 1. **Your own photos or video**, dated, of your team doing the work: in the lab or group meeting (Track A) or taking data (Track B). Ask before photographing anyone or anything in a lab.
-2. **A signed Verification Form.** The professor or lab host signs it after your visit (Track A). The Team Leader signs it after watching one of your data-collection sessions (Track B), so schedule that session with the Team Leader in advance. Include a photo or scan of the signed form as the last slide of your deck.
-3. **A check-in with the Team Leader by October 23.** Show your photos, interview notes or raw data, and progress against the contract.
+2. **A signed [Verification Form (PDF)](../course-files/verification-form-latex/gt-1000-team-project-verification-form.pdf).** It has two parts, and either may be signed first:
+    - **Part 1: Activity.** The professor or lab host signs it after your visit (Track A). The Team Leader signs it after watching one of your data-collection sessions (Track B), so schedule that session with the Team Leader in advance.
+    - **Part 2: Check-in.** The Team Leader signs it at your check-in (item 3).
+
+    Print the form and bring it to both. Include a photo or scan of the fully signed form as the last slide of your deck.
+3. **A check-in with the Team Leader by October 30.** Show your photos, interview notes or raw data, and progress against the contract. The Team Leader signs Part 2 of the Verification Form at this check-in.
 
 ::: {.callout-important}
 ## Generative AI
@@ -112,7 +115,7 @@ The use of generative AI is strongly discouraged in this course, and it can't do
 | Oct. 2 | Project kickoff; teams formed. Track A teams start contacting groups. |
 | Oct. 9 | [Team Project Contract](deliverables/team-project-contract.qmd) due |
 | Oct. 12&ndash;30 | Visits and interviews (Track A) or data collection (Track B) |
-| Oct. 23 | Check-in with the Team Leader completed |
+| Oct. 30 | Check-in with the Team Leader completed |
 | Nov. 6 | All slides due; Teams 1&ndash;2 present |
 | Nov. 13 | Teams 3&ndash;4 present |
 
@@ -135,4 +138,5 @@ The use of generative AI is strongly discouraged in this course, and it can't do
 - [Invention Studio](https://inventionstudio.gatech.edu/)
 - [Naugle CommLab](https://commlab.gatech.edu/) (one-on-one help with presentations)
 - [Team Contracts](../supplemental/team-contract.qmd) (what goes in your contract)
+- [Verification Form (PDF)](../course-files/verification-form-latex/gt-1000-team-project-verification-form.pdf) (print it; signed by your host or Team Leader, then by the Team Leader at your check-in)
 - [Peer Feedback](../supplemental/peer-feedback.qmd) (for giving each other useful feedback at rehearsal)
