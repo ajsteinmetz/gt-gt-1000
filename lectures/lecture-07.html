@@ -6,8 +6,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.10.18">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.9.37">
 
   <meta name="author" content="Andrew J. Steinmetz">
   <meta name="dcterms.date" content="2026-10-09">
@@ -21,13 +21,10 @@
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
     */
+    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: 1.5em;}
-    div.column{flex: auto;}
-    @media screen {
-    div.columns{gap: min(4vw, 1.5em);}
-    div.column{overflow-x: auto;}
-    }
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -225,7 +222,7 @@
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
 <div class="quarto-title-author-name">
-Andrew J. Steinmetz
+Andrew J. Steinmetz 
 </div>
 </div>
 </div>
@@ -271,7 +268,7 @@ Andrew J. Steinmetz
 </tbody>
 </table>
 <aside class="notes">
-<p>Team Leader check-ins for the Team Project are also due Oct.&nbsp;23. Remind teams that every member signs the contract before it is submitted tonight.</p>
+<p>Team Leader check-ins for the Team Project are also due Oct.&nbsp;30. Remind teams that every member signs the contract before it is submitted tonight.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -296,11 +293,11 @@ Andrew J. Steinmetz
 </ul>
 </div><div class="column" style="width:48%;">
 <div style="font-size: 1.25em;">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb1-1"><a aria-label="1"></a><span class="kw">\section</span>{Newton's second law}</span>
-<span id="cb1-2"><a aria-label="2"></a>The net force is <span class="ss">$F = ma$</span>, so</span>
-<span id="cb1-3"><a aria-label="3"></a><span class="kw">\begin</span>{<span class="ex">equation</span>}</span>
-<span id="cb1-4"><a aria-label="4"></a><span class="ss">  a = </span><span class="sc">\frac</span><span class="ss">{F}{m}.</span></span>
-<span id="cb1-5"><a aria-label="5"></a><span class="kw">\end</span>{<span class="ex">equation</span>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb1-1"><a></a><span class="kw">\section</span>{Newton's second law}</span>
+<span id="cb1-2"><a></a>The net force is <span class="ss">$F = ma$</span>, so</span>
+<span id="cb1-3"><a></a><span class="kw">\begin</span>{<span class="ex">equation</span>}</span>
+<span id="cb1-4"><a></a><span class="ss">  a = </span><span class="sc">\frac</span><span class="ss">{F}{m}.</span></span>
+<span id="cb1-5"><a></a><span class="kw">\end</span>{<span class="ex">equation</span>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <div style="font-size: 0.7em; border: 1px solid #B3A369; padding: 0.4em 0.9em;">
 <p><strong>1&nbsp;&nbsp;Newton’s second law</strong></p>
@@ -329,20 +326,20 @@ Andrew J. Steinmetz
 <div class="columns">
 <div class="column" style="width:58%;">
 <div style="font-size: 1.15em;">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb2-1"><a aria-label="1"></a><span class="bu">\documentclass</span>[12pt, letterpaper]{<span class="ex">article</span>}</span>
-<span id="cb2-2"><a aria-label="2"></a><span class="bu">\usepackage</span>{<span class="ex">amsmath</span>}   <span class="co">% better math</span></span>
-<span id="cb2-3"><a aria-label="3"></a><span class="bu">\usepackage</span>{<span class="ex">graphicx</span>}  <span class="co">% images</span></span>
-<span id="cb2-4"><a aria-label="4"></a><span class="fu">\title</span>{PHYS 2211, HW 5, Problem 3}</span>
-<span id="cb2-5"><a aria-label="5"></a><span class="fu">\author</span>{Your Name}</span>
-<span id="cb2-6"><a aria-label="6"></a><span class="fu">\date</span>{<span class="fu">\today</span>}</span>
-<span id="cb2-7"><a aria-label="7"></a></span>
-<span id="cb2-8"><a aria-label="8"></a><span class="kw">\begin</span>{<span class="ex">document</span>}</span>
-<span id="cb2-9"><a aria-label="9"></a><span class="fu">\maketitle</span></span>
-<span id="cb2-10"><a aria-label="10"></a><span class="kw">\section</span>{Problem Statement}</span>
-<span id="cb2-11"><a aria-label="11"></a>A ball is launched at speed <span class="ss">$v_0$</span> and</span>
-<span id="cb2-12"><a aria-label="12"></a>angle <span class="ss">$</span><span class="sc">\theta</span><span class="ss">$</span> above level ground.</span>
-<span id="cb2-13"><a aria-label="13"></a>Find its <span class="fu">\textbf</span>{range} <span class="ss">$R$</span>.</span>
-<span id="cb2-14"><a aria-label="14"></a><span class="kw">\end</span>{<span class="ex">document</span>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb2-1"><a></a><span class="bu">\documentclass</span>[12pt, letterpaper]{<span class="ex">article</span>}</span>
+<span id="cb2-2"><a></a><span class="bu">\usepackage</span>{<span class="ex">amsmath</span>}   <span class="co">% better math</span></span>
+<span id="cb2-3"><a></a><span class="bu">\usepackage</span>{<span class="ex">graphicx</span>}  <span class="co">% images</span></span>
+<span id="cb2-4"><a></a><span class="fu">\title</span>{PHYS 2211, HW 5, Problem 3}</span>
+<span id="cb2-5"><a></a><span class="fu">\author</span>{Your Name}</span>
+<span id="cb2-6"><a></a><span class="fu">\date</span>{<span class="fu">\today</span>}</span>
+<span id="cb2-7"><a></a></span>
+<span id="cb2-8"><a></a><span class="kw">\begin</span>{<span class="ex">document</span>}</span>
+<span id="cb2-9"><a></a><span class="fu">\maketitle</span></span>
+<span id="cb2-10"><a></a><span class="kw">\section</span>{Problem Statement}</span>
+<span id="cb2-11"><a></a>A ball is launched at speed <span class="ss">$v_0$</span> and</span>
+<span id="cb2-12"><a></a>angle <span class="ss">$</span><span class="sc">\theta</span><span class="ss">$</span> above level ground.</span>
+<span id="cb2-13"><a></a>Find its <span class="fu">\textbf</span>{range} <span class="ss">$R$</span>.</span>
+<span id="cb2-14"><a></a><span class="kw">\end</span>{<span class="ex">document</span>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </div><div class="column" style="width:42%;">
 <ul>
@@ -399,26 +396,26 @@ Andrew J. Steinmetz
 <p>Before class: build the finished demo project once, download it as a zip, and keep a PDF of it in case the Wi-Fi or Overleaf is down. Have a photo of a hand-drawn trajectory sketch ready to upload (trajectory.png).</p>
 <p>Worked problem (PHYS 2211 style): a ball is launched from level ground with speed v0 at angle theta. Find its range R.</p>
 <p>Step 4, list of given quantities:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb3-1"><a aria-label="1"></a><span class="kw">\begin</span>{<span class="ex">itemize</span>}</span>
-<span id="cb3-2"><a aria-label="2"></a>  <span class="fu">\item</span> <span class="ss">$v_0$</span>: launch speed (m/s)</span>
-<span id="cb3-3"><a aria-label="3"></a>  <span class="fu">\item</span> <span class="ss">$</span><span class="sc">\theta</span><span class="ss">$</span>: launch angle above the horizontal</span>
-<span id="cb3-4"><a aria-label="4"></a>  <span class="fu">\item</span> <span class="ss">$g = 9.8~</span><span class="sc">\text</span>{m/s}<span class="ss">^2$</span>: gravitational acceleration</span>
-<span id="cb3-5"><a aria-label="5"></a><span class="kw">\end</span>{<span class="ex">itemize</span>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb3-1"><a></a><span class="kw">\begin</span>{<span class="ex">itemize</span>}</span>
+<span id="cb3-2"><a></a>  <span class="fu">\item</span> <span class="ss">$v_0$</span>: launch speed (m/s)</span>
+<span id="cb3-3"><a></a>  <span class="fu">\item</span> <span class="ss">$</span><span class="sc">\theta</span><span class="ss">$</span>: launch angle above the horizontal</span>
+<span id="cb3-4"><a></a>  <span class="fu">\item</span> <span class="ss">$g = 9.8~</span><span class="sc">\text</span>{m/s}<span class="ss">^2$</span>: gravitational acceleration</span>
+<span id="cb3-5"><a></a><span class="kw">\end</span>{<span class="ex">itemize</span>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>Step 5, the equation and a reference back to it:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb4-1"><a aria-label="1"></a>The ball lands when <span class="ss">$y = 0$</span>, at <span class="ss">$t = 2 v_0 </span><span class="sc">\sin\theta</span><span class="ss"> / g$</span>.</span>
-<span id="cb4-2"><a aria-label="2"></a>Multiplying by the horizontal speed <span class="ss">$v_0 </span><span class="sc">\cos\theta</span><span class="ss">$</span> gives</span>
-<span id="cb4-3"><a aria-label="3"></a><span class="kw">\begin</span>{<span class="ex">equation</span>}</span>
-<span id="cb4-4"><a aria-label="4"></a><span class="ss">  R = </span><span class="sc">\frac</span><span class="ss">{v_0^2 </span><span class="sc">\sin</span><span class="ss"> 2</span><span class="sc">\theta</span><span class="ss">}{g}.</span></span>
-<span id="cb4-5"><a aria-label="5"></a><span class="ss">  </span><span class="sc">\label</span><span class="ss">{eq:range}</span></span>
-<span id="cb4-6"><a aria-label="6"></a><span class="kw">\end</span>{<span class="ex">equation</span>}</span>
-<span id="cb4-7"><a aria-label="7"></a>Equation~<span class="kw">\eqref</span>{<span class="ex">eq:range</span>} is largest at <span class="ss">$</span><span class="sc">\theta</span><span class="ss"> = 45^</span><span class="sc">\circ</span><span class="ss">$</span>.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb4-1"><a></a>The ball lands when <span class="ss">$y = 0$</span>, at <span class="ss">$t = 2 v_0 </span><span class="sc">\sin\theta</span><span class="ss"> / g$</span>.</span>
+<span id="cb4-2"><a></a>Multiplying by the horizontal speed <span class="ss">$v_0 </span><span class="sc">\cos\theta</span><span class="ss">$</span> gives</span>
+<span id="cb4-3"><a></a><span class="kw">\begin</span>{<span class="ex">equation</span>}</span>
+<span id="cb4-4"><a></a><span class="ss">  R = </span><span class="sc">\frac</span><span class="ss">{v_0^2 </span><span class="sc">\sin</span><span class="ss"> 2</span><span class="sc">\theta</span><span class="ss">}{g}.</span></span>
+<span id="cb4-5"><a></a><span class="ss">  </span><span class="sc">\label</span><span class="ss">{eq:range}</span></span>
+<span id="cb4-6"><a></a><span class="kw">\end</span>{<span class="ex">equation</span>}</span>
+<span id="cb4-7"><a></a>Equation~<span class="kw">\eqref</span>{<span class="ex">eq:range</span>} is largest at <span class="ss">$</span><span class="sc">\theta</span><span class="ss"> = 45^</span><span class="sc">\circ</span><span class="ss">$</span>.</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>Step 6, the figure:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb5-1"><a aria-label="1"></a><span class="kw">\begin</span>{<span class="ex">figure</span>}[h]</span>
-<span id="cb5-2"><a aria-label="2"></a>  <span class="fu">\centering</span></span>
-<span id="cb5-3"><a aria-label="3"></a>  <span class="bu">\includegraphics</span>[width=0.5<span class="fu">\textwidth</span>]{<span class="ex">trajectory.png</span>}</span>
-<span id="cb5-4"><a aria-label="4"></a>  <span class="fu">\caption</span>{Trajectory of the ball.}</span>
-<span id="cb5-5"><a aria-label="5"></a>  <span class="kw">\label</span>{<span class="ex">fig:traj</span>}</span>
-<span id="cb5-6"><a aria-label="6"></a><span class="kw">\end</span>{<span class="ex">figure</span>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb5-1"><a></a><span class="kw">\begin</span>{<span class="ex">figure</span>}[h]</span>
+<span id="cb5-2"><a></a>  <span class="fu">\centering</span></span>
+<span id="cb5-3"><a></a>  <span class="bu">\includegraphics</span>[width=0.5<span class="fu">\textwidth</span>]{<span class="ex">trajectory.png</span>}</span>
+<span id="cb5-4"><a></a>  <span class="fu">\caption</span>{Trajectory of the ball.}</span>
+<span id="cb5-5"><a></a>  <span class="kw">\label</span>{<span class="ex">fig:traj</span>}</span>
+<span id="cb5-6"><a></a><span class="kw">\end</span>{<span class="ex">figure</span>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 <p>Step 7, three breaks: (1) type “100% of the time” in a sentence; there is no error, the rest of the line silently disappears. Fix with a backslash before the percent sign. (2) Type v_0 outside math and show “Missing $ inserted.” (3) Delete a closing brace and show how the log points to the line.</p>
 <p>Interpretation section (say it, maybe type it): units are (m/s)^2 / (m/s^2) = m; R = 0 at theta = 0 and at 90 degrees; v0 = 10 m/s at 45 degrees gives about 10.2 m, which is reasonable for a thrown ball.</p>
 <style type="text/css">
@@ -479,10 +476,10 @@ Andrew J. Steinmetz
 <p><strong>Inline</strong>, inside a sentence: <code>$...$</code></p>
 <p><strong>Displayed and numbered:</strong></p>
 <div style="font-size: 1.1em;">
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb6-1"><a aria-label="1"></a><span class="kw">\begin</span>{<span class="ex">equation</span>}</span>
-<span id="cb6-2"><a aria-label="2"></a><span class="ss">  R = </span><span class="sc">\frac</span><span class="ss">{v_0^2 </span><span class="sc">\sin</span><span class="ss"> 2</span><span class="sc">\theta</span><span class="ss">}{g}</span></span>
-<span id="cb6-3"><a aria-label="3"></a><span class="ss">  </span><span class="sc">\label</span><span class="ss">{eq:range}</span></span>
-<span id="cb6-4"><a aria-label="4"></a><span class="kw">\end</span>{<span class="ex">equation</span>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode numberSource latex number-lines code-with-copy"><code class="sourceCode latex"><span id="cb6-1"><a></a><span class="kw">\begin</span>{<span class="ex">equation</span>}</span>
+<span id="cb6-2"><a></a><span class="ss">  R = </span><span class="sc">\frac</span><span class="ss">{v_0^2 </span><span class="sc">\sin</span><span class="ss"> 2</span><span class="sc">\theta</span><span class="ss">}{g}</span></span>
+<span id="cb6-3"><a></a><span class="ss">  </span><span class="sc">\label</span><span class="ss">{eq:range}</span></span>
+<span id="cb6-4"><a></a><span class="kw">\end</span>{<span class="ex">equation</span>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 <p><strong>Refer back:</strong> <code>Eq.~\eqref{eq:range}</code> gives “Eq. (1)”, and the number updates itself.</p>
 </div></div>
