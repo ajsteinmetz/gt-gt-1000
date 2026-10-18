@@ -109,56 +109,35 @@
     "href": "lectures/lecture-08.html#due-dates",
     "title": "Online Presence",
     "section": "Due dates",
-    "text": "Due dates\n\n\n\nWhat\nWhen\nPoints\n\n\n\n\nHomework in LaTeX — Lastname-Firstname-LaTeX.pdf and .tex\nTonight, Oct. 16, 11:59 PM ET\n50 (5%) · Academic Planning\n\n\nOnline Profile\nOct. 23, 11:59 PM ET\n75 (7.5%) · Career Readiness\n\n\nAdvising Meeting & Spring 2027 Plan\nOct. 30, 11:59 PM ET\n60 (6%) · Academic Planning\n\n\nTeam Project Slides and Presentation\nSlides Nov. 6; talk Nov. 6 or Nov. 13\n100 + 100 (20%) · Team Project\n\n\n\n\nTeam Leader check-ins for the Team Project are also due Oct. 30.\nToday we share the period with the first Physics@Tech talk, so keep this deck to about 15 minutes. Physics@Tech speaker and talk title: TBD. Confirm whether the talk or these slides go first."
-  },
-  {
-    "objectID": "lectures/lecture-08.html#someone-is-going-to-look-you-up",
-    "href": "lectures/lecture-08.html#someone-is-going-to-look-you-up",
-    "title": "Online Presence",
-    "section": "Someone is going to look you up",
-    "text": "Someone is going to look you up\n\n\nWho searches for you?\n\nRecruiters, after you hand them a resume at the career fair\nResearch group leaders, before they reply to your email\nREU, scholarship, and study abroad committees\nYour Team Project teammates\n\n\nTry it now (1 minute)\n\nOpen a private browser window.\nSearch your full name, and your name plus “Georgia Tech.”\nWhat comes up first? Is it what you want a recruiter to see?\n\n\n\nYou can’t stop people from searching. You can decide what they find.\n\n\nTake a couple of reactions. Common results: nothing at all, a high school sports page, someone else with the same name. All of these are fixable, and a complete LinkedIn profile usually lands near the top of a name search. Also worth a minute this week: check the privacy settings on personal accounts (Instagram, TikTok, etc.). Private is fine; it doesn’t need to be professional, it just shouldn’t be the first thing a recruiter finds."
+    "text": "Due dates\n\n\n\nWhat\nWhen\nPoints\n\n\n\n\nHomework in LaTeX — Lastname-Firstname-LaTeX.pdf and .tex\nTonight, Oct. 16, 11:59 PM ET\n50 (5%) · Academic Planning\n\n\nOnline Profile\nOct. 23, 11:59 PM ET\n75 (7.5%) · Career Readiness\n\n\nAdvising Meeting & Spring 2027 Plan\nOct. 30, 11:59 PM ET\n60 (6%) · Academic Planning\n\n\nTeam Project Slides and Presentation\nSlides Nov. 6; talk Nov. 6 or Nov. 13\n100 + 100 (20%) · Team Project\n\n\n\n\nWe share today’s period with the first Physics@Tech talk, so keep this to about 15 minutes. Team Leader check-ins for the Team Project are due Oct. 30."
   },
   {
     "objectID": "lectures/lecture-08.html#building-your-linkedin-profile",
     "href": "lectures/lecture-08.html#building-your-linkedin-profile",
     "title": "Online Presence",
     "section": "Building your LinkedIn profile",
-    "text": "Building your LinkedIn profile\n\n\n\nPhoto: clear, smiling, plain background\nHeadline: who you are, what interests you\nSummary: a short paragraph\nEducation: Georgia Tech and your major\nExperience and skills you actually have\nCustom URL: linkedin.com/in/yourname\n\n\n\nLess effective headline\nStudent at Georgia Institute of Technology\n\n\nMore effective headline\nPhysics first-year at Georgia Tech · Interested in quantum materials · Python, Arduino\n\n\n\nSource: (Georgia Institute of Technology, n.d.)\n\n\nThe headline appears under your name everywhere: search results, comments, connection requests. “Student” tells the reader nothing. If you’re looking for something (a summer internship, an undergraduate research position), say so in the headline. For the photo, a phone camera, a plain wall, and good daylight are enough. The custom URL is under “Edit public profile & URL”; use it on your resume too."
-  },
-  {
-    "objectID": "lectures/lecture-08.html#what-counts-when-youre-a-first-year",
-    "href": "lectures/lecture-08.html#what-counts-when-youre-a-first-year",
-    "title": "Online Presence",
-    "section": "What counts when you’re a first-year",
-    "text": "What counts when you’re a first-year\n\n\n\nHigh school projects you are proud of\nJobs, including ones unrelated to physics\nVolunteering, clubs, and teams\nThis semester’s Team Project\nSkills: Python, LaTeX, lab equipment, CAD\n\n\n\nYou already wrote most of this: start from your resume.\nAdd a sentence or two of context to each entry.\nAttach media: a poster, a photo of a build, a link to code.\n\n\n\nShow, don’t claim. Skip “motivated,” “driven,” and “problem solver”; let what you did say it.\n\n\nNobody expects a first-year to have a long work history. A summer job at a restaurant shows reliability and working with people. Projects and media are evidence you can do the work. The summary can be pieced together from resume bullets rather than written as a long bio."
-  },
-  {
-    "objectID": "lectures/lecture-08.html#beyond-linkedin",
-    "href": "lectures/lecture-08.html#beyond-linkedin",
-    "title": "Online Presence",
-    "section": "Beyond LinkedIn",
-    "text": "Beyond LinkedIn\n\n\n\nPlatform\nGood for\nWhen\n\n\n\n\nGitHub\nCode, data analysis, class and personal projects\nNow, if you write code\n\n\nPersonal website\nA portfolio of projects; GitHub Pages and Quarto are free\nAny time\n\n\nORCID\nA permanent ID that links you to your research\nWhen you join a research group\n\n\nGoogle Scholar\nYour publications and citations\nWhen you publish\n\n\n\n\nAll optional for the assignment, and none are worth extra points. Add them when they help.\n\n\nThis course website is built with Quarto and hosted on GitHub Pages, so that is a working example of a free personal site. ORCID is often requested when you submit an abstract or paper; there is no rush to make one now."
+    "text": "Building your LinkedIn profile\n\n\n\n\nPhoto: clear, smiling, uncluttered background\nHeadline: who you are and what interests you\nSummary: a short paragraph is fine\nEducation: Georgia Tech and your major\nExperience, projects, activities\nSkills you actually have\nCustom URL: linkedin.com/in/yourname\n\n\n\n\nLess effective headline\nStudent at Georgia Institute of Technology\n\n\nMore effective headline\nPhysics first-year at Georgia Tech · Interested in quantum materials · Python, Arduino\n\n\n\nSource: (Georgia Institute of Technology, n.d.)\n\n\nAs first-year students, they are not expected to have a long work history. Strong high school projects, clubs, and volunteering count. The summary can borrow from the resume they submitted in September. Skip buzzwords like “motivated” and “driven”; show those qualities through what they have done. LinkedIn is the focus, but a GitHub profile, personal website, or ORCID iD is a good addition for physics majors."
   },
   {
     "objectID": "lectures/lecture-08.html#connecting-without-being-weird",
     "href": "lectures/lecture-08.html#connecting-without-being-weird",
     "title": "Online Presence",
     "section": "Connecting without being weird",
-    "text": "Connecting without being weird\n\n\n\nPersonalize every invitation: where you met and why you’re connecting.\nConnect within a day of meeting someone: a recruiter, a speaker, an alum.\nJoin groups such as Georgia Tech Alumni.\nPut your profile URL on your resume and in your email signature.\n\n\n\n“Hi Dr. Lee, I’m a first-year Physics major in GT 1000. I enjoyed your Physics@Tech talk today, especially the part on detector calibration. I’d like to keep up with your group’s work.”\n\n\n\nSource: (Georgia Institute of Technology, n.d.)\n\n\nBack to the comic: an invitation with no note reads like spam, and some people decline those. A two-sentence note is enough. Today’s Physics@Tech speaker is a good first connection. Update the example to match the actual speaker and topic, or keep it generic (“Dr. Lee” is made up)."
+    "text": "Connecting without being weird\n\n\n\nPersonalize invitations: where you met and why you’re connecting.\nConnect within a day of meeting someone: a recruiter, a speaker, an alum.\nJoin groups such as Georgia Tech clubs.\nPut your profile URL on your resume.\n\n\n\n“Hi Dr. Lastname, I’m a first-year Physics major in GT 1000. I enjoyed your talk today, especially the part on solar wind.”\n\n\nConnect with people early and often — it’s a “rolodex” of people you know professionally. Who knows when you’ll find a need to message them.\n\n\n\nSource: (Georgia Institute of Technology, n.d.)\n\n\nSwap in today’s speaker’s name and a real detail from the talk. Invitation notes are capped at a few hundred characters, and LinkedIn limits how many personalized invitations free accounts can send each month; re-check the current limits before class. A follow-up email works as well as a LinkedIn request, and a thank-you note after any meeting is never wasted."
   },
   {
     "objectID": "lectures/lecture-08.html#the-online-profile-assignment",
     "href": "lectures/lecture-08.html#the-online-profile-assignment",
     "title": "Online Presence",
     "section": "The Online Profile assignment",
-    "text": "The Online Profile assignment\n\n\nSubmit one PDF to Canvas:\n\nYour LinkedIn profile, saved with Save to PDF\nOptional URLs: website, GitHub, portfolio\n\nNo LinkedIn? Submit the other professional materials instead.\n\nSave to PDF (desktop browser):\n\nMe → View Profile\nMore (or Resources)\nSave to PDF\n\n\n\nOnline Profile: due Oct. 23, 11:59 PM ET · 75 points (7.5%) · Career Readiness\n\n\nSource: (LinkedIn, n.d.)\n\n\nSave to PDF only works for profiles set to English; if it doesn’t work, they should contact me for another way to document the profile. The checklist on the assignment page matches the “Building your LinkedIn profile” slide."
+    "text": "The Online Profile assignment\n\n\nSubmit one PDF to Canvas:\n\nYour LinkedIn profile, saved with Save to PDF\nOptional URLs: website, GitHub, portfolio\n\n\nSave to PDF (desktop browser):\n\nMe → View Profile\nMore (or Resources)\nSave to PDF\n\n\nDon’t want LinkedIn? Submit the other professional materials instead.\n\nOnline Profile: due Oct. 23, 11:59 PM ET · 75 points (7.5%) · Career Readiness\n\n\nSource: (LinkedIn, n.d.)\n\n\nSave to PDF works only for profiles set to English; anyone who cannot use it should contact me for another way to document their profile. The optional URLs are encouraged but earn no extra points."
   },
   {
     "objectID": "lectures/lecture-08.html#references",
     "href": "lectures/lecture-08.html#references",
     "title": "Online Presence",
     "section": "References",
-    "text": "References\n\n\nGeorgia Institute of Technology. n.d. “LinkedIn, Thank You Notes, and More.” In GT 1000 First-Year Seminar Textbook. Georgia Institute of Technology. https://sites.gatech.edu/gt1000-textbook/linkedin-thank-you-notes-and-more/.\n\n\nLinkedIn. n.d. “Save a Profile as a PDF.” Accessed October 16, 2026. https://www.linkedin.com/help/linkedin/answer/a541960."
+    "text": "References\n\n\nGeorgia Institute of Technology. n.d. “LinkedIn, Thank You Notes, and More.” In GT 1000 First-Year Seminar Textbook. Georgia Institute of Technology. https://sites.gatech.edu/gt1000-textbook/linkedin-thank-you-notes-and-more/.\n\n\nLinkedIn. n.d. “Save a Profile as a PDF.” Accessed October 16, 2026. https://www.linkedin.com/help/linkedin/answer/a541960.\n\n\nMunroe, Randall. 2017. “Email Reply.” August 7. https://xkcd.com/1873/."
   },
   {
     "objectID": "lectures/lecture-06.html#due-dates",
