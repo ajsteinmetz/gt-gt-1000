@@ -1,0 +1,129 @@
+---
+title: "Advising and Spring Registration"
+subtitle: "GT 1000 &middot; Lecture 9"
+author: "Andrew J. Steinmetz"
+date: "October 23, 2026"
+format:
+  revealjs:
+    theme: [default, gatech-revealjs.css]
+    slide-number: c/t
+    transition: none
+    footer: "GT 1000 &middot; Fall 2026 &middot; Section D03 &middot; Georgia Institute of Technology"
+    width: 1200
+    height: 750
+    auto-stretch: false
+
+---
+
+## Due dates
+
+| What | When | Points |
+|---|---|---|
+| [Online Profile](../assignments/deliverables/online-profile.qmd) | **Tonight**, Oct. 23, 11:59 PM ET | 75 (7.5%) &middot; Career Readiness |
+| [Advising Meeting & Spring 2027 Plan](../assignments/deliverables/advising-spring-plan.qmd) &mdash; `Lastname-Firstname-Spring-Plan.pdf` | Oct. 30, 11:59 PM ET | 60 (6%) &middot; Academic Planning |
+| [Team Project Slides](../assignments/deliverables/team-project-slides.qmd) and Presentation | Slides Nov. 6; talk Nov. 6 or Nov. 13 | 100 + 100 (20%) &middot; Team Project |
+
+::: {.highlight-box}
+The advising assignment is due **one week from today**. If you have not booked your meeting yet, do it after class.
+:::
+
+::: notes
+We share today's period with a Physics\@Tech talk, so keep this to about 15 minutes.
+Team Leader check-ins for the Team Project are also due Oct. 30.
+The extracurricular part of the advising assignment is now optional.
+:::
+
+---
+
+## Spring 2027 registration: the dates that matter
+
+::: {style="font-size: 0.8em;"}
+| When | What |
+|---|---|
+| Oct. 14 | Spring 2027 Schedule of Classes posted (already live in OSCAR) |
+| **Oct. 29**, by 6:00 PM ET | Phase I **time tickets** post |
+| Oct. 31, 11:59 PM ET | Last day to withdraw from a Fall 2026 course with a W |
+| **Nov. 2 &ndash; Dec. 18** | **Phase I registration** |
+| Jan. 4 &ndash; 15 | Phase II registration (schedule changes) |
+| Jan. 15, 11:59 PM ET | Last day to drop a Spring course without a W |
+:::
+
+::: {.nonincremental style="font-size: 0.8em;"}
+- Your **time ticket** is the earliest moment you can register. 
+- Check it in OSCAR on Oct. 29 and clear any **holds** with your advisor.
+:::
+
+::: {.cite-note}
+Source: [@registrar_calendar]
+:::
+
+::: notes
+Dates from the Registrar's 2026&ndash;27 calendar (last updated October 19, 2026); re-check before
+class. Time tickets are assigned by earned hours, so students with AP or dual-enrollment credit may
+get earlier tickets than classmates. Remind them that a W does not affect GPA but does show on the
+transcript, and that dropping below 12 hours can affect financial aid and scholarships; anyone
+considering a withdrawal should talk to their advisor first. Spring classes start Jan. 11.
+:::
+
+---
+
+## First priority: math and Physics I and II
+
+Every upper-level Physics course waits on these chains. Register for the next course in each chain first, then build the rest of your schedule around them.
+
+:::: {.columns}
+::: {.column width="55%"}
+::: {.nonincremental}
+- **Math:** MATH 1551 &rarr; 1552 &rarr; 2551 &rarr; 2552
+- **Physics I and II:** PHYS 2211 or 2231 &rarr; PHYS 2212 or 2232
+- **Then** the major opens up: PHYS 2213 / 2303 / 2304 &rarr; 3000-level &rarr; 4000-level
+:::
+:::
+::: {.column width="45%"}
+::: {.highlight-box}
+If something has to slip a semester, let it be an elective or a gen-ed, not a foundational course.
+:::
+:::
+::::
+
+These sections fill. Pick a backup section for each one before your time ticket opens.
+
+::: notes
+Callback to Lecture 4 (Building a Degree Plan): QM I needs PHYS 2213 or 2304 plus MATH 2551 and
+2552, so a one-semester slip in calculus or Physics II pushes most of the major back a year.
+Students who placed out of MATH 1551 or PHYS 2211 but felt shaky should raise it with their
+advisor now. Check OSCAR for which spring sections are already near capacity.
+:::
+
+---
+
+## Booking your academic advisor in Navigate360
+
+::: {.nonincremental}
+1. Log in at [gatech.navigate.eab.com](https://gatech.navigate.eab.com/) or the **Navigate360** app (GT login).
+2. Open the **My Team** tab to see your assigned advisor.
+3. Select **Schedule an Appointment**, choose advising, and pick a time.
+:::
+
+**Bring:** your Degree Map, a draft Spring schedule, and your questions.
+
+School of Physics has its own career advisor: Dr. Sven Behrens
+
+::: {.cite-note}
+Source: [@gt_find_advisor; @physics_career]
+:::
+
+::: notes
+Advisor names are from the Center for Academic Success "Find Your Advisor" page; confirm before
+class, since My Team in Navigate360 is the authoritative assignment. A School of Physics faculty
+member also counts for the assignment. If no slots are open before Oct. 30, students should email
+their advisor (clear subject line, full name, major) and document the attempt. Consider having
+everyone open Navigate360 on their phones right now.
+:::
+
+---
+
+## References
+
+::: {#refs}
+:::
